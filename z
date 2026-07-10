@@ -126,6 +126,9 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
+#EXTINF:1 tvg-logo="https://i.postimg.cc/zG232Hbb/Discovery-Life-Polska.png" group-title="🔹Documentary Channels",Discovery Life
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2597
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxfCQxVG/Animal-Planet.png" group-title="🔹Documentary Channels",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
@@ -2377,6 +2380,11 @@ https://stream8.cinerama.uz/1263/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="🔹International Sports" tvg-logo="https://i.postimg.cc/bJtvmp7S/Setanta-Sports-2.png",Setanta Sports 2
 https://fo01-bkm.beetv.kz/bpk-tv/000004499/tve/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJB6zQKf/sport-plus.png" group-title="🔹International Sports",Sport +
+#EXTVLCOPT:http-referrer=https://uztv.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🔹International Sports" tvg-logo="https://i.postimg.cc/nhFS91M4/Okko-Sport.png",Okko Sport
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/manifest.m3u8
 
@@ -2393,6 +2401,12 @@ https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
+
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/jjF9n6Hn/7235.png" group-title="🔹International Sports",Sport Arena KZ
+http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/20061/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/fRXkr5LR/4802.png" group-title="🔹International Sports",Sport Arena KZ
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/11108/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FK3JWb51/Nova-Sports-1.png" group-title="🔹International Sports",Nova Sport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3098,7 +3112,7 @@ https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
 https://river-1.rutube.ru/stream/genetta-315.m9.rutube.ru/Ye56ghNr7sP6JPEfMRH0nw/1781911797/cc1b56aa4955a144f324ad58998513bb/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BbPtppwW/56281545.png" group-title="🔹International Sports",Qaz Sport
-https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/14032/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MH9f3Xzf/Khl-Prime-logo.png" group-title="🔹International Sports",AstraKhan Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
