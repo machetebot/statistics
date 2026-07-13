@@ -1,44 +1,9 @@
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/epg.xml.gz, 
-https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml.gz, 
-https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/clickthecity_epg.xml.gz, 
-https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, 
-https://github.com/zultan-m/astro-epg/raw/main/astro.xml, 
-https://github.com/AqFad2811/epg/raw/main/sooka.xml, 
-https://github.com/AqFad2811/epg/raw/main/unifitv.xml, 
-https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/merged_epg.xml.gz, 
-https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz, 
-https://raw.githubusercontent.com/atone77721/STVP/main/output/samsung_tvplus.xml, 
-https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml, 
-https://iptvx.one/epg/epg.xml.gz, 
-http://epg.one/epg.xml, 
-https://iptvx.one/EPG_NOARCH, 
-https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz, 
-https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz, 
-https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz, 
-https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz, 
-https://www.open-epg.com/files/unitedstates10.xml.gz, 
-https://www.open-epg.com/files/unitedstates11.xml.gz, 
-https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa1.xml.gz, 
-https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa2.xml.gz, 
-https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa3.xml.gz, 
-https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa4.xml.gz, 
-https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa5.xml.gz, 
-https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa6.xml.gz, 
-https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom1.xml.gz, 
-https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom2.xml.gz, 
-https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom3.xml.gz, 
-https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom4.xml.gz, 
-https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom5.xml.gz, 
-https://epg.pw/xmltv/epg_US.xml.gz, 
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/epg.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/clickthecity_epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://github.com/zultan-m/astro-epg/raw/main/astro.xml, https://github.com/AqFad2811/epg/raw/main/sooka.xml, https://github.com/AqFad2811/epg/raw/main/unifitv.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/merged_epg.xml.gz, https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz, https://raw.githubusercontent.com/atone77721/STVP/main/output/samsung_tvplus.xml, https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml, https://iptvx.one/epg/epg.xml.gz, http://epg.one/epg.xml, https://iptvx.one/EPG_NOARCH, https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz, https://www.open-epg.com/files/unitedstates10.xml.gz, https://www.open-epg.com/files/unitedstates11.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa1.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa2.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa3.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa4.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa5.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa6.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom1.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom2.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom3.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom4.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom5.xml.gz, https://epg.pw/xmltv/epg_US.xml.gz, 
 https://epg.pw/xmltv/epg_RU.xml.gz, 
 https://epg.pw/xmltv/epg_PH.xml.gz, 
 https://epg.pw/xmltv/epg_AU.xml.gz, 
 https://epg.pw/xmltv/epg_GB.xml.gz, 
-https://epg.pw/xmltv/epg_JP.xml.gz, 
-https://epg.pw/xmltv/epg_BR.xml.gz, 
-https://tinyurl.com/DrewLive002-epg, 
-https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz, 
-https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz" tvg-shift="+5" refresh="86400"
+https://epg.pw/xmltv/epg_JP.xml.gz, https://epg.pw/xmltv/epg_BR.xml.gz, https://tinyurl.com/DrewLive002-epg, https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz" tvg-shift="+5" refresh="86400"
 
 #EXTINF:-1 tvg-id="peopleareawesome" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="💓 𑜶𐑾ᨡඋৎ",💓 𑜶𐑾ᨡඋৎ
 https://linear-175.frequency.stream/dist/whaletvplus/175/hls/master/playlist.m3u8
@@ -574,7 +539,7 @@ https://9c428b4b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVF
 #EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" group-title="🔹Movie Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 
-#EXTINF:-1 tvg-chno="37.9" tvg-id="MGM+.Marquee.HD.us2" tvg-logo="https://i.postimg.cc/nh2HSy7y/MGM-Marquee-2023-svg.png" tvg-name="MGM+ Marquee" group-title=🔹Movie Channels", MGM+ Marquee
+#EXTINF:-1 tvg-chno="37.9" tvg-id="MGM+.Marquee.HD.us2" tvg-logo="https://i.postimg.cc/nh2HSy7y/MGM-Marquee-2023-svg.png" tvg-name="MGM+ Marquee" group-title="🔹Movie Channels", MGM+ Marquee
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2f2032b4cae944a0adf5ce111a2ff693":"2b4a2855b0abde035714985be6db4bd0"}
@@ -2297,6 +2262,11 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
 #EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-logo="https://raw.githubusercontent.com/machetebot/zmaxxx/refs/heads/main/Main/BMMA.png" group-title="🔹International Sports",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CBD6BRzV/RMCSport.png" group-title="🔹International Sports",RMC Sport
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=119/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://xameleon.phantemlis.top/three/secure/ea67a59d1d55ec15dade71f6116a6abd/1783946370/premium119/index.m3u8
+
 #EXTINF:-1 tvg-id="wwe0100foxsportspremium" tvg-logo="https://i.postimg.cc/xC1Y981t/Budo-Sento-Champ.png" group-title="🔹International Sports",Budo Sento Championship
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
@@ -2416,9 +2386,9 @@ https://stream8.cinerama.uz/1263/tracks-v2a1/mono.m3u8
 https://fo01-bkm.beetv.kz/bpk-tv/000004499/tve/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJB6zQKf/sport-plus.png" group-title="🔹International Sports",Sport +
-#EXTVLCOPT:http-referrer=https://uztv.online/
+#EXTVLCOPT:http-referrer=https://beetv.kz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+https://edge02-alm.beetv.kz/bpk-token/4an@kvljhn4wof3ujnulp0sltxso02k3k0jtklfmhqaa/bpk-tv/000008731/tve/000008731-audio_82882_rus=82400-video=1297600.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🔹International Sports" tvg-logo="https://i.postimg.cc/nhFS91M4/Okko-Sport.png",Okko Sport
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/manifest.m3u8
