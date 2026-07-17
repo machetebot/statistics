@@ -2246,7 +2246,9 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VkNJPsTC/30RCC.png" group-title="🔹International Sports",Russian Cagefighting Championship
-https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://smotrim.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://smotrim.org/000007802.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🔹International Sports" tvg-logo="https://i.postimg.cc/Kzjr520B/ufc.png",Ultimate Fighting Championship
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
