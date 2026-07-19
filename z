@@ -2253,20 +2253,20 @@ http://smotrim.org/000007802.m3u8
 #EXTINF:-1 tvg-id="" group-title="🔹International Sports" tvg-logo="https://i.postimg.cc/Kzjr520B/ufc.png",Ultimate Fighting Championship
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8CQdz5cv/Fighter.png" group-title="🔹International Sports",Fighter
-#EXTVLCOPT:http-referrer=https://stream.mcquack.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://stream.mcquack.net/112/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/q77ysFrW/XFCTV.png" group-title="🔹International Sports",Xtreme Fighting Championship
 #EXTVLCOPT:http-referrer=https://cdniptvpotok.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2351
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8CQdz5cv/Fighter.png" group-title="🔹International Sports",Fighter
+#EXTVLCOPT:http-referrer=https://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://stream.mcquack.net/112/index.m3u8
+
 #EXTINF:-1 tvg-id="BKFC.us" tvg-logo="https://i.postimg.cc/Jh3WzK5b/Bk-FC.png" group-title="🔹International Sports",Bare Knuckle Fighting Championship
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
 
-#EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-logo="https://raw.githubusercontent.com/machetebot/zmaxxx/refs/heads/main/Main/BMMA.png" group-title="🔹International Sports",Bellator MMA
+#EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-logo="https://i.postimg.cc/8cRB2fLy/Bellato-RMMA.png" group-title="🔹International Sports",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CBD6BRzV/RMCSport.png" group-title="🔹International Sports",RMC Sport
@@ -2274,7 +2274,7 @@ https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://xameleon.phantemlis.top/three/secure/ea67a59d1d55ec15dade71f6116a6abd/1783946370/premium119/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsX9hYbC/Box-TV.png" group-title="🔹International Sports",BOX TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsX9hYbC/Box-TV.png" group-title="🔹International Sports",Box
 #EXTVLCOPT:http-referrer=https://vits.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://vits.tv/tv/proxy.php?id=boxtv
