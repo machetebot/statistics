@@ -2253,6 +2253,11 @@ http://smotrim.org/000007802.m3u8
 #EXTINF:-1 tvg-id="" group-title="🔹International Sports" tvg-logo="https://i.postimg.cc/Kzjr520B/ufc.png",Ultimate Fighting Championship
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8CQdz5cv/Fighter.png" group-title="🔹International Sports",Fighter
+#EXTVLCOPT:http-referrer=https://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://stream.mcquack.net/112/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/q77ysFrW/XFCTV.png" group-title="🔹International Sports",Xtreme Fighting Championship
 #EXTVLCOPT:http-referrer=https://cdniptvpotok.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -2268,6 +2273,11 @@ https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=119/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://xameleon.phantemlis.top/three/secure/ea67a59d1d55ec15dade71f6116a6abd/1783946370/premium119/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsX9hYbC/Box-TV.png" group-title="🔹International Sports",BOX TV
+#EXTVLCOPT:http-referrer=https://vits.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://vits.tv/tv/proxy.php?id=boxtv
 
 #EXTINF:-1 tvg-id="wwe0100foxsportspremium" tvg-logo="https://i.postimg.cc/xC1Y981t/Budo-Sento-Champ.png" group-title="🔹International Sports",Budo Sento Championship
 #KODIPROP:inputstream.adaptive.license_type=clearkey
