@@ -2349,6 +2349,9 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.postimg.cc/qBKhHdBb/WWEtv.png" group-title="🔹International Sports",Wrestling TV
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/11056/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="🔹International Sports" tvg-logo="https://i.postimg.cc/Qxnjsgvk/1TV.png",1TV Sports
+https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VvVZPTN2/eurosport-1-uk.png" group-title="🔹International Sports",Eurosport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
