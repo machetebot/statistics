@@ -3109,12 +3109,12 @@ https://stream8.cinerama.uz/1004/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5CNd0mh/Africa-24-Sport.png" group-title="🔹International Sports",Africa 24 Sport
 #EXTVLCOPT:http-referrer=https://limex.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://helga.iptv2022.com/sh/Africa24_Sport/tracks-v1a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4
+https://uae.iptv2022.com/Africa24_Sport/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0LyMR3G/BMSport.png" group-title="🔹International Sports",BM Sport
 #EXTVLCOPT:http-referrer=https://limex.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://helga.iptv2022.com/sh/B_sport/tracks-v1a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4
+https://uae.iptv2022.com/B_sport/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn1NjW4W/All-S.png" group-title="🔹International Sports",AllSports
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
