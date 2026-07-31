@@ -1,56 +1,61 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, 
-    https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, 
-    https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, 
-    https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, 
-    https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, 
-    https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
-    https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/epg.xml.gz
-    https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml.gz, 
-    https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/clickthecity_epg.xml.gz, 
-    https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, 
-    https://github.com/zultan-m/astro-epg/raw/main/astro.xml, 
-    https://github.com/AqFad2811/epg/raw/main/sooka.xml, 
-    https://github.com/AqFad2811/epg/raw/main/unifitv.xml, 
-    https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/merged_epg.xml.gz,
-    https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz,
-    https://raw.githubusercontent.com/atone77721/STVP/main/output/samsung_tvplus.xml,
-    https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml, 
-    https://iptvx.one/epg/epg.xml.gz, 
-    http://epg.one/epg.xml, 
-    https://iptvx.one/EPG_NOARCH, 
-    https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz, 
-    https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz, 
-    https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz, 
-    https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz,
-    https://www.open-epg.com/files/unitedstates10.xml.gz, 
-    https://www.open-epg.com/files/unitedstates11.xml.gz, 
-    https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa1.xml.gz,
-    https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa2.xml.gz,
-    https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa3.xml.gz, 
-    https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa4.xml.gz, 
-    https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa5.xml.gz, 
-    https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa6.xml.gz
-    https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom1.xml.gz, 
-    https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom2.xml.gz, 
-    https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom3.xml.gz, 
-    https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom4.xml.gz, 
-    https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom5.xml.gz, 
-    https://epg.pw/xmltv/epg_US.xml.gz, 
-    https://epg.pw/xmltv/epg_PH.xml.gz, 
-    https://epg.pw/xmltv/epg_AU.xml.gz, 
-    https://epg.pw/xmltv/epg_GB.xml.gz, 
-    https://epg.pw/xmltv/epg_JP.xml.gz, 
-    https://epg.pw/xmltv/epg_BR.xml.gz, 
-    https://tinyurl.com/DrewLive002-epg, 
-    https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz, 
-    https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz" tvg-shift="+5" refresh="86400"
-
+https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/epg.xml.gz
+https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml.gz, 
+https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/clickthecity_epg.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, 
+https://github.com/zultan-m/astro-epg/raw/main/astro.xml, 
+https://github.com/AqFad2811/epg/raw/main/sooka.xml, https://github.com/AqFad2811/epg/raw/main/unifitv.xml, 
+https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/merged_epg.xml.gz,
+https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz,
+https://raw.githubusercontent.com/atone77721/STVP/main/output/samsung_tvplus.xml,
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml, 
+https://iptvx.one/epg/epg.xml.gz, 
+http://epg.one/epg.xml, 
+https://iptvx.one/EPG_NOARCH, 
+https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz, 
+https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz, 
+https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz, 
+https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz,
+https://www.open-epg.com/files/unitedstates10.xml.gz, 
+https://www.open-epg.com/files/unitedstates11.xml.gz, 
+https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa1.xml.gz,
+https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa2.xml.gz,
+https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa3.xml.gz, 
+https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa4.xml.gz, 
+https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa5.xml.gz, 
+https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa6.xml.gz
+https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom1.xml.gz, 
+https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom2.xml.gz, 
+https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom3.xml.gz, 
+https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom4.xml.gz, 
+https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom5.xml.gz,
+https://epg.pw/xmltv/epg_US.xml.gz,
+https://epg.pw/xmltv/epg_PH.xml.gz,
+https://epg.pw/xmltv/epg_AU.xml.gz,
+https://epg.pw/xmltv/epg_GB.xml.gz,
+https://epg.pw/xmltv/epg_JP.xml.gz,
+https://epg.pw/xmltv/epg_BR.xml.gz,
+https://tinyurl.com/DrewLive002-epg,
+https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz,
+https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz" tvg-shift="+5" refresh="86400"
 
 #EXTINF:-1 tvg-id="peopleareawesome" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𒀹𐍐հ⃯ᨡ֟፝͝𐑾꫶⃮ࠋꜟৎ𒑠,🔸𒀹𐍐հ⃯ᨡ֟፝͝𐑾꫶⃮ࠋꜟৎ𒑠
 https://linear-175.frequency.stream/dist/whaletvplus/175/hls/master/playlist.m3u8
 
-**********Cignal-TV**********
-#EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
+#EXTINF:-1 tvg-id="cgnl_nba" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/3327FF64-3E52-42DE-B516-4629BFABA8C7/0-16x9.jpg?width=1980" group-title="🔹Cignal",NBA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
+https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
+
+#EXTINF:-1 tvg-id="cg_pbarush_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7650-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",PBA Rush HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="bilyonaryoch" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=1980" group-title="🔹Cignal",Bilyonaryoch
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -142,11 +147,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/globaltrekker/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f2a7d6318c544b099e216d5f3a7c8042:1abff1626a5403fa2ea8964c2f3b9c1d
 https://ucdn.mediaquest.com.ph/bpk-tv/cgtn/default/index.mpd
 
-#EXTINF:-1 tvg-id="cgnl_nba" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/3327FF64-3E52-42DE-B516-4629BFABA8C7/0-16x9.jpg?width=1980" group-title="🔹Cignal",NBA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
-https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
-
 #EXTINF:-1 tvg-id="tv5vibetv" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/726AB804-66DE-4684-A455-ABD1683114CF/0-16x9.jpg?width=1980" group-title="🔹Cignal",Vibe TV - TV5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
@@ -236,11 +236,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83e5c4917d624b00a2196f3c8a5e2047:d8fae6a24d5df3fa8e17a8f4a4854426
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_cctv4/default/index.mpd
-
-#EXTINF:-1 tvg-id="cg_pbarush_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7650-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",PBA Rush HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="arirang_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7754-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Arirang
 #KODIPROP:inputstream.adaptive.license_type=clearkey
