@@ -1056,18 +1056,18 @@ http://136.239.159.20:6610/001/2/ch00000090990000001208/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png" ch-number="219" group-title="🔹SkyTV",BS10
 http://136.239.173.10:6610/001/2/ch00000090990000001202/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAo5DOWlb1sl%2Btaq5YYAtO9QsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001421&contentid=ch00000000000000001421&videoid=ch00000090990000001202&recommendtype=0&userid=1215773067669&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RX498RVAIHMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446220260101155239280448&ispcode=55
 
-#EXTINF:-1 tvg-id="The.Filipino.Channel.sg" tvg-name="The Filipino Channel" tvg-logo="https://pql-static.abs-cbn.com/images/live/TFCEMEA_LIVETHUMB_600X600_V1.jpg" ch-number="" group-title="iWantTV",The Filipino Channel Asia Pacific Europe and Middle East
+#EXTINF:-1 tvg-id="The.Filipino.Channel.sg" tvg-name="The Filipino Channel" tvg-logo="https://pql-static.abs-cbn.com/images/live/TFCEMEA_LIVETHUMB_600X600_V1.jpg" ch-number="" group-title="🔹iWantTV",The Filipino Channel Asia Pacific Europe and Middle East
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (X11; CrOS x86_64 16700.46.0) (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 ##https://live-faws.akamaized.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
 
-#EXTINF:-1 tvg-id="[TFC].The.Filipino.Channel.HD.us2" tvg-name="[TFC] - The Filipino Channel HD" tvg-logo="https://pql-static.abs-cbn.com/images/live/TFC-NA_LIVETHUMB_600X600_V1.jpg" ch-number="352" group-title="iWantTV",TFC North America
+#EXTINF:-1 tvg-id="[TFC].The.Filipino.Channel.HD.us2" tvg-name="[TFC] - The Filipino Channel HD" tvg-logo="https://pql-static.abs-cbn.com/images/live/TFC-NA_LIVETHUMB_600X600_V1.jpg" ch-number="352" group-title="🔹iWantTV",TFC North America
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:c27dc8263779ee9d555aa07598357db4
 #https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcna-dash-abscbnono/9e970d68-0a9c-4bfb-88c6-db84da7bae9a/index.mpd
 
-#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.HD.ph" tvg-name="KAPAMILYA CHANNEL" tvg-logo="https://pql-static.abs-cbn.com/images/channel/KAPCHAN_LIVETHUMB_600X600_V2_20260303020648.jpg" ch-number="353" group-title="iWantTV",Kapamilya Channel
+#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.HD.ph" tvg-name="KAPAMILYA CHANNEL" tvg-logo="https://pql-static.abs-cbn.com/images/channel/KAPCHAN_LIVETHUMB_600X600_V2_20260303020648.jpg" ch-number="353" group-title="🔹iWantTV",Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd
@@ -1075,70 +1075,788 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6d6e536f8fa4d8b93627af0128cf00d:e73c8dcfdea374ae576ced342f6c73a2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pql-static.abs-cbn.com/images/live/ANCGBL_LIVETHUMB_600X600_V1.jpg" ch-number="354" group-title="iWantTV",ANC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pql-static.abs-cbn.com/images/live/ANCGBL_LIVETHUMB_600X600_V1.jpg" ch-number="354" group-title="🔹iWantTV",ANC
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (X11; CrOS x86_64 16700.46.0) (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd?
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pql-static.abs-cbn.com/images/live/ANCGBL_LIVETHUMB_600X600_V1.jpg" ch-number="355" group-title="iWantTV",ANC Global
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pql-static.abs-cbn.com/images/live/ANCGBL_LIVETHUMB_600X600_V1.jpg" ch-number="355" group-title="🔹iWantTV",ANC Global
 https://iptv.akamaized.net/hls/live/2040999/anc/master.m3u8?
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
-#EXTINF:-1 tvg-id="DZMM.TELERADYO.ph" tvg-name="DZMM TELERADYO" tvg-logo="https://pql-static.abs-cbn.com/images/live/TELERADYO_LIVETHUMB_600x600_v1.jpg" ch-number="356" group-title="iWantTV",DZMM Teleradyo
+#EXTINF:-1 tvg-id="DZMM.TELERADYO.ph" tvg-name="DZMM TELERADYO" tvg-logo="https://pql-static.abs-cbn.com/images/live/TELERADYO_LIVETHUMB_600x600_v1.jpg" ch-number="356" group-title="🔹iWantTV",DZMM Teleradyo
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/7626d876-3144-48d9-be0e-c20571bc811a/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
-#EXTINF:-1 tvg-id="Jeepney.TV.ph" tvg-name="Jeepney TV" tvg-logo="https://pql-static.abs-cbn.com/images/channel/JEEPNEYTV_LIVETHUMB_600X600_V1_20250723085930.jpg" ch-number="357" group-title="iWantTV",Jeepney TV
+#EXTINF:-1 tvg-id="Jeepney.TV.ph" tvg-name="Jeepney TV" tvg-logo="https://pql-static.abs-cbn.com/images/channel/JEEPNEYTV_LIVETHUMB_600X600_V1_20250723085930.jpg" ch-number="357" group-title="🔹iWantTV",Jeepney TV
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (X11; CrOS x86_64 16700.46.0) (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd?
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55eddd1e157e4c3b830866e4679e7032:525030e984567ba8df0af80660952368
-#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://pql-static.abs-cbn.com/images/live/C1_LIVETHUMB_600X600_V1.jpg" ch-number="364" group-title="iWantTV",Cinema One PH
+#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://pql-static.abs-cbn.com/images/live/C1_LIVETHUMB_600X600_V1.jpg" ch-number="364" group-title="🔹iWantTV",Cinema One PH
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (X11; CrOS x86_64 16700.46.0) (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 https://abslive.akamaized.net/dash/live/2027618/c1ph/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:f06b6031a3604cc6708c14d83f1a1b27
-#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-name="CINEMO!" tvg-logo="https://pql-static.abs-cbn.com/images/live/CINEMO_LIVETHUMB_600x600_v1.jpg" ch-number="365" group-title="iWantTV",Cinemo
+#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-name="CINEMO!" tvg-logo="https://pql-static.abs-cbn.com/images/live/CINEMO_LIVETHUMB_600x600_v1.jpg" ch-number="365" group-title="🔹iWantTV",Cinemo
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1f88dd3b254514bf7a113188c10dc2:ea86da60f0116f3b92a86acf45b8e071
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pql-static.abs-cbn.com/images/channel/KC_LIVETHUMB_600X600_V2_20251202132551.jpg" ch-number="358" group-title="iWantTV",Knowledge Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pql-static.abs-cbn.com/images/channel/KC_LIVETHUMB_600X600_V2_20251202132551.jpg" ch-number="358" group-title="🔹iWantTV",Knowledge Channel
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (X11; CrOS x86_64 16700.46.0) (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 https://abslive.akamaized.net/dash/live/2027618/kc/manifest.mpd
 
-#EXTINF:-1 tvg-id="MYX.Channel.us2" tvg-name="MYX Channel" tvg-logo="https://pql-static.abs-cbn.com/images/live/MYX_LIVETHUMB_600x600_v1.jpg" ch-number="359" group-title="iWantTV",MYX Channel
+#EXTINF:-1 tvg-id="MYX.Channel.us2" tvg-name="MYX Channel" tvg-logo="https://pql-static.abs-cbn.com/images/live/MYX_LIVETHUMB_600x600_v1.jpg" ch-number="359" group-title="🔹iWantTV",MYX Channel
 https://iptv.akamaized.net/hls/live/2040999/myx/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e5905e0a87641798a200510f01ae5ca:814310518395440d57c67f2ef70ea250
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pql-static.abs-cbn.com/images/live/MOR_LIVETHUMB_600x600_v1.jpg" ch-number="360" group-title="iWantTV",MOR Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pql-static.abs-cbn.com/images/live/MOR_LIVETHUMB_600x600_v1.jpg" ch-number="360" group-title="🔹iWantTV",MOR Entertainment
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (X11; CrOS x86_64 16700.46.0) (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 https://abslive.akamaized.net/dash/live/2027618/mor/manifest.mpd?
 
-#EXTINF:-1 tvg-id="GMA.Pinoy.TV..sg" tvg-name="GMA Pinoy TV" tvg-logo="https://pql-static.abs-cbn.com/images/live/GMAPTVNA_LIVETHUMB_600X600_V1.jpg" ch-number="361" group-title="iWantTV",GMA Pinoy TV Asia Pacific
+#EXTINF:-1 tvg-id="GMA.Pinoy.TV..sg" tvg-name="GMA Pinoy TV" tvg-logo="https://pql-static.abs-cbn.com/images/live/GMAPTVNA_LIVETHUMB_600X600_V1.jpg" ch-number="361" group-title="🔹iWantTV",GMA Pinoy TV Asia Pacific
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b5d15a7385546768aca9fd505ad5e16:f534393c84c1a9c17fa36bc3a4380981
 https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
 
-#EXTINF:-1 tvg-id="GMA.Life.TV.ca" tvg-name="GMA Life TV" tvg-logo="https://pql-static.abs-cbn.com/images/live/GMALTV_LIVETHUMB_600X600_V1.jpg" ch-number="362" group-title="iWantTV",GMA Life TV
+#EXTINF:-1 tvg-id="GMA.Life.TV.ca" tvg-name="GMA Life TV" tvg-logo="https://pql-static.abs-cbn.com/images/live/GMALTV_LIVETHUMB_600X600_V1.jpg" ch-number="362" group-title="🔹iWantTV",GMA Life TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d308ef487f54107b7da758e195ecbd3:9d4004d4c065dd4b85ad5bd12c35386f
 https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
 
-#EXTINF:-1 tvg-id="GMA.News.ca" tvg-name="GMA News" tvg-logo="https://pql-static.abs-cbn.com/images/live/GMANTV_LIVETHUMB_600X600_V1.jpg" ch-number="363" group-title="iWantTV",GMA News TV
+#EXTINF:-1 tvg-id="GMA.News.ca" tvg-name="GMA News" tvg-logo="https://pql-static.abs-cbn.com/images/live/GMANTV_LIVETHUMB_600X600_V1.jpg" ch-number="363" group-title="🔹iWantTV",GMA News TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5d848730e4a4f9b962290039dd2b96b:c959dc12f1bff5a66d030117fb7e9855
 https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pql-static.abs-cbn.com/images/master/euro_square_png_20260305025829.png" tvg-name="" ch-number="" group-title="iWantTV" group-logo="https://i.imgur.com/ObgJcL3.png",Euronews
+#EXTINF:-1 tvg-id="" tvg-logo="https://pql-static.abs-cbn.com/images/master/euro_square_png_20260305025829.png" tvg-name="" ch-number="" group-title="🔹iWantTV" group-logo="https://i.imgur.com/ObgJcL3.png",Euronews
 https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd
 
-#EXTINF:-1 tvg-id="Cna.ph" tvg-name="Cna" tvg-logo="https://i.imgur.com/8Xv9pQs.png" ch-number="" group-title="iWantTV", Channel News Asia
+#EXTINF:-1 tvg-id="Cna.ph" tvg-name="Cna" tvg-logo="https://i.imgur.com/8Xv9pQs.png" ch-number="" group-title="🔹iWantTV", Channel News Asia
 https://dai4s4shjeg0o.cloudfront.net/iWantTVPh82ba2069c285/9c5127dd7652483785dece590f60b299/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a3iXI35.png" codec="auto" video-track="1" ch-number="401" group-title="🔹RageTV",Rage Music TV
+#EXTVLCOPT:http-referrer=https://gia.tv/
+https://live20.bozztv.com/giatv/giatv-ragemusictv/ragemusictv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3hxkumP.png" codec="auto" video-track="1" ch-number="402" group-title="🔹RageTV",RageTV
+#EXTVLCOPT:http-referrer=https://gia.tv/
+https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JGqBRuz.png" codec="auto" video-track="1" ch-number="403" group-title="🔹RageTV",SineManila
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 16700.46.0)
+#EXTVLCOPT:http-referrer=https://gia.tv/
+https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KvIfrOM.png" codec="auto" video-track="1" ch-number="404" group-title="🔹RageTV",BIHM TV
+#EXTVLCOPT:http-referrer=https://gia.tv/
+https://live20.bozztv.com/giatv/giatv-bihmtv/bihmtv/playlist.m3u8
+
+#https://live20.bozztv.com/giatv/giatv-bihmtv/bihmtv/playlist.m3u8
+
+https://live21.bozztv.com/akamaissh101/ssh101/bihm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0FLu8iV.png" codec="auto" video-track="1" ch-number="405" group-title="🔹RageTV",animeX
+#EXTVLCOPT:http-referrer=https://gia.tv/
+https://live20.bozztv.com/giatv/giatv-animex/animex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EPR8oKZ.png" codec="auto" video-track="1" ch-number="" group-title="🔹RageTV",Cartoon Channel PH
+#EXTVLCOPT:http-referrer=https://gia.tv/
+https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tapsilog" tvg-name="" tvg-logo="https://tapdmv.com/content/images/size/w1600/2025/10/sinengtagalog-art-1.jpg" codec="auto" ch-number="" group-title="🔹RageTV",TAP Silog
+#http://tvnijuan.net:25461/live/rictms/rictms/1392.ts
+
+#EXTINF:-1 tvg-id="Just.For.Laughs.Gags.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/1280px-Just_For_Laughs_Gags.png" codec="auto" ch-number="" group-title="🔹RageTV",Just for Laughs Gags
+https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2024/11/28100102-dybl0a9csymbuvod.png" group-title="🔹RageTV", COMIC U
+http://136.239.240.67:8081/tap/program1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="studiouniversal" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2024/11/28095948-t3juppy69xl64pap.png" group-title="🔹RageTV", Studio Universal
+http://136.239.240.67:8081/tap/program2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eCKB5p4.jpeg" group-title="🔹RageTV", EDGE SPORTS
+http://136.239.240.67:8081/tap/program3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="blastmovies" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/02/26103244-32nscymlhkhrxqir.png" group-title="🔹RageTV", BLAST MOVIES
+http://136.239.240.67:8081/tap/program4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tapdmv.com/content/images/2024/10/28.webp" group-title="🔹RageTV", REAL BLAST
+http://136.239.240.67:8081/tap/program5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PohxwSp.png" group-title="🔹RageTV", Fight+
+http://136.239.240.67:8081/tap/program6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tapsilog" tvg-logo="https://tapdmv.com/content/images/2025/10/sinengtagalog-art-1.jpg" group-title="🔹RageTV", TAPSILOG
+rtmp://210.4.112.99:1935/tapdmv/TVN_movies
+
+#EXTINF:-1 tvg-logo="https://tapdmv.com/content/images/2024/11/image.png" group-title="🔹RageTV", BLAST SPORTS
+rtmp://210.4.112.99:1935/tapdmv/blastSports
+
+#EXTINF:4 tvg-id="8001B317.0000000000074F18.0062" provider="RageTV" codec="vnd.apple.mpegurl" tvg-logo="https://i.imgur.com/2L3JzLv.png" provider-logo="" provider-type="iptv" ch-number="406" group-title="🔹RageTV",Heart Of Asia
+http://tvnijuan.net:25461/live/rictms/rictms/449.ts
+
+#EXTINF:5 tvg-id="8001B317.0000000000074F18.0065" provider="ZTest" codec="vnd.apple.mpegurl" tvg-logo="https://i.imgur.com/fDhBrB4.png" provider-logo="" provider-type="iptv" ch-number="407" group-title="🔹RageTV",I Heart Movies
+http://tvnijuan.net:25461/live/rictms/rictms/449.ts
+
+#EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/PH900002CT_20260528T035022SQUARE.png&h=250" group-title="🔹RageTV",Abante TV (1080p) (Comclark Feed)
+https://streams.comclark.com/transcodesd/abante/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/PH9000038L_20250604T010153SQUARE.png&h=250" tvg-id="BilyonaryoNewsChannel.ph" group-title="🔹RageTV",Bilyonaryo News Channel (1080p) (Comclark Feed)
+https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://filamtv.us/wp-content/uploads/2021/10/logo.png" tvg-id="FilAmTVNetwork.us@HD" group-title="🔹RageTV",FilAmTV Network (Comclark Feed)
+https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/IBC.png" tvg-id="IBC13.ph@SD" group-title="🔹RageTV",IBC 13 (480p) [Not 24/7] (Comclark Feed)
+https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fapwp.s3.amazonaws.com/wp-content/uploads/2023/08/24181120/LAC-icon-1.png" tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel (Comclark Feed)
+https://streams.comclark.com/pknsd/lac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ml02dtnc01wc.i.optimole.com/w:945/h:945/q:mauto/ig:avif/https://mindanownetwork.com/wp-content/uploads/2024/11/Mindanow-Network-Logo-Vertical.png" tvg-id="MindanowNetworkTV.ph@SD" group-title="🔹RageTV",Mindanow Network TV (Comclark Feed)
+https://streams.comclark.com/overlay/mindanow/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/ptv-4.png" tvg-id="PTV.ph@SD" group-title="🔹RageTV",PTV 4 (480p) [Not 24/7] (Comclark Feed)
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vegaslifetv.us/assets/images/vltv-wm-white-logo-131x131.png" tvg-id="VegasLifeTV.us@HD" group-title="🔹RageTV",Vegas Life TV (Comclark Feed)
+https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cignal-web-assets-2.b-cdn.net/images/16%20ALLTV%20LOGO%20black.png" tvg-id="tvg-id="AllTV.ph@SD" group-title="🔹RageTV",All TV (Comclark Feed)
+https://streams.comclark.com/pknsd/alltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cignal-web-assets-2.b-cdn.net/images/05%20TV5.png" tvg-id="TV5.us@HD" group-title="🔹RageTV",TV5 (Comclark Feed)
+https://streams.comclark.com/pknsd/tv5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RPTV.ph" tvg-logo="https://cignal-web-assets-2.b-cdn.net/images/9%20RPTV_Primary%20Logo.png" tvg-id="RPTV.us@HD" group-title="🔹RageTV",RPTV (Comclark Feed)
+https://streams.comclark.com/pknsd/rptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cignal-web-assets-2.b-cdn.net/images/20%20A2Z%20Channel.png" tvg-id="A2Z.us@HD" group-title="🔹RageTV",A2Z (Comclark Feed)
+https://streams.comclark.com/pknsd/a2z/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cignal-web-assets-2.b-cdn.net/images/11%20GTV.png" tvg-id="GTV.us@HD" group-title="🔹RageTV",GTV (Comclark Feed)
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cignal-web-assets-2.b-cdn.net/images/ANC%20(1).png" tvg-id="ANC.us@HD" group-title="🔹RageTV",ANC (Comclark Feed)
+https://streams.comclark.com/pknsd/anc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cignal-web-assets-2.b-cdn.net/images/jeepney-tv-logo.jpg" tvg-id="JeepneyTV.us@HD" group-title="🔹RageTV",Jeepney TV (Comclark Feed)
+https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cignal-web-assets-2.b-cdn.net/images/Cinemo.jpg" tvg-id="Cinemo.us@HD" group-title="🔹RageTV",Cinemo (Comclark Feed)
+https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BwpDGqZ.jpeg" ch-number="" group-title="🔹RageTV",InvestigateTV+
+https://live-streaming-mcdn.api.graylive.quickplay.com/wvue-xos1-input-4/wvue-xos1-input-4.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.courttv.com/wp-content/themes/courttv/assets/images/Court-tv-logo.png" ch-number="" group-title="🔹RageTV",CourtTV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://whiplash.cc/assets/img/channels/whiplash.png" group-title="🔹RageTV",Whiplash
+https://cdn.whiplash.cc/whiplash/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://whiplash.cc/assets/img/channels/whiplash2.png" group-title="🔹RageTV",Whiplash II
+https://cdn.whiplash.cc/whiplash-2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://whiplash.cc/assets/img/channels/whiplashcinema.png" group-title="🔹RageTV",Whiplash Cinema
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://whiplash.cc/assets/img/channels/windowtv.png" group-title="🔹RageTV",Window TV
+https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://whiplash.cc/assets/img/channels/atlas.png" group-title="🔹RageTV",Atlas
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qebpvCg.png" ch-number="415" group-title="🔹RageTV",Studio Choom
+https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arirang.Radio.kr" tvg-name="Arirang Radio" tvg-logo="https://m.arirang.com/static/media/arirang_radio_app_icon.a48e2dad.png" ch-number="416" group-title="🔹RageTV",Arirang Radio
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DEF JAM" tvg-logo="https://i.ibb.co/Bq0jhwL/def-jam.png" ch-number="418" group-title="🔹RageTV",DEF JAM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d1t9jj3kgy7bur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m84lyt8jpwc3r/gigs.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sNEywhD.jpeg" ch-number="419" group-title="🔹RageTV",StreetzTV
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_1q68na3t5jy8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mmo.aiircdn.com/151/6294ab034c977.png" ch-number="420" group-title="🔹RageTV",Q Radio Live
+https://cdn-ap-northeast-prod-ingest-infra-dacast-com.akamaized.net/f687cd7f-7aff-478e-9dd9-4f07b6aaa142/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/66e1987f36e4944240bc5ab8/6701637328a69477c92c2652_Wish-Logo.svg" ch-number="421" group-title="🔹RageTV",Wish 107.5
+#EXTVLCOPT:http-origin=https://www.wish1075.com
+#EXTVLCOPT:http-referrer=https://www.wish1075.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://radio.wish1075.com/web/stream/wish.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radio.dpgmedia.net/1/f0/e3/da/19/qmusic.png" ch-number="422" group-title="🔹RageTV",Q Music
+https://stream.qmusic.nl/qmusic/videohls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mlotgijtlucd.i.optimole.com/w:500/h:500/q:75/rt:fill/g:ce/https://oxys.group/app/oxygen_music_logo_vignetta_2eqnxqmk.png" ch-number="" group-title="🔹RageTV",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lamusica.com/lamusica-white.svg" ch-number="" group-title="🔹RageTV",LAMUSICA TV
+https://mdstrm.com/live-stream-playlist/68095ebc9fc6db67addb78c1.m3u8
+
+#EXTINF:-1 tvg-id="UK:.CLUBBING.TV.en" tvg-name="CLUBBING TV" tvg-logo="https://i.imgur.com/6LtZbzd.png" ch-number="423" group-title="🔹RageTV",CLUBBING TV
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" group-title="🔹RageTV",BestOf DanceTV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png" group-title="🔹RageTV",Deep House District
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png" group-title="🔹RageTV",Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/th-logo-NspqmEDEOC62mNyeOHpMvusQt8prpj.png" group-title="🔹RageTV",Tech House Terrace
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png" group-title="🔹RageTV",House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202024-10-02%20at%2003.26.40-wBY3tcf4ACTGW9V9Y9HMGenqYJlLQZ.jpeg" group-title="🔹RageTV",MiNiMaL
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/mainstage-logo-4vQjTuvQ3qTEzPDIILUAu2MOiYdXnA.png" group-title="🔹RageTV",Mainstream EDM
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/caf-logo-Tu9IdzvKf3xoe8MzK0JiUYgwKCcqGw.png" group-title="🔹RageTV",Chill AF Downtempo
+https://mbit1.worldcast.tv:9443/dancetelevisioneight/multibit.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/melodictech-logo-4qEP8ja1IadeN5Hr5F7a5o1wVB3txU.jpg" group-title="🔹RageTV",Melodic Tech
+https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.foxnews.com/radio.foxnews.com/content/uploads/2023/03/FNC_RADIO_LOGO_LINEAR_RGB_HEX.png" ch-number="424" group-title="🔹RageTV",Fox News Radio
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gpm.nasa.gov/sites/default/files/document_files/NASA-Logo-Large.png" ch-number="2025" group-title="🔹RageTV",NASA TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa873c6ac39e116ab20341d339af270f:fb5163a9fa6d925835ae1cb783251ce4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gd3yn1plwn/out/v1/4ef8edf327374d2cb016bc42f4ae7cc5/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.corusent.com/wp-content/uploads/2024/11/Home_thumbnail.jpg" ch-number="" group-title="🔹RageTV",Home Network Canada
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a038d04b7d0dd22c82ea624723b0b8e:3240f2e23952c853d4eda4f0675ee13d
+https://live.corusdigitaldev.com/groupd/live/fa24b652-0688-4813-b6d8-bb25998cacb1/corus-home.isml/.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_TheRepairShop_1920x1080.png" ch-number="430" group-title="🔹RageTV",The Repair Shop
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d943e68db2c7ee7dbdc1427882f0c4a5:22a2ba11e57ec7a33c70ebf2a4020165
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqduom3o3v/out/v1/437e2e3871974736be8ab4bc902d8dd4/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="ROMEDY.NOW.in" tvg-name="ROMEDY NOW" ch-number="431" group-title="🔹RageTV" tvg-logo="https://i.imgur.com/JoCcj8l.png",ROMEDY NOW
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="MN+.HD.in"" ch-number="432" group-title="🔹RageTV" tvg-logo="https://i.imgur.com/Js4a2sO.png",MN+
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="MNX.HD.in" tvg-name="MNX HD" ch-number="433" group-title="🔹RageTV" tvg-logo="https://i.imgur.com/Yk9f6K8.png",MNX HD
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="MOVIES.NOW.HD.in" tvg-name="MOVIES NOW HD" ch-number="434" group-title="🔹RageTV" tvg-logo="https://i.imgur.com/AXRljQU.png",MOVIES NOW HD
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="Showcase.Canada.HD.ca2" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/Showcase-New.png" group-title="🔹RageTV",Showcase (Canada)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c99d8404fee24f907870cbf212924967:03591856cc3dd05a1e297de8ecd422f8
+https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml/.mpd
+
+#EXTINF:-1 tvg-id="W.Network.HD.ca2" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/WNetwork-New.png" group-title="🔹RageTV",W Network (Canada)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c7ece0bc4b1cdbe78497cb85e4c268e:e7f77a1b82fb8ea8c06e2aa886c521ca
+https://live.corusdigitaldev.com/groupd/live/8cace0db-7887-4cb3-988d-58594cda4697/corus-wnetwork.isml/.mpd
+
+#EXTINF:-1 tvg-id="History.ca2" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/History-New.png" group-title="🔹RageTV",HISTORY (Canada)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
+https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
+
+#EXTINF:-1 tvg-id="Cable.Pulse.24.(CP24).HD.ca2" tvg-logo="https://i.imgur.com/8ITw7u7.png" ch-number="436" group-title="🔹RageTV",CP24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-news.video.9c9media.com/f/news/cp24/manifest.mpd
+
+#EXTINF:-1 tvg-id="BNN.Bloomberg.HD.ca2 " ch-number="437" group-title="🔹RageTV" tvg-logo="https://i.imgur.com/EFqoH6H.png",BNN Bloomberg
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-news.video.9c9media.com/f/news/bnnbloomberg/manifest.mpd
+
+#EXTINF:-1 tvg-id="CTV.News.Channel.HD.ca2" tvg-name="CTV News Channel" tvg-logo="https://bellmediainc-bnn-bloomberg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Farc-goldfish-bellmediainc-thumbnails.s3.amazonaws.com%2F06-08-2026%2Ft_405cf78c36df4ca0b635c1be8f3c37e8_name_nch_scaled.jpg?auth=0aafddea4eb8a0446e7e555157297aefd8412a0c0528ffe6ce26e2dd2091fd73&width=960&height=540&smart=true&quality=80" ch-number="438" group-title="🔹RageTV",CTV News Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-de.video.9c9media.com/d/dls/newsdigictv1003/manifest.mpd
+
+#EXTINF:-1 tvg-id="CTV.Calgary.ca2" tvg-name="CTV Calgary" tvg-logo="https://bellmediainc-bnn-bloomberg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Farc-goldfish-bellmediainc-thumbnails.s3.amazonaws.com%2F04-06-2026%2Ft_fa59ba881e09469fb434214baff681dc_name_YM_LOCAL_Generic_1920x1080_Calgary.jpg?auth=b223280720a47984814d26abec255de7e7a0a038aec243cb019f34f54643d246&width=960&height=540&smart=true&quality=80" ch-number="438" group-title="🔹RageTV",CTV News Channel Calgary
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-de.video.9c9media.com/d/dls/newsdigictv0905/manifest.mpd
+
+#EXTINF:-1 tvg-id="CTV.News.Channel.HD.ca2" tvg-name="CTV News Channel" tvg-logo="https://bellmediainc-bnn-bloomberg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Farc-goldfish-bellmediainc-thumbnails.s3.amazonaws.com%2F06-12-2026%2Ft_3e6054b90b2d4701ae179bd8f4951b26_name_live_1.jpg?auth=fbcf31b74228b064523ab82f74386817d66762d69da6d523b7355b185c017f02&width=640&height=360&smart=true&quality=80" ch-number="438" group-title="🔹RageTV",CTV News Channel 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-de.video.9c9media.com/d/dls/newsdigictv0901/manifest.mpd
+
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-name="CTV News Channel" tvg-logo="https://bellmediainc-bnn-bloomberg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Farc-goldfish-bellmediainc-thumbnails.s3.amazonaws.com%2F05-22-2026%2Ft_05045d50e0604ad29ce9bcd2a6af8eb7_name_live_2.jpg?auth=14159561c0a96d1e320b82fe4b12d984aeaa95b369adf55604d31bec90b519fd&width=640&height=360&smart=true&quality=80" ch-number="439" group-title="🔹RageTV",CTV News Channel 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-de.video.9c9media.com/d/dls/newsdigictv1001/manifest.mpd
+
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-name="CTV News Channel" tvg-logo="https://bellmediainc-bnn-bloomberg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Farc-goldfish-bellmediainc-thumbnails.s3.amazonaws.com%2F06-09-2026%2Ft_c0a8c72f3eda4b729f4f5774231354b0_name_live_3.jpg?auth=55980281ad10d1f03e5053e1d56ec3fddfb1b24c9e69b9919e3d9d8f01c13aac&width=640&height=360&smart=true&quality=80" ch-number="440" group-title="🔹RageTV",CTV News Channel 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-de.video.9c9media.com/d/dls/newsdigictv0902/manifest.mpd
+
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-name="CTV News Channel" tvg-logo="https://bellmediainc-bnn-bloomberg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Farc-goldfish-bellmediainc-thumbnails.s3.amazonaws.com%2F06-12-2026%2Ft_b36f8365dfa94ddcbed85e9e2989fe75_name_live_4.jpg?auth=7c797729d6623cc081d2791bce0eecad4f0b1d7382390c076479ed2e0ae4d57f&width=640&height=360&smart=true&quality=80" ch-number="441" group-title="🔹RageTV",CTV News Channel 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-de.video.9c9media.com/d/dls/newsdigictv1002/manifest.mpd
+
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-name="CTV News Channel" tvg-logo="https://bellmediainc-bnn-bloomberg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Farc-goldfish-bellmediainc-thumbnails.s3.amazonaws.com%2F06-10-2026%2Ft_4df51674cc1248cc97d563ee1cba4d12_name_live_5.jpg?auth=a543a2edb78e628404e22a30a467866e718cc900856c253e82e45ca86f738b0d&width=640&height=360&smart=true&quality=80" ch-number="442" group-title="🔹RageTV",CTV News Channel 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-de.video.9c9media.com/d/dls/newsdigictv0903/manifest.mpd
+
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-name="CTV News Channel" tvg-logo="https://bellmediainc-bnn-bloomberg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Farc-goldfish-bellmediainc-thumbnails.s3.amazonaws.com%2F04-02-2026%2Ft_542d284dd7eb41a19749ab2ce8b26f49_name_image__3_.jpg?auth=8e4158bd874ccaae89616dd482bf3167a0f796606c1feda01ebe1838b194d5a2&width=476&height=265&smart=true&quality=80" ch-number="443" group-title="🔹RageTV",CTV News Channel 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-de.video.9c9media.com/d/dls/newsdigictv1003/manifest.mpd
+
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-name="CTV News Channel" tvg-logo="https://bellmediainc-bnn-bloomberg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Farc-goldfish-bellmediainc-thumbnails.s3.amazonaws.com%2F04-02-2026%2Ft_542d284dd7eb41a19749ab2ce8b26f49_name_image__3_.jpg?auth=8e4158bd874ccaae89616dd482bf3167a0f796606c1feda01ebe1838b194d5a2&width=476&height=265&smart=true&quality=80" ch-number="444" group-title="🔹RageTV",CTV News Channel 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-de.video.9c9media.com/d/dls/newsdigictv0904/manifest.mpd
+
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-name="CTV News Channel" tvg-logo="https://bellmediainc-bnn-bloomberg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Farc-goldfish-bellmediainc-thumbnails.s3.amazonaws.com%2F04-02-2026%2Ft_542d284dd7eb41a19749ab2ce8b26f49_name_image__3_.jpg?auth=8e4158bd874ccaae89616dd482bf3167a0f796606c1feda01ebe1838b194d5a2&width=476&height=265&smart=true&quality=80" ch-number="445" group-title="🔹RageTV",CTV News Channel 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-de.video.9c9media.com/d/dls/newsdigictv1004/manifest.mpd
+
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-name="CTV News Channel" tvg-logo="https://bellmediainc-bnn-bloomberg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Farc-goldfish-bellmediainc-thumbnails.s3.amazonaws.com%2F04-02-2026%2Ft_542d284dd7eb41a19749ab2ce8b26f49_name_image__3_.jpg?auth=8e4158bd874ccaae89616dd482bf3167a0f796606c1feda01ebe1838b194d5a2&width=476&height=265&smart=true&quality=80" ch-number="446" group-title="🔹RageTV",CTV News Channel 9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-de.video.9c9media.com/d/dls/newsdigictv0905/manifest.mpd
+
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-name="CTV News Channel" tvg-logo="https://bellmediainc-bnn-bloomberg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Farc-goldfish-bellmediainc-thumbnails.s3.amazonaws.com%2F04-02-2026%2Ft_542d284dd7eb41a19749ab2ce8b26f49_name_image__3_.jpg?auth=8e4158bd874ccaae89616dd482bf3167a0f796606c1feda01ebe1838b194d5a2&width=476&height=265&smart=true&quality=80" ch-number="447" group-title="🔹RageTV",CTV News Channel 10
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine
+https://live-de.video.9c9media.com/d/dls/newsdigictv1005/manifest.mpd
+
+#EXTINF:-1 tvg-id="Citytv.Toronto.HD.ca2" tvg-logo="https://i.imgur.com/zoeBxBt.png" group-title="🔹RageTV",CityTV Toronto
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:acfa6946a0db1bc9117c239a4e46ce20
+https://ubb-lott4-web-opus.cdn.avp.telus.net/232006004235/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
+#EXTINF:-1 tvg-id="Citytv.Edmonton.ca2" tvg-logo="https://i.imgur.com/zoeBxBt.png" group-title="🔹RageTV",CityTV Edmonton
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:ff86380313078be949e4dcb6199adce3
+https://ubb-lott-web-opus.cdn.avp.telus.net/232006003198/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
+#EXTINF:-1 tvg-id="Citytv.Calgary.HD.ca2" tvg-logo="https://i.imgur.com/zoeBxBt.png" group-title="🔹RageTV",CityTV Calagry
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:5ef2662855c29a824880ba1ed5084bbc
+https://ubb-lott-web-opus.cdn.avp.telus.net/232006003196/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
+#EXTINF:-1 tvg-id="Citytv.Montreal.HD.ca2" tvg-logo="https://i.imgur.com/zoeBxBt.png" group-title="🔹RageTV",CityTV Montreal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:aa40ae64381108a45d53feb40e078f7a
+https://ubb-lott3-web-opus.cdn.avp.telus.net/232006134230/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
+#EXTINF:-1 tvg-id="FX.HD.ca2" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/channels/color/fx_color.png" group-title="🔹RageTV",FX Canada
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:43c851db92519761855ee888d342b003
+https://lott5-web-opus.cdn.avp.telus.net/232006004229/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
+#EXTINF:-1 tvg-id="Golf.Channel.HD.ca2" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2026/01/Golf-channel-logo.jpg.jpeg" group-title="🔹RageTV",Golf Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:3f9a6a4b15d8e0eba9f6733ce7c066e5
+https://lott-web-opus.cdn.avp.telus.net/232006003169/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
+#EXTINF:-1 tvg-id="CBC.Vancouver.HD.ca2" tvg-logo="https://i.imgur.com/qi2bW13.png" group-title="🔹RageTV",CBC Vancouver
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:304b4b40562a218d9da1fed4cae59759
+https://lott5-web-opus.cdn.avp.telus.net/232006004186/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/2339705/K2_COMMUNICATIONS__EarthDay_365__logo.jpg?w=200" group-title="🔹RageTV",Earthday 365
+https://lotus.stingray.com/manifest/earthday-earth001-montreal/mybundletv/113ed8b2-fab5-3be0-ac1a-86570190d3ea/5711200/manifest.m3u8
+
+#EXTINF:-1 tvg-id="OUTDOOR.CHANNEL.HD.ph" tvg-name="Outdoor Channel " tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Outdoor-Channel-Thumbnail.png" ch-number="466" group-title="🔹RageTV",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fapwp.s3.amazonaws.com/wp-content/uploads/2023/08/24181120/LAC-icon-1.png" ch-number="468" group-title="🔹RageTV",Living Asia Channel
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vegasvegasplus.us/
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fapwp.s3.amazonaws.com/wp-content/uploads/2023/08/24180614/vltv-icon.png" ch-number="469" group-title="🔹RageTV",Vegas Life TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vegasvegasplus.us/
+https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fapwp.s3.amazonaws.com/wp-content/uploads/2023/08/24180537/filamtv-icon.png" ch-number="470" group-title="🔹RageTV",FilAm TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vegasvegasplus.us/
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vegasplus.us/Holaa_files/pacific_island.png" ch-number="471" group-title="🔹RageTV",Pacific Island Network
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vegasvegasplus.us/
+https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fapwp.s3.amazonaws.com/wp-content/uploads/2023/08/24181109/lachtv-icon.png" ch-number="472" group-title="🔹RageTV",Latino Channel TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vegasvegasplus.us/
+http://cdn.vegasplus.us/vegas/latch/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fapwp.s3.amazonaws.com/wp-content/uploads/2023/08/24181043/actv-icon.png" ch-number="473" group-title="🔹RageTV",ACTV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vegasvegasplus.us/
+http://cdn.vegasplus.us/vegas/actv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vegasplus.us/Holaa_files/minda.png" ch-number="474" group-title="🔹RageTV",MindaNOW Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mindanownetwork.com/
+https://streams.comclark.com/overlay/mindanow/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Y80Xg16.jpeg" ch-number="475" group-title="🔹RageTV",Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Wellbeing.ph" tvg-name="Wellbeing " tvg-logo="https://wellbeingmag.tv/wp-content/uploads/2021/06/WellBeingMagTv.png" ch-number="476" group-title="🔹RageTV",Wellbeing TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.ph" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/moonbugkids.png" tvg-name="Moonbug Kids" ch-number="478" group-title="🔹RageTV",Moonbug Kids HD
+https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms-media.clink.services/Disney-Default-Black_2x_jn7he4.png" ch-number="" group-title="🔹RageTV",Disney Channel
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms-media.clink.services/Mobile_ree4ih.png" ch-number="" group-title="🔹RageTV",Disney Jr
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d41d2ae9b0d875ba12e97c5a3f3eec82:3a443892e1ad1158c6fd2bf9c9146eb6
+https://aca-live1-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iyadtv.pages.dev/images/disney_xd_81.png" ch-number="" group-title="🔹RageTV",Disney XD
+#https://conv.iyad.space/move1/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png" ch-number="480" group-title="🔹RageTV",Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
+#EXTINF:-1 tvg-id="Treehouse.ca" tvg-name="Treehouse" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/treehouse.png" ch-number="481" group-title="🔹RageTV",Treehouse
+https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
+
+#EXTINF:-1 ch-number="482" group-title="🔹RageTV" tvg-id="YTV.(Youth.Television).-.East.ca" tvg-logo="https://i.imgur.com/tDtET6q.png" ,YTV Youth Television
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
+https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
+
+#EXTINF:-1 tvg-id="ZOO.MOO.ph" tvg-logo="https://i.imgur.com/bzFirZz.png" ch-number="483" group-title="🔹RageTV",ZOO MOO
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+#https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pokemonblog.com/wp-content/uploads/2020/06/cropped-two_pikachu_pokemon_logo.png" ch-number="484" group-title="🔹RageTV",Pokemon 24/7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85e598202aee21dd2be766740845cc66:82024f1667c874473f40bd895485b2a4
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/apmgpfkqtp/out/v1/bc7a58fc207e4b3f9ac862bd798521a3/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jClW8Ip.png" ch-number="487" group-title="🔹RageTV" tvg-id="ãdül† Swim", ãdül† Swim
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:9739a3252d6862add482841c1445fee0
+https://lott-web-opus.cdn.avp.telus.net/232006004039/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
+#EXTINF:-1 tvg-id="plex.tv.ANIME.x.HIDIVE.plex" tvg-name="ANIME x HIDIVE" ch-number="491" group-title="🔹RageTV" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F934f0bac-7f0a-4612-8269-c3a8ef0daca9%2FHXA_AboutImage_1920x1080_Opt2_Bill_Watts.jpg",ANIME x HIDIVE
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" ch-number="" group-title="🔹RageTV" tvg-logo="https://iyadtv.pages.dev/images/crunchyroll_66.png",Crunchyroll
+https://a3c4ecbd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3J1bmNoeXJvbGxfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" ch-number="" group-title="🔹RageTV" tvg-logo="https://retroblast.tv/logo",RetroBlast
+https://retroblast.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" ch-number="" group-title="🔹RageTV" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg",Placid
+https://toy.vcdn.fyi/placid/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://edition.cnn.com/wbdotp/consent/3d9a6f21-8e47-43f8-8d58-d86150f3e92b/0195f3ba-6603-7128-a578-04165ae93e2f/logos/9651e1f6-c35b-4377-be7f-5a0c93f0ecb8/fd2c628a-153d-49d4-b7b4-92a834c64b28/507420f5-a79f-4038-baea-bb890032307c/CNN_logo.png" ch-number="494" group-title="🔹RageTV",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+
+#https://d3508xo7u38fy2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j79jq28qz6knd/index.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.LiveNOW.from.FOX.plex" tvg-name="LiveNOW from FOX" tvg-logo="https://images.fubo.tv/station_logos/fox_LiveNOW_m.png" ch-number="495" group-title="🔹RageTV",LiveNOW from FOX
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CNBC_TV18_2025.svg/250px-CNBC_TV18_2025.svg.png" ch-number="497" group-title="🔹RageTV",CNBC TV-18
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
+
+#EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1024px-ABC_News_logo_2021.svg.png" ch-number="498" group-title="🔹RageTV",ABC News Live
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/330px-Scripps_News_logo.svg.png" ch-number="499" group-title="🔹RageTV",Scripps News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.CBS.News.plex" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/1024px-CBS_News_247_logo.svg.png" ch-number="500" group-title="🔹RageTV",CBS News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
+
+#EXTINF:-1 tvg-id="NBC.NEWS.NOW.us" ch-number="501" group-title="🔹RageTV" tvg-logo="https://img.nbc.com/files/2024-01/nbc-news-now_white_stacked.png",NBC News NOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52e6281b1d3c364c872497e8058977b1:11d6e9a2abb2e241804148713531f64d
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(nnn)/master.mpd?audio=all&subtitle=all&forcedNarrative=true
+
+#EXTINF:-1 ch-number="502" group-title="🔹RageTV" tvg-logo="https://img.nbc.com/files/2024-11/nbcsportsnow_white_logo-425x300.png",NBC Sports NOW
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00459011b26524a673b0ced54cef0a8b:b31ded0e8a4cad5a36b6be06dae76f28
+https://d9404832237845108dcd85ecf7887363.mediatailor.us-west-2.amazonaws.com/v1/dash/7f34bf1814de6fddce84b1e6c296b7a70243b88f/oneapp-atp-dash-linear-4s-generic/Content/CMAF_OL2-CTR-4s/Live/channel(nbcsportspeacock)/master.mpd?audio=all&subtitle=all&forcedNarrative=true&aws.sessionId=01868f81-e622-48d8-85d9-d2288f270f94
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045028c984fbbefcdae89b4338c4729:b08f10f5089048d11adb741080e00141
+#EXTINF:-1 ch-number="505" group-title="🔹RageTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1280px-Sky_News_logo.svg.png",Sky News
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(skynews)/master.mpd?audio=all&subtitle=all&forcedNarrative=true
+
+#EXTINF:-1 ch-number="506" group-title="🔹RageTV" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/F358A202-36D3-44EE-A4B8-E0D08CE958A7/3-1x1.png",Noticias Telemundo Ahora
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=004570d712d5141808ae40a1426cc028:2fb17ffe1065d883af708ae8949fb926
+https://cors-proxy.cooks.fyi/https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(nota)/master.mpd
+
+#EXTINF:-1 tvg-id="CNBC.ph" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/1006px-CNBC_2023.svg.png" ch-number="507" group-title="🔹RageTV",CNBC Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2351831e4519c8a7204669b56d276258:c01f5966265cfb1fce0ec0ad9a317913
+https://ac-009.live.p7s1video.net/d2e237d7/t_009/cnbc/cenc-default.mpd
+
+#EXTINF:-1 tvg-id="601.unifi" tvg-name="BBC News" tvg-logo="https://get.perfecttv.net/logo/bbcnews.png" ch-number="508" group-title="🔹RageTV",BBC News
+https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" ch-number="509" group-title="🔹RageTV",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-name="Globa (CIII-DT-41) Toronto" ch-number="510" group-title="🔹RageTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1280px-Global_News.svg.png",Global News National
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+
+#EXTINF:-1 tvg-id="Cna.ph" tvg-name="Cna" tvg-logo="https://cms.cignal.tv/Upload/Images/CNA%20LOGO%20-horizontal%20-%20on%20light%20background.png" ch-number="511" group-title="🔹RageTV", Channel news Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-name="Russia Today" tvg-id="Russia.Today.HD.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" ch-number="512" group-title="🔹RageTV",RT International
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Russia Today" tvg-id="Russia.Today.HD.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" ch-number="513" group-title="🔹RageTV",RT Documentary
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRT.World.uk" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/1024px-TRT_World.svg.png" ch-number="514" group-title="🔹RageTV",TRT World
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.ph" tvg-name="Aljazeera" tvg-logo="https://cms.cignal.tv/Upload/Images/AL-JAZEERA.png" ch-number="515" group-title="🔹RageTV", Al Jazeera
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://i.imgur.com/NbJRcVi.jpeg" ch-number="" group-title="🔹RageTV", Al Arabiya English
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="DEUTSCHEWELLE.ph" tvg-name="DEUTSCHEWELLE" tvg-logo="https://cms.cignal.tv/Upload/Images/Deutsche-Welle.jpg" ch-number="516" group-title="🔹RageTV", DW DEUTSCHEWELLE
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="EURONEWS.ph" tvg-name="EURONEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png" ch-number="517" group-title="🔹RageTV",  EURONEWS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="https://static.euronews.com/articles/359840/1024x538_359840.jpg" ch-number="517" group-title="🔹RageTV",  Africa News
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+
+#https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WION.HD.uk" tvg-name="WION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/1532px-WION_news_Logo.svg.png" ch-number="518" group-title="🔹RageTV",WION
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+
+#EXTINF:-1 tvg-id="CGTN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/87f1d571/242b_r32.jpg" ch-number="519" group-title="🔹RageTV",CGTN
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+
+
+#EXTINF:-1 ch-number="520" group-title="🔹RageTV" tvg-id="" tvg-logo="https://i.imgur.com/wASxMtn.png",Reuters
+https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8?ads.xumo_channelId=99951197
+
+#EXTINF:-1 tvg-id="News.X.World.in" tvg-logo="https://newsx-prod.s3.ap-south-1.amazonaws.com/wp-content/uploads/2025/08/04174249/News-X-no-bg-3-1.png" ch-number="" group-title="🔹RageTV",News X World
+https://newsxott.in/hls/newsxworld.m3u8
+
+#EXTINF:-1 tvg-id="News.9.in" tvg-logo="https://i.imgur.com/lil24DD.png" ch-number="521" group-title="🔹RageTV",News9
+https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24.ph" tvg-name="France24" tvg-logo="https://cms.cignal.tv/Upload/Images/France-24.png" ch-number="522" group-title="🔹RageTV",France24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="Freedom.lt" tvg-name="Freedom" tvg-logo="https://i.imgur.com/VSZRW9R.png" ch-number="524" group-title="🔹RageTV",Freedom
+https://freedom.cdn-02.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://india.mom-gmr.org/uploads/tx_lfrogmom/media/16536-1592_import.png" ch-number="560" group-title="🔹RageTV",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 tvg-id="i24.ph" tvg-name="i24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/774px-Press_TV_logo.svg.png" ch-number="525" group-title="🔹RageTV",PressTV
+https://live.presstv.ir/hls/presstv.m3u8
+
+#EXTINF:-1 tvg-id="TVP.World.pl" tvg-name="TVP World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVP_World_%282021%29.svg/1024px-TVP_World_%282021%29.svg.png" ch-number="526" group-title="🔹RageTV",TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OAN.(KFLA-LD9).Los.Angeles  ch-number="469",.CA.us" tvg-name="OAN (KFLA-LD9)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82542_h15_ab.png" ch-number="421" group-title="🔹RageTV",One America News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.AsianCrush.plex" tvg-name="AsianCrush" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png?imwidth=640" ch-number="527" group-title="🔹RageTV", AsianCrush
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8?app_bundle=https://www.asiancrush.com&app_name=asiancrush&app_store_url=&url=https://www.asiancrush.com&genre=Documentary,Independent,Sci-Fi%20&%20Fantasy,Kids%20&%20Family,Drama,Romance,Comedy,Action%20&%20Adventure,Sports&ic=&us_privacy=1YNN&gdpr=0&gdpr_consent=0&did=vir_webe2f1f1c449b2b43d72e1a991a25f2666&dnt=1&coppa=0
+
+#EXTINF:-1 tvg-id="plex.tv.NEW.K.MOVIES.plex" tvg-name="NEW K MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/K_Movies_Pinoy_logo.png" ch-number="528" group-title="🔹RageTV", NEW K MOVIES
+https://d142avk5g3brgu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-14jx63ma70xji/d82b0c63-1339-4218-bb50-bea47a2309cd/2.m3u8
+
+#EXTINF:-1 tvg-id="Nhk.Japan.ph" tvg-name="Nhk Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/240px-NHK_World.svg.png" ch-number="529" group-title="🔹RageTV",  NHK World Japan 
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_1644_IVP_LAND_288x162.jpg" ch-number="530" group-title="🔹RageTV",CCTV4
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
+
+#EXTINF:-1 tvg-id="plex.tv.MagellanTV.NOW.plex" tvg-name="MagellanTV NOW" tvg-logo="https://i.pcmag.com/imagery/reviews/0027IgrK9DvawXNJ6LYCEN9-1.fit_scale.size_760x427.v1612813562.png" ch-number="531" group-title="🔹RageTV",  MagellanTV NOW
+https://d38zwu2qgo0ado.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ud4yxs1nuiyc5/Magellan_TV_Now_CA.m3u8?ads.device_did=%7BPSID
+
+#EXTINF:-1 tvg-logo="https://www.e-net.sk/wp-content/uploads/2022/09/MTV-90s-Logo_Colour_WhiteLetter-1-1361x1536.png" ch-number="538" group-title="🔹RageTV" ,MTV 90s
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+
+#EXTINF:-1 tvg-id="717.astro" tvg-logo="https://i.imgur.com/YMAqnUN.png" ch-number="539" group-title="🔹RageTV",MTV Live
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+
+#EXTINF:-1 tv-id="TRACE.UK.distro" tvg-name="Trace UK distro" tvg-logo="https://i.imgur.com/inKLYI5.png" ch-number="541" group-title="🔹RageTV",Trace UK
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/6655b878-f320-467c-b91d-153baf27a101/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OSet4en.png" tvg-id="" tvg-name="" ch-number="542" group-title="🔹RageTV",Plous TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/15a1e682-1f3c-4017-b026-270c73bb0622-profile_banner-480.png" tvg-id="" type="adult" tvg-name="" ch-number="543" group-title="🔹RageTV",Kaloopy
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/cfc42268-dee1-4007-b4cd-b003bb252710/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/1024px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" tvg-id="" tvg-name="" ch-number="544" group-title="🔹RageTV", EWTN Asia-Pacific
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hope.Channel.ph" tvg-logo="https://i.imgur.com/gsU2sjh.png" ch-number="546" group-title="🔹RageTV",Hope Channel Philippines
+https://cdn-kr-icn.b-cdn.net/hcorg_ROeXKL3HV6a/s/jsl_7A1swL7Fhlh/master.m3u8
+
+#EXTINF:-1 tvg-id="NOW.70s.uk" tvg-name="NOW 70s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/574px-NOW_70s.png" ch-number="547" group-title="🔹RageTV",  NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NOW.80s.uk" tvg-name="NOW 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" ch-number="548" group-title="🔹RageTV",  NOW 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Now.Rock.uk" tvg-name="Now Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" ch-number="549" group-title="🔹RageTV",  Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tace.ss.usa" tvg-name="Trace Sport Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/800px-TraceSSLogo.png" ch-number="550" group-title="🔹RageTV",  Trace Sport Stars
+https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trace.urban.au" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" ch-number="551" group-title="🔹RageTV",  Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kidoodle TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kidoodle_TV_Logo.svg/786px-Kidoodle_TV_Logo.svg.png" ch-number="552" group-title="🔹RageTV",  Kidoodle TV
+https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hope.Channel.us" tvg-logo="https://i.imgur.com/eRNSL6M.png" ch-number="553" group-title="🔹RageTV",Hope Channel International
+https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_0sUSK6VA7GT/master.m3u8
+
+#EXTINF:-1 tvg-id="gctv1-x" tvg-name="GCTV" tvg-logo="https://i.imgur.com/Gs4S77N.png" ch-number="554" group-title="🔹RageTV",GCTV
+http://45.32.115.103/live/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="cctn471-x" tvg-name="CCTN 47" tvg-logo="https://i.imgur.com/5iujWeA.png" ch-number="555" group-title="🔹RageTV",CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1 tvg-id="tv5mondepacifique" tvg-name="TV5 Monde Pacifique" tvg-logo="https://apac.tv5monde.com/assets/logos/tv5monde_apac.png" ch-number="556" group-title="🔹RageTV",TV5 Monde Pacifique
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=auto
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+
+#EXTINF:-1 tvg-id="tv5monde.seasie" tvg-name="TV5 Monde Asie" tvg-logo="https://bo-apac.tv5monde.com/sites/default/files/2020-02/TV5_Monde_Asie.png" ch-number="557" group-title="🔹RageTV",TV5 Monde Asie
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=auto
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+
+#EXTINF:-1 tvg-id="tv5monde.style" tvg-name="TV5MONDE Style" tvg-logo="https://i.imgur.com/rKbHfkH.png" ch-number="558" group-title="🔹RageTV",TV5MONDE Style
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=auto
+https://ott.tv5monde.com/Content/HLS/Live/channel(style2)/variant.m3u8
+
+#EXTINF:-1 tvg-id="tv5monde.info" tvg-name="TV5MONDE Info" tvg-logo="https://imgur.com/AJx5Fy2.png" ch-number="559" group-title="🔹RageTV",TV5MONDE Info
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=auto
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/indietvwiki/e/e6/Z%C3%A9n%21th-logo.png" group-title="🔹RageTV",Zenith
+#EXTVLCOPT:http-origin=https://znth.tv
+#EXTVLCOPT:http-referrer=https://znth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://live.azenagroup.com/zenith/index.ll.m3u8
 
 #EXTINF:-1 tvg-id="History.us" tvg-logo="https://i.postimg.cc/Bv5rgVvF/history.png" group-title="🔹Documentaries", History
 #KODIPROP:inputstreamaddon=inputstream.adaptive
