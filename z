@@ -1112,7 +1112,7 @@ https://abslive.akamaized.net/dash/live/2027618/kc/manifest.mpd
 
 #EXTINF:-1 tvg-id="MYX.Channel.us2" tvg-name="MYX Channel" tvg-logo="https://pql-static.abs-cbn.com/images/live/MYX_LIVETHUMB_600x600_v1.jpg" ch-number="359" group-title="🔹iWantTV",MYX Channel
 https://iptv.akamaized.net/hls/live/2040999/myx/master.m3u8
-
+ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e5905e0a87641798a200510f01ae5ca:814310518395440d57c67f2ef70ea250
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pql-static.abs-cbn.com/images/live/MOR_LIVETHUMB_600x600_v1.jpg" ch-number="360" group-title="🔹iWantTV",MOR Entertainment
@@ -2155,6 +2155,9 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.postimg.cc/768PHCKg/PFLTV.png" group-title="🔹Sports",Professional Fighters League
 https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8?ads.wurl_channel=1309
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.postimg.cc/g0n9qWws/Fubo-Sports-Net.png" group-title="🔹Sports",Fubo Sports Network
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/T2bchgwr/Glory-K.png" group-title="🔹Sports",Glory Kickboxing
 https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?ads.wurl_channel=1360
