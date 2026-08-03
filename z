@@ -2173,6 +2173,9 @@ http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/61769
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3NyLLcCL/FNetwork-TV.png" group-title="🔹Sports",Fight Network Recharged
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 
+#EXTINF:-1 channel-id="0128b5f756acf1e1c488509fd76b0a61" tvg-id="0128b5f756acf1e1c488509fd76b0a61" tvg-chno="265" tvg-name="🔹Sports" tvg-logo="https://i.postimg.cc/WpdB1Y1V/XGames.png" group-title="Roku Channels",X Games TV
+https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/mgd3vgtd/Sport.png",Sport+
 http://smotrim.org/000008731.m3u8
 
@@ -2208,6 +2211,11 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.postimg.cc/qBKhHdBb/WWEtv.png" group-title="🔹Sports",Wrestling TV
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/11056/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={"dc69b6159a0f9f0a4e03b3ff91cbacd5":"d0dcbcd7723bc40df0bf34c9c092d51f"} #EXTINF:-1 tvg-id="Amazon.CA.FubuSports1" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/g0n9qWws/Fubo-Sports-Net.png",Fubo Sports 1 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+ #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={"3dcfbec0e7146928baa55210bf2cb62f":"bc85f74f815d9be5ae1dd6defaa05135"} #EXTINF:-1 tvg-id="Amazon.CA.FubuSports2" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/g0n9qWws/Fubo-Sports-Net.png",Fubo Sports 2 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd 
+
 
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Qxnjsgvk/1TV.png",1TV Sports
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
