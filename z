@@ -2131,15 +2131,20 @@ https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://stream.zonatvlive.xyz/dadlive.php?playlist=aHR0cHM6Ly94YW1lbGVvbi5waGFudGVtbGlzLnRvcC90aHJlZS9zZWN1cmUvODI4NmQ2Y2Y0NjBlZjk0NjhjNTc2NjM0MDFlNDk4NzEvMTc4NTQ4NzA4NS9wcmVtaXVtMTE5L2luZGV4Lm0zdTg%3D
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsX9hYbC/Box-TV.png" group-title="🔹Sports",Box
-#EXTVLCOPT:http-referrer=https://vits.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://vits.tv/tv/proxy.php?id=boxtv
-
 #EXTINF:-1 tvg-id="wwe0100foxsportspremium" tvg-logo="https://i.postimg.cc/xC1Y981t/Budo-Sento-Champ.png" group-title="🔹Sports",Budo Sento Championship
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PrZRvJpC/Fight-Sports-LV.png" group-title="🔹Sports",Fight Sports LV
+#EXTVLCOPT:http-referrer=https://helio.lv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/89_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsX9hYbC/Box-TV.png" group-title="🔹Sports",Box
+#EXTVLCOPT:http-referrer=https://vits.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://vits.tv/tv/proxy.php?id=boxtv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PxgBcwww/Fight.png" group-title="🔹Sports",Fight+
 http://136.239.240.67:8081/tap/program6/playlist.m3u8
