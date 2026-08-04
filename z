@@ -2105,7 +2105,7 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VkNJPsTC/30RCC.png" group-title="🔹Sports",Russian Cagefighting Championship
 #EXTVLCOPT:http-referrer=http://smotrim.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://smotrim.org/000007802.m3u8
+https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Kzjr520B/ufc.png",Ultimate Fighting Championship
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
