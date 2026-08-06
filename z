@@ -2105,6 +2105,7 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VkNJPsTC/30RCC.png" group-title="🔹Sports",Russian Cagefighting Championship
 #EXTVLCOPT:http-referrer=http://smotrim.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://server.musical.uz/tv/udar/index.m3u8?token=0c4d2f44c2367e47f693f61602e0ca8e7c2a7331-cd852ddc12c66d57a178bfe48ef3d063-1786037029-1786026229&remote=1.43.51.209
 https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Kzjr520B/ufc.png",Ultimate Fighting Championship
@@ -2143,7 +2144,7 @@ https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/89_HTTP/__op/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsX9hYbC/Box-TV.png" group-title="🔹Sports",Box
 #EXTVLCOPT:http-referrer=https://vits.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0n (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://vits.tv/tv/proxy.php?id=boxtv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PxgBcwww/Fight.png" group-title="🔹Sports",Fight+
