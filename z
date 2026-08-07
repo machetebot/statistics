@@ -2103,9 +2103,9 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VkNJPsTC/30RCC.png" group-title="🔹Sports",Russian Cagefighting Championship
-#EXTVLCOPT:http-referrer=http://smotrim.org/
+#EXTVLCOPT:http-referrer=http://kablakaka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://server.musical.uz/tv/udar/index.m3u8?token=0c4d2f44c2367e47f693f61602e0ca8e7c2a7331-cd852ddc12c66d57a178bfe48ef3d063-1786037029-1786026229&remote=1.43.51.209
+http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/5067/index.m3u8
 https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Kzjr520B/ufc.png",Ultimate Fighting Championship
