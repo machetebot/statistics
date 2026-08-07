@@ -2315,6 +2315,18 @@ https://tinyurl.com/Pwszzz
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/j2SvhQnK/SCLeague.png" group-title="🔹Sports",Strongman Champions League
 https://3432e021b91043f0814aa9d377c401d2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_StrongmanChampionsLeague/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/gJ8rBfRv/BTVzzz.png",Billiard TV
+https://tinyurl.com/Btvzzz
+
+#EXTINF:-1 tvg-id="KozoomTV" tvg-logo="https://i.postimg.cc/zB045fn5/KTVzzz.png" group-title="🔹Sports",KozoomTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-KOZOOM-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8?hdnts=st%3D1768456486~exp%3D1768478086~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-KOZOOM-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ffdd6f243-f971-4a1a-9510-97ac01d6b37f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1~hmac%3De45c8609a6c54f4e1ec54eaf3873e85a3e9eca4a71ab2e149530bd249d245630
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8zdS9Nn1/B-zzz.png" group-title="🔹Sports",Billiards+
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Qxnjsgvk/1TV.png",1TV Sports
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 
