@@ -2215,6 +2215,17 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.postimg.cc/768PHCKg/PFLTV.png" group-title="🔹Sports",Professional Fighters League
 https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8?ads.wurl_channel=1309
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/T2bchgwr/Glory-K.png" group-title="🔹Sports",Glory Kickboxing
+https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?ads.wurl_channel=1360
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nzYk39Wq/Fight-Box-TV.png" group-title="🔹Sports",Fight Box
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3NyLLcCL/FNetwork-TV.png" group-title="🔹Sports",Fight Network Recharged
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsX9hYbC/Box-TV.png" group-title="🔹Sports",Box
 #EXTVLCOPT:http-referrer=https://vits.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0n (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -2228,22 +2239,11 @@ http://136.239.240.67:8081/tap/program6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://stream.mcquack.net/112/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/T2bchgwr/Glory-K.png" group-title="🔹Sports",Glory Kickboxing
-https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?ads.wurl_channel=1360
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nzYk39Wq/Fight-Box-TV.png" group-title="🔹Sports",Fight Box
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
-
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.postimg.cc/59hchBHR/Fite-TV.png" group-title="🔹Sports",Fite
 https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="828041" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Kzjr520B/ufc.png",UFC 24/7
 http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/61769
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3NyLLcCL/FNetwork-TV.png" group-title="🔹Sports",Fight Network Recharged
-https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 
 #EXTINF:-1 channel-id="0128b5f756acf1e1c488509fd76b0a61" tvg-id="0128b5f756acf1e1c488509fd76b0a61" tvg-chno="265" tvg-name="🔹Sports" tvg-logo="https://i.postimg.cc/WpdB1Y1V/XGames.png" group-title="🔹Sports",X Games
 https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8
