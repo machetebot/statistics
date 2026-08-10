@@ -2074,7 +2074,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5kgj4foeaa/
 #EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B7688A14-B68F-4A9B-8857-28A584CCB016/3-1x1.png" group-title="🔹Documentaries",PBS Nature
 https://zharlzzz.short.gy/Surpn
 
-#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/yNHxD85L/Docu-Box-HD-logo.png" group-title="🔹Documentaries",DocuBox
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNHxD85L/Docu-Box-HD-logo.png" group-title="🔹Documentaries",DocuBox
 https://s70378.cdn.ngenix.net/docubox/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4oVcjLd.png" tvg-country="US" tvg-language="eng" group-title="🔹Documentaries" tvg-id="Getfactual.us",Get.Factual
@@ -2086,7 +2086,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=567&avod=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2SjD1PXb/Xumo-Documentaries.png" group-title="🔹Documentaries",Xumo Documentaries
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992289
 
-#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/g0SL4GBr/Ocean-TV.png" group-title="🔹Documentaries",Ocean TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0SL4GBr/Ocean-TV.png" group-title="🔹Documentaries",Ocean TV
 http://185.78.112.47:8077/OceanTV/index.m3u8
 
 #EXTINF:-1 tvg-id="cg_bbcearth_hd1" tvg-logo="https://imgur.com/QMB9sFW.png" group-title="🔹Documentaries",BBC Earth
@@ -2390,10 +2390,10 @@ https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/jjF9n6Hn/7235.png" group-title="🔹Sports",Sport Arena KZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjF9n6Hn/7235.png" group-title="🔹Sports",Sport Arena KZ
 http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/20061/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/fRXkr5LR/4802.png" group-title="🔹Sports",Sport Arena KZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRXkr5LR/4802.png" group-title="🔹Sports",Sport Arena KZ
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/11108/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FK3JWb51/Nova-Sports-1.png" group-title="🔹Sports",Nova Sport 1
