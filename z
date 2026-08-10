@@ -2341,9 +2341,9 @@ https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 https://dokagents.site/live/digisport2/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNcFyh3g/Digi-Sport-3-1.png" group-title="🔹Sports",Digi Sport 3
-#EXTVLCOPT:http-referrer=https://rundle.tv/
+#EXTVLCOPT:http-referrer=https://dokagents.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://rundle.tv/api.php?src=https://xn--p3t879b.store/digi3/tracks-v1a1/mono.m3u8
+https://dokagents.site/live/digisport3/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pL7nHMQS/Digi-Sport-4.png" group-title="🔹Sports",Digi Sport 4
 #EXTVLCOPT:http-referrer=https://rundle.tv/
