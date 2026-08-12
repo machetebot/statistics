@@ -2335,7 +2335,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLZLv0zn/Digi2.png" group-title="🔹Sports",Digi Sport 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQhLKJWq/Digi2.png" group-title="🔹Sports",Digi Sport 2
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://kudos111.terranovax1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
