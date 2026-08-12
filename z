@@ -2182,10 +2182,10 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VkNJPsTC/30RCC.png" group-title="🔹Sports",Russian Cagefighting Championship
-#EXTVLCOPT:http-referrer=http://kablakaka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/5067/index.m3u8
-https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
+https://tvset.org/ch/000007802.m3u8
+#https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
+#http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/5067/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Kzjr520B/ufc.png",Ultimate Fighting Championship
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
@@ -2336,19 +2336,19 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyXLb4cr/Digi-Sport-2.png" group-title="🔹Sports",Digi Sport 2
-#EXTVLCOPT:http-referrer=https://dokagents.site/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://dokagents.site/live/digisport2/mono.m3u8
+https://kudos111.terranovax1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNcFyh3g/Digi-Sport-3-1.png" group-title="🔹Sports",Digi Sport 3
-#EXTVLCOPT:http-referrer=https://dokagents.site/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://dokagents.site/live/digisport3/mono.m3u8
+https://pulse1.zalmora1.cfd/kuk3/usergendxt1v8klq6rnd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pL7nHMQS/Digi-Sport-4.png" group-title="🔹Sports",Digi Sport 4
-#EXTVLCOPT:http-referrer=https://rundle.tv/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://rundle.tv/api.php?src=https://xn--p3t879b.store/digi4/tracks-v1a1/mono.m3u8
+https://pulse1.zalmora1.cfd/kuk4/usergendlg1ks0t2n.m3u8
 
 #EXTINF:-1 , tvg-id="" tvg-logo="https://i.postimg.cc/C1sTCgJP/JOJ-Sport-Automobilove-preteky.png" group-title="🔹Sports",Joj Sport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2360,13 +2360,18 @@ https://dash4.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzG5Sp5w/S1.png" group-title="🔹Sports",Setanta Sports 1
-#EXTVLCOPT:http-referrer=https://uztv.online/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTGJF9PV/Set-Sports.png" group-title="🔹Sports",Setanta Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://stream8.cinerama.uz/1263/tracks-v2a1/mono.m3u8
+https://tvset.org/ch/000004498.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/bJtvmp7S/Setanta-Sports-2.png",Setanta Sports 2
-https://fo01-bkm.beetv.kz/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/MpS3xQHZ/Set2Sports.png",Setanta Sports 2
+https://tvset.org/ch/000004499.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/9FzNJhSC/SSplus.png",Setanta Sports+ EuroAsia
+https://tvset.org/ch/000004499.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/XJSpD4QN/Set-KZ.png",Setanta Sports KZ
+https://tvset.org/ch/000004499.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJB6zQKf/sport-plus.png" group-title="🔹Sports",Sport +
 #EXTVLCOPT:http-referrer=https://beetv.kz/
