@@ -2320,12 +2320,12 @@ https://streams2.sofast.tv/ptnr-yupptv/title-KOZOOM-ENG_yupptv/v1/master/611d79b
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Qxnjsgvk/1TV.png",1TV Sports
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VvVZPTN2/eurosport-1-uk.png" group-title="🔹Sports",Eurosport 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CdyPRZ4j/E1.png" group-title="🔹Sports",Eurosport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kXLYjkzb/eurosport-2-uk.png" group-title="🔹Sports",Eurosport 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/v8npsMhK/E2.png" group-title="🔹Sports",Eurosport 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
@@ -2378,7 +2378,7 @@ https://tvset.org/ch/000004499.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://edge02-alm.beetv.kz/bpk-token/4an@kvljhn4wof3ujnulp0sltxso02k3k0jtklfmhqaa/bpk-tv/000008731/tve/000008731-audio_82882_rus=82400-video=1297600.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/nhFS91M4/Okko-Sport.png",Okko Sport
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Y0SkdPKM/Okk-OS.png",Okko Sport
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/manifest.m3u8
 
 #EXTINF:-1 group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Hs7BLXsR/Arena-Sport-1.webp",Arena Sport 1
