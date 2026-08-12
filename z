@@ -2330,22 +2330,22 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yJdN4Fg/Digi-Sport-1.png" group-title="🔹Sports",Digi Sport 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66zCT4M3/Digi1.png" group-title="🔹Sports",Digi Sport 1
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyXLb4cr/Digi-Sport-2.png" group-title="🔹Sports",Digi Sport 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLZLv0zn/Digi2.png" group-title="🔹Sports",Digi Sport 2
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://kudos111.terranovax1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNcFyh3g/Digi-Sport-3-1.png" group-title="🔹Sports",Digi Sport 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC743pnn/Digi3.png" group-title="🔹Sports",Digi Sport 3
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://pulse1.zalmora1.cfd/kuk3/usergendxt1v8klq6rnd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pL7nHMQS/Digi-Sport-4.png" group-title="🔹Sports",Digi Sport 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKHmG4YM/Digi4.png" group-title="🔹Sports",Digi Sport 4
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://pulse1.zalmora1.cfd/kuk4/usergendlg1ks0t2n.m3u8
