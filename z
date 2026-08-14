@@ -3469,6 +3469,12 @@ https://d7d3864d.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ft
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
 https://zharlzzz.short.gy/Mclassic
 
+#EXTINF:-1 tvg-id="TheCountryNetwork" tvg-logo="https://i.postimg.cc/3xtChx7G/TCN-Logo-1920x1080-300dpi-white-text.jpg" group-title="🔹Music",The Country Network
+https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AmericanCountryNetwork" tvg-logo="https://i.postimg.cc/rsJPtbQX/ACN.png" group-title="🔹Music",American Country Network
+https://amg16902-amg16902c1-lightcast-worldwide-2931.playouts.now.amagi.tv/playlist/amg16902-americancountrynetworkfast-acnota-lightcastworldwide/playlist.m3u8
+
 #EXTINF:-1 tvg-id="4AceTV" tvg-logo="https://i.postimg.cc/dVc0H8TJ/4Ace-TVClassic.png" group-title="🔹Music",4Ace Classic Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
 https://cors-proxy.cooks.fyi/https://d3s7x6kmqcnb6b.cloudfront.net/hls/OZWUU3Y/708115480C21/m.m3u8
@@ -3539,12 +3545,6 @@ https://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/chunklist.m3u8?token=eyJ0eXAiOi
 
 #EXTINF:-1 tvg-id="NewKPop" tvg-logo="https://i.postimg.cc/LXttbqXd/New-KPop.png" group-title="🔹Music",New K-Pop
 https://newidco-newkid-1-eu.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TheCountryNetwork" tvg-logo="https://i.postimg.cc/3xtChx7G/TCN-Logo-1920x1080-300dpi-white-text.jpg" group-title="🔹Music",The Country Network
-https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="AmericanCountryNetwork" tvg-logo="https://i.postimg.cc/rsJPtbQX/ACN.png" group-title="🔹Music",American Country Network
-https://amg16902-amg16902c1-lightcast-worldwide-2931.playouts.now.amagi.tv/playlist/amg16902-americancountrynetworkfast-acnota-lightcastworldwide/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CountryBackroadsTV" tvg-logo="https://i.postimg.cc/Jn3HN2xw/Country-Back-Roads.png" group-title="🔹Music",Country Backroads
 https://rpn.bozztv.com/gusa/gusa-ridgelinetv/index.m3u8
@@ -3723,9 +3723,6 @@ https://livestream.liveone.com/lc1/p1.m3u8
 
 #EXTINF:-1 tvg-id="SpectraTV" tvg-logo="https://i.postimg.cc/wjpxY2D6/Spektra-TV.png" group-title="🔹Music",Spectra
 https://fl1003.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="RightNow" tvg-logo="https://i.postimg.cc/k589Ytwt/Right-Now-TV.png" group-title="Outdoors",RightNow
-https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/720/rightnowtvSCTE35.m3u8
 
 #EXTINF:-1 tvg-id="DeluxeMusic" tvg-logo="https://i.postimg.cc/gJHNDJp2/Deluxe-Music.jpg" group-title="🔹Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
