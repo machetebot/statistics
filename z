@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,
 https://iptv-epg.org/files/epg-inakdiszej.xml.gz,
-https://raw.githubusercontent.com/djdoolky76/Mediaquest-EPG/main/cignal_epg.xml.gz",
+https://raw.githubusercontent.com/djdoolky76/Mediaquest-EPG/main/cignal_epg.xml.gz,
 https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, 
 https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, 
 https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, 
 https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, 
-https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
-https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/epg.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/epg.xml.gz,
 https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml.gz, 
 https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/clickthecity_epg.xml.gz, 
 https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, 
@@ -46,7 +46,7 @@ https://tinyurl.com/DrewLive002-epg,
 https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz,
 https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz" tvg-shift="0" max-conn="9" refresh="3" m3uautoload="1" deinterlace="1" refresh="86400"
 
-#EXTINF:-1 tvg-id="peopleareawesome" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𐍐հ⃯ᨡ֟፝͝𐑾꫶⃮ࠋꜟৎ,🔸𐍐հ⃯ᨡ֟፝͝𐑾꫶⃮ࠋꜟৎ
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-name="People Are Awesome" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𐍐հ⃯ᨡ֟፝͝𐑾꫶⃮ࠋꜟৎ,🔸𐍐հ⃯ᨡ֟፝͝𐑾꫶⃮ࠋꜟৎ
 https://linear-175.frequency.stream/dist/whaletvplus/175/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cgnl_nba" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/3327FF64-3E52-42DE-B516-4629BFABA8C7/0-16x9.jpg?width=1980" group-title="🔹Cignal",NBA TV
@@ -2298,6 +2298,9 @@ https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-KOZOOM-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8?hdnts=st%3D1768456486~exp%3D1768478086~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-KOZOOM-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ffdd6f243-f971-4a1a-9510-97ac01d6b37f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1~hmac%3De45c8609a6c54f4e1ec54eaf3873e85a3e9eca4a71ab2e149530bd249d245630
 
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/25p2qQcF/Dubai-Racing.png",Dubai Racing
+https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Qxnjsgvk/1TV.png",1TV Sports
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 
@@ -3460,8 +3463,8 @@ https://rundle.tv/api.php?src=https://xn--p3t879b.store/sky1/tracks-v1a1/mono.m3
 https://thor1.syndula1.cfd/schi2/usergendxj85trnd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xd38W0X3/Bizaarro-TV.png" group-title="🔹Movies",Bizzarro Movies
-https://d7d3864d.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9CaXp6YXJyb01vdmllc19ITFM/56bbafc4-5887-4874-bf44-c61565fd5e88/0.m3u8
+https://d7d3864d.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9CaXp6YXJyb01vdmllc19ITFM/7fe2ef01-2d03-4d99-99dd-b3f21c37a51d/2.m3u8
 
-#EXTINF:-1 tvg-id="peopleareawesome" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𑜶𐑾ᨡඋৎ",🔸𑜶𐑾ᨡඋৎ
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-name="People Are Awesome" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𑜶𐑾ᨡඋৎ",🔸𑜶𐑾ᨡඋৎ
 https://linear-175.frequency.stream/dist/whaletvplus/175/hls/master/playlist.m3u8
 
