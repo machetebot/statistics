@@ -2182,7 +2182,8 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 
 #EXTINF:-1 tvg-id="UDAR.ru" tvg-logo="https://i.postimg.cc/VkNJPsTC/30RCC.png" group-title="🔹Sports",Russian Cagefighting Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://tvset.org/ch/000007802.m3u8
+https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
+#https://tvset.org/ch/000007802.m3u8
 #https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
 #http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/5067/index.m3u8
 
