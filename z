@@ -73,6 +73,18 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
 
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A734E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Discovery Channel
+#EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5a7f8219c364e50b2147f6d3a8c9025:c77d5e56c52c4065c42594422ac85e2c
+https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
+
+#EXTINF:-1 tvg-id="cg_animal_planet_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A57B0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Animal Planet
+#EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c8e5a927d414b069f236a5c8e1d7049:a9b9198bf7b116b30492aea4dc471122
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_animal_planet_sd/default/index.mpd
+
 #EXTINF:-1 tvg-id="bilyonaryoch" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=1980" group-title="🔹Cignal",Bilyonaryoch
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -217,12 +229,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=1f7c9a425d864e30b2198a3c6f7d5041:b392ee3cd42686a8cff3070eef614745
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_animal_planet_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A57B0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Animal Planet
-#EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c8e5a927d414b069f236a5c8e1d7049:a9b9198bf7b116b30492aea4dc471122
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_animal_planet_sd/default/index.mpd
-
 #EXTINF:-1 tvg-id="cg_spotvhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5BC0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",SPOTV HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -270,12 +276,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e5c7921a434f60b9287d3c9e5a6041:fab817af24eab2a73ae89145797cf556
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockentertainment/default/index.mpd
-
-#EXTINF:-1 tvg-id="discovery" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A734E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Discovery Channel
-#EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5a7f8219c364e50b2147f6d3a8c9025:c77d5e56c52c4065c42594422ac85e2c
-https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
 
 #EXTINF:-1 tvg-id="dr_cctv4" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7448-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",CCTV 4
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
