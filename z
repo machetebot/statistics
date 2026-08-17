@@ -3478,22 +3478,22 @@ https://zharlzzz.short.gy/Mclassic
 #EXTINF:-1 tvg-id="tcnksaodt7.us" tvg-logo="https://i.postimg.cc/3xtChx7G/TCN-Logo-1920x1080-300dpi-white-text.jpg" group-title="🔹Music",The Country Network
 https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="AmericanCountryNetwork" tvg-logo="https://i.postimg.cc/rsJPtbQX/ACN.png" group-title="🔹Music",American Country Network
+#EXTINF:-1 tvg-id="americancountrynetwork.us" tvg-logo="https://i.postimg.cc/rsJPtbQX/ACN.png" group-title="🔹Music",American Country Network
 https://amg16902-amg16902c1-lightcast-worldwide-2931.playouts.now.amagi.tv/playlist/amg16902-americancountrynetworkfast-acnota-lightcastworldwide/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MZnbDXnM/Virgin-Radio-TV-Logo.png" group-title="🔹Music",Virgin Radio
+#EXTINF:-1 tvg-id="VirginRadio.uk" tvg-logo="https://i.postimg.cc/MZnbDXnM/Virgin-Radio-TV-Logo.png" group-title="🔹Music",Virgin Radio
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
 
-#EXTINF:-1 tvg-id="538TV" tvg-logo="https://i.postimg.cc/dQWHzr1p/538TV.png" group-title="🔹Music",538
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/dQWHzr1p/538TV.png" group-title="🔹Music",538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 
-#EXTINF:-1 tvg-id="Love FM" tvg-logo="https://i.postimg.cc/PfL0t0xg/Love-FM-TV.png " group-title="🔹Music",Love FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PfL0t0xg/Love-FM-TV.png " group-title="🔹Music",Love FM
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroMusicTv+" tvg-logo="https://i.postimg.cc/g0BkH2h8/Retro-Music-TV.jpg" group-title="🔹Music",Retro Music+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/g0BkH2h8/Retro-Music-TV.jpg" group-title="🔹Music",Retro Music+
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Retro+" tvg-logo="https://i.postimg.cc/Bb6wz8xQ/Retro.jpg" group-title="🔹Music",Retro Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Bb6wz8xQ/Retro.jpg" group-title="🔹Music",Retro Plus
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioMonteCarloTV" tvg-logo="https://i.postimg.cc/D01hhnzV/monte-carlo-tv.png" group-title="🔹Music",Radio Monte Carlo
@@ -4211,6 +4211,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:-1 tvg-id="StingrayMovieMusic" tvg-logo="https://i.postimg.cc/fLhsmDYd/MMusic-S.png" group-title="🔹Music",Stingray Movie Music
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-name="People Are Awesome" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𑜶𐑾ᨡඋৎ",🔸𑜶𐑾ᨡඋৎ
-https://linear-175.frequency.stream/dist/whaletvplus/175/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ATAJ32000027V" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𑜶𐑾ᨡඋৎ",🔸𑜶𐑾ᨡඋৎ
+https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 
