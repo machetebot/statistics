@@ -3475,13 +3475,13 @@ https://d7d3864d.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ft
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
 https://zharlzzz.short.gy/Mclassic
 
-#EXTINF:-1 tvg-id="TheCountryNetwork" tvg-logo="https://i.postimg.cc/3xtChx7G/TCN-Logo-1920x1080-300dpi-white-text.jpg" group-title="🔹Music",The Country Network
+#EXTINF:-1 tvg-id="tcnksaodt7.us" tvg-logo="https://i.postimg.cc/3xtChx7G/TCN-Logo-1920x1080-300dpi-white-text.jpg" group-title="🔹Music",The Country Network
 https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AmericanCountryNetwork" tvg-logo="https://i.postimg.cc/rsJPtbQX/ACN.png" group-title="🔹Music",American Country Network
 https://amg16902-amg16902c1-lightcast-worldwide-2931.playouts.now.amagi.tv/playlist/amg16902-americancountrynetworkfast-acnota-lightcastworldwide/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VirginRadio" tvg-logo="https://i.postimg.cc/MZnbDXnM/Virgin-Radio-TV-Logo.png" group-title="🔹Music",Virgin Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MZnbDXnM/Virgin-Radio-TV-Logo.png" group-title="🔹Music",Virgin Radio
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
 
 #EXTINF:-1 tvg-id="538TV" tvg-logo="https://i.postimg.cc/dQWHzr1p/538TV.png" group-title="🔹Music",538
@@ -3498,6 +3498,12 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioMonteCarloTV" tvg-logo="https://i.postimg.cc/D01hhnzV/monte-carlo-tv.png" group-title="🔹Music",Radio Monte Carlo
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 tvg-id="88Stereo" tvg-logo="https://i.postimg.cc/Zn22Cx4H/88Stereo.png" group-title="🔹Music",88 Stereo
+https://59ef525c24caa.streamlock.net/CableLatino/88stereo/.m3u8
+
+#EXTINF:-1 tvg-id="QTV" tvg-logo="https://i.postimg.cc/9F211CZn/264x264-kleur-8.png" group-title="🔹Music",Q Music
+https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/videohls.m3u8
 
 #EXTINF:-1 tvg-id="4AceTV" tvg-logo="https://i.postimg.cc/dVc0H8TJ/4Ace-TVClassic.png" group-title="🔹Music",4Ace Classic Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
@@ -3757,12 +3763,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/pl
     
 #EXTINF:-1 tvg-id="15+" tvg-logo="https://i.postimg.cc/C5fw0ntF/15-Music.png" group-title="🔹Music",15+ Music
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
-
-#EXTINF:-1 tvg-id="88Stereo" tvg-logo="https://i.postimg.cc/Zn22Cx4H/88Stereo.png" group-title="🔹Music",88 Stereo
-https://59ef525c24caa.streamlock.net/CableLatino/88stereo/.m3u8
-
-#EXTINF:-1 tvg-id="QTV" tvg-logo="https://i.postimg.cc/9F211CZn/264x264-kleur-8.png" group-title="🔹Music",Q Music
-https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/videohls.m3u8
 
 #EXTINF:-1 tvg-id="89ARadioRock" tvg-logo="https://i.postimg.cc/VkSJhtzG/89-A-Radio-Rock.png" group-title="🔹Music",89A Radio Rock
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(MmCbuUFtRKeHxUsoYHslg0ANIjYA8cRsUJbwMlFyWgjuhmf_CChzDuLZaIYEHvbeGo3VqWZZ-vz-Wquf0vUQE9DU933l7p5FVTs_nfUOMwDruQj3eePLgKJ1CagnxOXW)/cloud/3/x7wjrui/d/live-480.m3u8#cell=lcf2-eu-north-1b
