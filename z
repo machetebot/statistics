@@ -2183,7 +2183,7 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 #EXTINF:-1 tvg-id="UDAR.ru" tvg-logo="https://i.postimg.cc/VkNJPsTC/30RCC.png" group-title="🔹Sports",Russian Cagefighting Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 http://rodnoetv.com/tv/000007802/mono.m3u8
-https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
+#https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
 #https://tvset.org/ch/000007802.m3u8
 #https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
 #http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/5067/index.m3u8
@@ -4217,6 +4217,63 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 
 #EXTINF:-1 tvg-id="StingrayMovieMusic" tvg-logo="https://i.postimg.cc/fLhsmDYd/MMusic-S.png" group-title="🔹Music",Stingray Movie Music
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jdy0crLW/Waypoint-Tv.jpg" group-title="🔹Outdoors",Waypoint TV
+https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="H20TV" tvg-logo="https://cdn.jsdelivr.net/gh/machetebot/zmaxxx@main/Main/tv/H20TV.jpg" group-title="🔹Outdoors",H20 TV
+https://a-cdn.klowdtv.com/live2/h2o/playlist.m3u8
+
+#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-logo="https://i.postimg.cc/nLTxZg5f/WFN-2014-logo-svg.jpg" group-title="🔹Outdoors",World Fishing Network
+https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8
+
+#EXTINF:-1 tvg-id="ReelLife" tvg-logo="https://i.postimg.cc/c17DN3dS/Reel-Life.png" group-title="🔹Outdoors",Reel Life
+https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="GoneFishing" tvg-logo="https://i.postimg.cc/ZqntpYpb/Gone-Fishing.jpg" group-title="🔹Outdoors",Gone Fishing TV
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68645d7719cc2e163e38d163.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yUr6zLL2zHtBgnrtetiA
+
+#EXTINF:-1 tvg-id="Wired2Fish" tvg-logo="https://cdn.jsdelivr.net/gh/machetebot/zmaxxx@main/Main/tv/Wired2Fish.jpg" group-title="🔹Outdoors",Wired2Fish
+https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/mt/sportstribaltv/80/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HuntFish TV" tvg-logo="https://cdn.jsdelivr.net/gh/machetebot/zmaxxx@main/Main/tv/HuntFishTV.jpg" group-title="🔹Outdoors",HuntFish TV
+https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FishingTV" tvg-logo="https://i.postimg.cc/GhPDYKBk/Fishing-TV.jpg" group-title="🔹Outdoors",Fishing TV 
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WickedTuna" tvg-logo="https://images.pluto.tv/channels/686c2677ed17cf4c900a496d/colorLogoPNG_1755124512679.png" group-title="🔹Outdoors",Wicked Tuna
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gail Force TV" tvg-logo="https://cdn.jsdelivr.net/gh/machetebot/zmaxxx@main/Main/tv/GailForceTV.jpg" group-title="🔹Outdoors",Gail Force TV 
+https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BassMaster" tvg-logo="https://i.postimg.cc/x8ZK6Q38/Bassmaster.png" group-title="🔹Outdoors",Bass Master Channel
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68caada21fabab6eb2e99331.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BmRv9WKnZxv_JZYCMHHw
+
+#EXTINF:-1 tvg-id="NauticalChannel" tvg-logo="https://i.postimg.cc/MTLZ1gqN/Nautical-Channel.jpg" group-title="Sports",NauticalChannel
+https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="PursuitUp" tvg-logo="https://cdn.jsdelivr.net/gh/machetebot/zmaxxx@main/Main/tv/PursuitUp.jpg"group-title="Outdoors",PursuitUp
+https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="PursuitChannel" tvg-logo="https://i.postimg.cc/9QsZxg0g/Pursuit-Channel.png"group-title="Outdoors",Pursuit Channel
+https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8
+
+#EXTINF:-1 tvg-id="DuckHunting" tvg-logo="https://i.postimg.cc/fydpKdjK/Duck-Hunting-TV.png"group-title="Outdoors",Duck Hunting TV
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+
+#EXTINF:-1 tvg-id="Outdoor America" tvg-logo="https://cdn.jsdelivr.net/gh/machetebot/zmaxxx@main/Main/tv/OutdoorAmerica.jpg" group-title="Outdoors",Outdoor America
+https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-600-OUTDOORAMERICA-FREELIVESPORTS/mt/freelivesports/600/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericanStories" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fill/w:80/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vNmJmYjBiODktNDhlNS00NmZlLWI0YjMtZWM2ZmVmMjRlMWZj" group-title="Outdoors",AmericanStories
+https://a1a41a9beb9342598598b5f6dd94fb56.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1016-ASN-FREELIVESPORTS/mt/freelivesports/1016/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://rodnoetv.com/img/ohtirybalka.webp" group-title="🔹Outdoors",Охота и рыбалка
+http://rodnoetv.com/tv/000002510/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://rodnoetv.com/img/ohirtv.webp" group-title="🔹Outdoors",Охотник и рыболов
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ATAJ32000027V" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𑜶𐑾ᨡඋৎ",🔸𑜶𐑾ᨡඋৎ
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
