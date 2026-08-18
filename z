@@ -2299,7 +2299,7 @@ https://zharlzzz.short.gy/hb9Rdc
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8zdS9Nn1/B-zzz.png" group-title="🔹Sports",Billiards+
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 
-#EXTINF:-1 tvg-id="KozoomTV" tvg-logo="https://i.postimg.cc/zB045fn5/KTVzzz.png" group-title="🔹Sports",Kozoom TV
+#EXTINF:-1 tvg-id="KOZOOM.TV" tvg-logo="https://i.postimg.cc/zB045fn5/KTVzzz.png" group-title="🔹Sports",Kozoom TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
@@ -3318,6 +3318,11 @@ https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 
+#EXTINF:-1 , tvg-id="" tvg-logo="https://i.postimg.cc/bN2DDZnT/FILMBOX-festival-svg.webp" group-title="🔹Movies",FilmBox+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Miramax.us" tvg-logo="https://i.postimg.cc/m2gDNKTC/Miramax.png" group-title="🔹Movies",Miramax
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
@@ -3470,7 +3475,7 @@ https://rundle.tv/api.php?src=https://xn--p3t879b.store/sky1/tracks-v1a1/mono.m3
 https://thor1.syndula1.cfd/schi2/usergendxj85trnd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xd38W0X3/Bizarro-TV.png" group-title="🔹Movies",Bizzarro Movies
-https://d7d3864d.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9CaXp6YXJyb01vdmllc19ITFM/7fe2ef01-2d03-4d99-99dd-b3f21c37a51d/2.m3u8
+https://stream.tvivu.com/?url=https://d7d3864d.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9CaXp6YXJyb01vdmllc19ITFM/18f237b4-6d74-46e8-94a7-10dcba0263e7/2.m3u8&exp=1787090400&sig=879b1f1eac76aeceddfdbeefcb931c3475fbda36df56b5f39ce1a047d2998f7c
 
 #EXTINF:-1 tvg-id="TVSMusicClassic" tvg-logo="https://i.postimg.cc/C5WJjh3c/TVSClassic-Music.png" group-title="🔹Music",TVS Music Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
