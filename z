@@ -1934,11 +1934,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://live.azenagroup.com/zenith/index.ll.m3u8
 
-#EXTINF:-1 tvg-id="History.us" tvg-logo="https://i.postimg.cc/Bv5rgVvF/history.png" group-title="🔹Documentaries",History
-#EXTVLCOPT:http-origin=https://pluto.tv
-#EXTVLCOPT:http-referrer=https://pluto.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zharlzzz.short.gy/BF2LsJ
+#EXTINF:-1 tvg-id="dr_historyhd" tvg-logo="https://i.postimg.cc/Bv5rgVvF/history.png" group-title="🔹Documentaries",History
+#EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5c7a8219d464e30b2186a3f7c5d9041:dacc84b7010ca22f8c63a7c290461ed3
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_historyhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="History2.us" tvg-logo="https://i.postimg.cc/Sxm2B7Ln/History2Logo2019.png" group-title="🔹Documentaries",History2
 https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live.m3u8
