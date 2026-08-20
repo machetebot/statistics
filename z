@@ -2315,6 +2315,9 @@ https://streams2.sofast.tv/ptnr-yupptv/title-KOZOOM-ENG_yupptv/v1/master/611d79b
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/25p2qQcF/Dubai-Racing.png",Dubai Racing
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/HxYCwztg/BTVSPORT.png",BeeTV Sports
+http://rodnoetv.com/tv/000009431/mono.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Qxnjsgvk/1TV.png",1TV Sports
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 
