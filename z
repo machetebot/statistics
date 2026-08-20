@@ -2214,7 +2214,7 @@ https://9ab4bcc639c845d2b682105f4e9afbf8.mediatailor.us-east-1.amazonaws.com/v1/
 https://jmp2.uk/plu-685aa802fb6023de7cc56357.m3u8
 
 #EXTINF:-1 tvg-id="HardKnocks" tvg-logo="https://i.postimg.cc/L6TJxVxM/Hard-Knocks-TV.png" group-title="🔹Sports",Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/0.m3u8
 
 #EXTINF:-1 tvg-id="PFL"  tvg-logo="https://i.postimg.cc/768PHCKg/PFLTV.png" group-title="🔹Sports",Professional Fighters League
 https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8?ads.wurl_channel=1309
@@ -4237,7 +4237,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:-1 tvg-id="StingrayMovieMusic" tvg-logo="https://i.postimg.cc/fLhsmDYd/MMusic-S.png" group-title="🔹Music",Stingray Movie Music
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 channel-id="5c393cad2de254456f7ef8c2" tvg-logo="https://i.imgur.com/cdCD2A2.png" group-title="🔹Outdoors",Spike Outdoors
+#EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2" tvg-logo="https://i.imgur.com/cdCD2A2.png" group-title="🔹Outdoors",Spike Outdoors
 https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
 
 #EXTINF:-1 tvg-id="WickedTuna" tvg-logo="https://i.postimg.cc/T1yL9sLS/color-Logo-PNG-1755124512679.png" group-title="🔹Outdoors",Wicked Tuna
