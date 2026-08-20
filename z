@@ -4255,8 +4255,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-
 #EXTINF:-1 tvg-id="Wired2Fish" tvg-logo="https://i.postimg.cc/yNFThD4j/W2F.png" group-title="🔹Outdoors",Wired2Fish
 https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/mt/sportstribaltv/80/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BassMaster" tvg-logo="https://i.postimg.cc/x8ZK6Q38/Bassmaster.png" group-title="🔹Outdoors",Bass Master Channel
+#EXTINF:-1 tvg-id="BassMaster.us" tvg-logo="https://i.postimg.cc/x8ZK6Q38/Bassmaster.png" group-title="🔹Outdoors",Bass Master Channel
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68caada21fabab6eb2e99331.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=uFRHRmfLnZMtBZyNdCzm
+
+#EXTINF:-1 channel-id="619e1874e0d3a7000729a036" tvg-id="619e1874e0d3a7000729a036" tvg-chno="255" tvg-name="Pluto TV Fishing" tvg-logo="https://images.pluto.tv/channels/619e1874e0d3a7000729a036/colorLogoPNG.png" group-title="🔹Outdoors",Pluto TV Fishing https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
+
+#EXTINF:-1 channel-id="61b33085897b9d000702b72e" tvg-id="61b33085897b9d000702b72e" tvg-chno="299" tvg-name="Just.fishing" tvg-logo="https://images.pluto.tv/channels/61b33085897b9d000702b72e/colorLogoPNG.png" group-title="🔹Outdoors",Just Fishing
+https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jdy0crLW/Waypoint-Tv.jpg" group-title="🔹Outdoors",Waypoint TV
 https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/1080p-cc/index.m3u8
