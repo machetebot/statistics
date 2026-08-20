@@ -2363,7 +2363,6 @@ https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=iV
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Austria 1
 https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
 
-
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.postimg.cc/g0n9qWws/Fubo-Sports-Net.png" group-title="🔹Sports",Fubo Sports Network
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
 
@@ -4218,8 +4217,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:-1 tvg-id="StingrayMovieMusic" tvg-logo="https://i.postimg.cc/fLhsmDYd/MMusic-S.png" group-title="🔹Music",Stingray Movie Music
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cdCD2A2.png" group-title="🔹Outdoors",Spike Outdoors
-https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5c393cad2de254456f7ef8c2/1539795/playlist.m3u8?sid=SAMSUNG-TVPLUS-8a1cb94a-f142-4710-933f-bbe3d8c973b9&deviceId=1b0c54dd-f0ab-4e90-9f8e-592ce6694e17&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQyZGEzNDMzLTYwYTEtNGYxZi1iNTMzLWFlN2E0MDE5Zjk0MiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg3MDk1NjQ4LCJpYXQiOjE3ODcwMDkyNDgsImp0aSI6Ijc2MWU2NmE3LTFkNzItNGFhYi1hYjg4LTg5YmY0ZTFkYTM4MCJ9.6jdQCyzen0MYY015EQW9DE2d3iubD5uKafC_IMNx65s&deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1
+#EXTINF:-1 channel-id="5c393cad2de254456f7ef8c2" tvg-logo="https://i.imgur.com/cdCD2A2.png" group-title="🔹Outdoors",Spike Outdoors
+https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
 
 #EXTINF:-1 tvg-id="WickedTuna" tvg-logo="https://i.postimg.cc/T1yL9sLS/color-Logo-PNG-1755124512679.png" group-title="🔹Outdoors",Wicked Tuna
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
