@@ -3723,6 +3723,9 @@ https://fl1004.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PulseStream" tvg-logo="https://i.postimg.cc/QNPpHwmM/Pulse-TV.png" group-title="🔹Music",Pulse Stream
 https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L5ysJTnV/TDI.png" group-title="🔹Music",TDI Colombia
+https://live.amelbatv.co:81/tdicolombiatv/index.m3u8
+
 #EXTINF:-1 tvg-id="QwestTV" tvg-logo="https://i.postimg.cc/rsVn8jQz/Qwest-TV.png" group-title="🔹Music",Qwest
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-60b0f65c0c8ffb002c821a75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=LTSM7okKeRX4kzvzXpvW
 
