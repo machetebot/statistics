@@ -4257,20 +4257,20 @@ https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playli
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YC47SHKK/FS.png" group-title="🔹Outdoors",Field & Stream
 https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-600-OUTDOORAMERICA-FREELIVESPORTS/mt/freelivesports/600/hls/master/playlist.m3u8?ads.channel_name=Outdoor%20America&ads.content_genre=Fishing%2CHunting%2CSport&ads.iab_category=IAB17%2CIAB17-13%2CIAB17-18%2CIAB17-32&provider=FreeLiveSports&ads.us_privacy=&ads.gdpr=0&ads.gdpr_consent=&ads.coppa=0&ads.content_livestream=1&ads.content_url=https%3A%2F%2Fwww.freelivesports.tv%2F&ads.lmt=0&ads.device_id=J8dsjv
 
-#EXTINF:-1 tvg-id="NauticalChannel" tvg-logo="https://i.postimg.cc/MTLZ1gqN/Nautical-Channel.jpg" group-title="Sports",NauticalChannel
+#EXTINF:-1 tvg-id="NauticalChannel" tvg-logo="https://i.postimg.cc/MTLZ1gqN/Nautical-Channel.jpg" group-title="🔹Outdoors",NauticalChannel
 https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PursuitUp" tvg-logo="https://i.postimg.cc/hvwCyNC6/pursuitup.png"group-title="Outdoors",PursuitUp
+#EXTINF:-1 tvg-id="PursuitUp" tvg-logo="https://i.postimg.cc/hvwCyNC6/pursuitup.png"group-title="🔹Outdoors",PursuitUp
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="DuckHunting" tvg-logo="https://i.postimg.cc/fydpKdjK/Duck-Hunting-TV.png"group-title="Outdoors",Duck Hunting TV
+#EXTINF:-1 tvg-id="DuckHunting" tvg-logo="https://i.postimg.cc/fydpKdjK/Duck-Hunting-TV.png"group-title="🔹Outdoors",Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 
-#EXTINF:-1 tvg-id="Outdoor America" tvg-logo="https://i.postimg.cc/T1Wjw19b/OA.png" group-title="Outdoors",Outdoor America
+#EXTINF:-1 tvg-id="Outdoor America" tvg-logo="https://i.postimg.cc/T1Wjw19b/OA.png" group-title="🔹Outdoors",Outdoor America
 https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-600-OUTDOORAMERICA-FREELIVESPORTS/mt/freelivesports/600/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmericanStories" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fill/w:80/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vNmJmYjBiODktNDhlNS00NmZlLWI0YjMtZWM2ZmVmMjRlMWZj" group-title="Outdoors",AmericanStories
+#EXTINF:-1 tvg-id="AmericanStories" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fill/w:80/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vNmJmYjBiODktNDhlNS00NmZlLWI0YjMtZWM2ZmVmMjRlMWZj" group-title="🔹Outdoors",AmericanStories
 https://a1a41a9beb9342598598b5f6dd94fb56.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1016-ASN-FREELIVESPORTS/mt/freelivesports/1016/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hjNyMHZV/ohtirybalka.png" group-title="🔹Outdoors",Охота и рыбалка
