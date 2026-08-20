@@ -3498,6 +3498,14 @@ https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="americancountrynetwork.us" tvg-logo="https://i.postimg.cc/rsJPtbQX/ACN.png" group-title="🔹Music",American Country Network
 https://amg16902-amg16902c1-lightcast-worldwide-2931.playouts.now.amagi.tv/playlist/amg16902-americancountrynetworkfast-acnota-lightcastworldwide/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RetroMusic" tvg-logo="https://i.postimg.cc/QMN5SrSR/Retro-Music.png" group-title="🔹Music",Retro Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
+rtmp://vkvsd60.okcdn.ru/playback/9665769450423?stkn=zRvwA3bWiW45_m-XHoQ-te_jBf7bff-1xC6GRhxRhhN0OhFpORyj4e1e18sQ-ID_-2gbBHWshLE&uid=0&sp=uid,sp&sig=vlibqm4nyu
+
+#EXTINF:-1 tvg-id="MusicHistoryRadio" tvg-logo="https://i.postimg.cc/8zk5K41d/Music-History-Radio.png" group-title="🔹Music",Music History Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
+rtmp://vkvsd32.okcdn.ru/playback/2398595197786?stkn=9nWu0pddEAx0yisSrHy-vokncVvqqkMa8UHKRX3xxq-0SjkFElNdvMKIZc9Zztw6Lv8VS7c6OXU&uid=0&sp=uid,sp&sig=vlibqm4nyu
+
 #EXTINF:-1 tvg-id="VirginRadio.uk" tvg-logo="https://i.postimg.cc/MZnbDXnM/Virgin-Radio-TV-Logo.png" group-title="🔹Music",Virgin Radio
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
 
@@ -3526,14 +3534,6 @@ https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/videohls.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
 https://cors-proxy.cooks.fyi/https://d3s7x6kmqcnb6b.cloudfront.net/hls/OZWUU3Y/708115480C21/m.m3u8
 
-#EXTINF:-1 tvg-id="RetroMusic" tvg-logo="https://i.postimg.cc/QMN5SrSR/Retro-Music.png" group-title="🔹Music",Retro Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
-rtmp://vkvsd60.okcdn.ru/playback/9665769450423?stkn=zRvwA3bWiW45_m-XHoQ-te_jBf7bff-1xC6GRhxRhhN0OhFpORyj4e1e18sQ-ID_-2gbBHWshLE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-
-#EXTINF:-1 tvg-id="MusicHistoryRadio" tvg-logo="https://i.postimg.cc/8zk5K41d/Music-History-Radio.png" group-title="🔹Music",Music History Radio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
-rtmp://vkvsd32.okcdn.ru/playback/2398595197786?stkn=9nWu0pddEAx0yisSrHy-vokncVvqqkMa8UHKRX3xxq-0SjkFElNdvMKIZc9Zztw6Lv8VS7c6OXU&uid=0&sp=uid,sp&sig=vlibqm4nyu&type=video&fn=download
-
 #EXTINF:-1 tvg-id="BridgeClassicHits" tvg-logo="https://i.postimg.cc/prbyS1RF/Bridge-TV-Classic-telekanal-onlajn-1.png" group-title="🔹Music",Bridge TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
 http://stream.mcquack.net/318/index.m3u8
@@ -3544,9 +3544,8 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldMusicBox" tvg-logo="https://i.postimg.cc/LsfJXRK0/musicbox-gold.png" group-title="🔹Music",Gold Music Box
 rtmp://vkvsd279.okcdn.ru/playback/9855673772950?stkn=YBV5uaE8DFoAERCna3gEsPoTOBgthvJ7XU4qEhmm26WE_Jc2Zt-H95IjPOVf3XUharorlKQx-II&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5t3S3sQC/E.jpg" group-title="🔹Music",Europa Plus TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
-http://stream.mcquack.net/184/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5t3S3sQC/E.jpg" group-title="Music",Europa Plus
+rtmp://vkvsd279.okcdn.ru/playback/2275019336490?stkn=-uqNVZJd5uVWgppyyAafYn1J7JeCwa37i9jCDj2kRYM660hlnV7zmJg681gFhL_vn63DldXbHDU&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
 #EXTINF:-1 tvg-id="TotalDance" tvg-logo="https://i.postimg.cc/gjRXTZm7/TOTAL-DANCE-TV.png" group-title="🔹Music",Total Dance
 https://iptv02.eurocable.co.hu:15400/BR-TOTALDANCEHD/playlist.m3u8
