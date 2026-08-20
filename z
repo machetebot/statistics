@@ -4260,23 +4260,23 @@ https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="NauticalChannel" tvg-logo="https://i.postimg.cc/MTLZ1gqN/Nautical-Channel.jpg" group-title="Sports",NauticalChannel
 https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PursuitUp" tvg-logo="https://cdn.jsdelivr.net/gh/machetebot/zmaxxx@main/Main/tv/PursuitUp.jpg"group-title="Outdoors",PursuitUp
+#EXTINF:-1 tvg-id="PursuitUp" tvg-logo="https://i.postimg.cc/hvwCyNC6/pursuitup.png"group-title="Outdoors",PursuitUp
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="DuckHunting" tvg-logo="https://i.postimg.cc/fydpKdjK/Duck-Hunting-TV.png"group-title="Outdoors",Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 
-#EXTINF:-1 tvg-id="Outdoor America" tvg-logo="https://cdn.jsdelivr.net/gh/machetebot/zmaxxx@main/Main/tv/OutdoorAmerica.jpg" group-title="Outdoors",Outdoor America
+#EXTINF:-1 tvg-id="Outdoor America" tvg-logo="https://i.postimg.cc/T1Wjw19b/OA.png" group-title="Outdoors",Outdoor America
 https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-600-OUTDOORAMERICA-FREELIVESPORTS/mt/freelivesports/600/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericanStories" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fill/w:80/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vNmJmYjBiODktNDhlNS00NmZlLWI0YjMtZWM2ZmVmMjRlMWZj" group-title="Outdoors",AmericanStories
 https://a1a41a9beb9342598598b5f6dd94fb56.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1016-ASN-FREELIVESPORTS/mt/freelivesports/1016/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://rodnoetv.com/img/ohtirybalka.webp" group-title="🔹Outdoors",Охота и рыбалка
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hjNyMHZV/ohtirybalka.png" group-title="🔹Outdoors",Охота и рыбалка
 http://rodnoetv.com/tv/000002510/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://rodnoetv.com/img/ohirtv.webp" group-title="🔹Outdoors",Охотник и рыболов
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNbvYMHb/ohirtv.png" group-title="🔹Outdoors",Охотник и рыболов
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ATAJ32000027V" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𑜶𐑾ᨡඋৎ",🔸𑜶𐑾ᨡඋৎ
