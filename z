@@ -2321,6 +2321,9 @@ http://rodnoetv.com/tv/000009431/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Qxnjsgvk/1TV.png",1TV Sports
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/66FTRH36/TLT.png",TLT Sports
+https://tltsports.rst.ae/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Arena
 https://7nyaler.streamhostingcdn.top/stream/7/index.m3u8
 
@@ -3543,6 +3546,9 @@ http://stream.mcquack.net/272/index.m3u8
 
 #EXTINF:-1 tvg-id="VintageClassic" tvg-logo="https://i.postimg.cc/QdpHY0R1/Vintage-Music.png" group-title="🔹Music",Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Xqr8P2Sv/Extrema-Music.png" group-title="🔹Music",Extrema Music
+https://627bb251f23c7.streamlock.net:444/MetaldelCielo/MetaldelCielo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoldMusicBox" tvg-logo="https://i.postimg.cc/LsfJXRK0/musicbox-gold.png" group-title="🔹Music",Gold Music Box
 rtmp://vkvsd279.okcdn.ru/playback/9855673772950?stkn=YBV5uaE8DFoAERCna3gEsPoTOBgthvJ7XU4qEhmm26WE_Jc2Zt-H95IjPOVf3XUharorlKQx-II&uid=0&sp=uid,sp&sig=vlibqm4nyu
