@@ -4287,13 +4287,16 @@ https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.ama
 #EXTINF:-1 tvg-id="FishingTV" tvg-logo="https://i.postimg.cc/g0DZk8bM/Fishing-Tv.png" group-title="🔹Outdoors",Fishing TV 
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fLvnPWXF/4f11d7b4-99e6-447e-b517-10dbb827a67c.png" group-title="🔹Outdoors",Gail Force TV 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fLvnPWXF/4f11d7b4-99e6-447e-b517-10dbb827a67c.png" group-title="🔹Outdoors",Sport Fishing TV 
 https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YC47SHKK/FS.png" group-title="🔹Outdoors",Field & Stream
 https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-600-OUTDOORAMERICA-FREELIVESPORTS/mt/freelivesports/600/hls/master/playlist.m3u8?ads.channel_name=Outdoor%20America&ads.content_genre=Fishing%2CHunting%2CSport&ads.iab_category=IAB17%2CIAB17-13%2CIAB17-18%2CIAB17-32&provider=FreeLiveSports&ads.us_privacy=&ads.gdpr=0&ads.gdpr_consent=&ads.coppa=0&ads.content_livestream=1&ads.content_url=https%3A%2F%2Fwww.freelivesports.tv%2F&ads.lmt=0&ads.device_id=J8dsjv
 
-#EXTINF:-1 tvg-id="NauticalChannel" tvg-logo="https://i.postimg.cc/MTLZ1gqN/Nautical-Channel.jpg" group-title="🔹Outdoors",NauticalChannel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rpdzv2Ps/images-(9).png" group-title="🔹Outdoors",Surf Cinema
+https://amg13231-actve-amg13231c4-plex-us-1821.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-plexus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NauticalChannel" tvg-logo="https://i.postimg.cc/MTLZ1gqN/Nautical-Channel.jpg" group-title="🔹Outdoors",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PursuitUp" tvg-logo="https://i.postimg.cc/hvwCyNC6/pursuitup.png"group-title="🔹Outdoors",PursuitUp
