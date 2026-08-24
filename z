@@ -4279,6 +4279,9 @@ https://a-cdn.klowdtv.com/live2/h2o/playlist.m3u8
 #EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-logo="https://i.postimg.cc/nLTxZg5f/WFN-2014-logo-svg.jpg" group-title="🔹Outdoors",World Fishing Network
 https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d07ZNN1Q/SSL.png" group-title="🔹Outdoors",Shooting Sports Life
+https://linear-1312.frequency.stream/dist/stirr/1312/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ReelLife" tvg-logo="https://i.postimg.cc/c17DN3dS/Reel-Life.png" group-title="🔹Outdoors",Reel Life
 https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
