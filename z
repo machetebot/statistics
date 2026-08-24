@@ -2325,6 +2325,9 @@ https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/66FTRH36/TLT.png",TLT Sports
 https://tltsports.rst.ae/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/GpmdL1Q4/KTVSPorts.png",KTV Sports
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Arena
 https://7nyaler.streamhostingcdn.top/stream/7/index.m3u8
 
