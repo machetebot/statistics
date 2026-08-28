@@ -2326,6 +2326,11 @@ https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-KOZOOM-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8?hdnts=st%3D1768456486~exp%3D1768478086~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-KOZOOM-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ffdd6f243-f971-4a1a-9510-97ac01d6b37f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1~hmac%3De45c8609a6c54f4e1ec54eaf3873e85a3e9eca4a71ab2e149530bd249d245630
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnhZscwZ/Sports-Extra.png" group-title="🔹Sports",Sports Extra
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://saruman1.tharen1.cfd/sextra/usergenq8eo0q.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/25p2qQcF/Dubai-Racing.png",Dubai Racing
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 
@@ -2517,11 +2522,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
 #EXTINF:-1 group-title="VijuSport" tvg-logo="https://i.postimg.cc/j2Pg6n55/Viju-Sport-logo-svg.png" group-title="🔹Sports",Viju+ Sport http://185.78.112.47:8077/ViasatSportHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8x3JYbR/Sport-Extra-(2020-n-v-).webp" group-title="🔹Sports",Sports Extra
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://saruman1.tharen1.cfd/sextra/usergenq8eo0q.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KY5Gh83T/Prima-Sport1.png" group-title="🔹Sports",Prima Sport 1
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
