@@ -4269,13 +4269,13 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:-1 tvg-id="StingrayMovieMusic" tvg-logo="https://i.postimg.cc/fLhsmDYd/MMusic-S.png" group-title="🔹Music",Stingray Movie Music
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2" tvg-logo="https://i.imgur.com/cdCD2A2.png" group-title="🔹Outdoors",Spike Outdoors
+#EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2" tvg-logo="https://i.postimg.cc/HxkQn2pT/Spike-Outdoors.png" group-title="🔹Outdoors",Spike Outdoors
 https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
 
-#EXTINF:-1 tvg-id="WickedTuna" tvg-logo="https://i.postimg.cc/T1yL9sLS/color-Logo-PNG-1755124512679.png" group-title="🔹Outdoors",Wicked Tuna
+#EXTINF:-1 tvg-id="WickedTuna" tvg-logo="https://i.postimg.cc/Hxr932F7/Wicked-Tuna.png" group-title="🔹Outdoors",Wicked Tuna
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Wired2Fish" tvg-logo="https://i.postimg.cc/yNFThD4j/W2F.png" group-title="🔹Outdoors",Wired2Fish
+#EXTINF:-1 tvg-id="Wired2Fish" tvg-logo="https://i.postimg.cc/L62Z8DvQ/Wired2fish.png" group-title="🔹Outdoors",Wired2Fish
 https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/mt/sportstribaltv/80/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BassMaster.us" tvg-logo="https://i.postimg.cc/x8ZK6Q38/Bassmaster.png" group-title="🔹Outdoors",Bass Master Channel
