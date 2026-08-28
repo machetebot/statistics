@@ -2334,6 +2334,9 @@ https://tltsports.rst.ae/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/GpmdL1Q4/KTVSPorts.png",KTV Sports
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/fWdZ3hk2/Divi-Sport.png",Divi Sports
+https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Arena
 https://7nyaler.streamhostingcdn.top/stream/7/index.m3u8
 
@@ -2458,8 +2461,11 @@ https://tvset.org/ch/000004499.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://edge02-alm.beetv.kz/bpk-token/4an@kvljhn4wof3ujnulp0sltxso02k3k0jtklfmhqaa/bpk-tv/000008731/tve/000008731-audio_82882_rus=82400-video=1297600.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Y0SkdPKM/Okk-OS.png",Okko Sport
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Y0SkdPKM/Okk-OS.png",Okko Sport 1
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Y0SkdPKM/Okk-OS.png",Okko Sport 2
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="🔹Sports" tvg-logo="https://i.postimg.cc/sxcbHMMW/Arena-Sport1.png",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
