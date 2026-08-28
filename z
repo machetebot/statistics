@@ -2320,6 +2320,9 @@ https://zharlzzz.short.gy/hb9Rdc
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8zdS9Nn1/B-zzz.png" group-title="🔹Sports",Billiards+
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FFSLmZJN/World-Billiards.png" group-title="🔹Sports",World Billiards
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KOZOOM.TV" tvg-logo="https://i.postimg.cc/zB045fn5/KTVzzz.png" group-title="🔹Sports",Kozoom TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
