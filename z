@@ -2274,6 +2274,9 @@ https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/61
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2SQVbdLV/CFight.png" group-title="🔹Sports",Channel Fight
 https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-DistroTV/266.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26j9Fhx5/Unbeaten.png" group-title="🔹Sports",Unbeaten
+https://unbeaten-tcl.amagi.tv/1080p-cc/index.m3u8
+
 #EXTINF:-1 group-title="🔹Sports" tvg-logo="https://i.postimg.cc/3rvNRxmH/HBOBox.png",HBO Boxing
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3189,10 +3192,8 @@ https://uae.iptv2022.com/B_sport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn1NjW4W/All-S.png" group-title="🔹Sports",AllSports
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rb8Xxf9/UBeaten.png" group-title="🔹Sports",Unbeaten
-https://unbeaten-tcl.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nr3nfDjQ/Turkmen-Sporty.png" group-title="🔹Sports",Turkmenistan Sport
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3nfDjQ/Turkmen-Sporty.png" group-title="🔹Sports",Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8CZ4Wk6B/UDARTV.png" group-title="🔹Sports",Udar TV
