@@ -4278,70 +4278,70 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-
 #EXTINF:-1 tvg-id="Wired2Fish" tvg-logo="https://i.postimg.cc/L62Z8DvQ/Wired2fish.png" group-title="🔹Outdoors",Wired2Fish
 https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/mt/sportstribaltv/80/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BassMaster.us" tvg-logo="https://i.postimg.cc/x8ZK6Q38/Bassmaster.png" group-title="🔹Outdoors",Bass Master Channel
+#EXTINF:-1 tvg-id="BassMaster.us" tvg-logo="https://i.postimg.cc/CxZMhfyb/Bass-Master-Tv.png" group-title="🔹Outdoors",Bass Master Channel
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68caada21fabab6eb2e99331.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=uFRHRmfLnZMtBZyNdCzm
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Znhstj7R/Game-Fish-TV-Live-Hunting-Fishing-Stream-Tvivu.webp" group-title="🔹Outdoors",Game & Fish TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qR5YJwP7/Game-Fish.png" group-title="🔹Outdoors",Game & Fish TV
 https://amg00436-amg00436c7-osgviewlift-us-6738.playouts.now.amagi.tv/playlist/amg00436-ksemotvholdingsfast-gameandfishtv-osgviewliftus/playlist.m3u8?dnt=[dnt]&app_bundle=[app_bundle]&app_name=[app_name]&app_store_url=[app_store_url]&did=[did]&url=[url]&genre=[genre]&ic=[ic]&us_privacy=[us_privacy]&gdpr=[gdpr]&gdpr_consent=[gdpr_consent]&coppa=[coppa]&iu=[iu]&idtype=[idtype]&ifa_type=[ifatype]&lmt=[lmt]&content_livestream=[content_livestream]&gpp=[gpp]&gpp_sid=[gpp_sid]
 
-#EXTINF:-1 channel-id="619e1874e0d3a7000729a036" tvg-id="619e1874e0d3a7000729a036" tvg-chno="255" tvg-name="Pluto TV Fishing" tvg-logo="https://images.pluto.tv/channels/619e1874e0d3a7000729a036/colorLogoPNG.png" group-title="🔹Outdoors",Pluto TV Fishing https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
+#EXTINF:-1 channel-id="619e1874e0d3a7000729a036" tvg-id="619e1874e0d3a7000729a036" tvg-chno="255" tvg-name="Pluto TV Fishing" tvg-logo="https://i.postimg.cc/qR5YJwP7/Game-Fish.png" group-title="🔹Outdoors",Pluto TV Fishing https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
 
-#EXTINF:-1 channel-id="61b33085897b9d000702b72e" tvg-id="61b33085897b9d000702b72e" tvg-chno="299" tvg-name="Just.fishing" tvg-logo="https://images.pluto.tv/channels/61b33085897b9d000702b72e/colorLogoPNG.png" group-title="🔹Outdoors",Just Fishing
+#EXTINF:-1 channel-id="61b33085897b9d000702b72e" tvg-id="61b33085897b9d000702b72e" tvg-chno="299" tvg-name="Just.fishing" tvg-logo="https://i.postimg.cc/Cx5c1k4F/Just-Fishing.png" group-title="🔹Outdoors",Just Fishing
 https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jdy0crLW/Waypoint-Tv.jpg" group-title="🔹Outdoors",Waypoint TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sxfpLC6x/Way-Point-TV.png" group-title="🔹Outdoors",Waypoint TV
 https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-id="H20TV" tvg-logo="https://i.postimg.cc/8zyGpznb/h20tv.png" group-title="🔹Outdoors",H20 TV
+#EXTINF:-1 tvg-id="H20TV" tvg-logo="https://i.postimg.cc/6QL4x1GZ/H2OTv.png" group-title="🔹Outdoors",H20 TV
 https://a-cdn.klowdtv.com/live2/h2o/playlist.m3u8
 
-#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-logo="https://i.postimg.cc/nLTxZg5f/WFN-2014-logo-svg.jpg" group-title="🔹Outdoors",World Fishing Network
+#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-logo="https://i.postimg.cc/1zJRHxFP/World-Fishing-Network.png" group-title="🔹Outdoors",World Fishing Network
 https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d07ZNN1Q/SSL.png" group-title="🔹Outdoors",Shooting Sports Life
 https://linear-1312.frequency.stream/dist/stirr/1312/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ReelLife" tvg-logo="https://i.postimg.cc/c17DN3dS/Reel-Life.png" group-title="🔹Outdoors",Reel Life
+#EXTINF:-1 tvg-id="ReelLife" tvg-logo="https://i.postimg.cc/5NbxZNmf/Reel-Life.png" group-title="🔹Outdoors",Reel Life
 https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="GoneFishing" tvg-logo="https://i.postimg.cc/TYYHRJ8B/Gone-Fishing.png" group-title="🔹Outdoors",Gone Fishing TV
+#EXTINF:-1 tvg-id="GoneFishing" tvg-logo="https://i.postimg.cc/XqvsC50c/Gone-Fishing.png" group-title="🔹Outdoors",Gone Fishing TV
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68645d7719cc2e163e38d163.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=uFRHRmfLnZMtBZyNdCzm
 
-#EXTINF:-1 tvg-id="HuntFish TV" tvg-logo="https://i.postimg.cc/yd10FnTz/huntfishtv.png" group-title="🔹Outdoors",HuntFish TV
+#EXTINF:-1 tvg-id="HuntFish TV" tvg-logo="https://i.postimg.cc/tTJ6dNYN/Hunt-Fish.png" group-title="🔹Outdoors",HuntFish TV
 https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FishingTV" tvg-logo="https://i.postimg.cc/g0DZk8bM/Fishing-Tv.png" group-title="🔹Outdoors",Fishing TV 
+#EXTINF:-1 tvg-id="FishingTV" tvg-logo="https://i.postimg.cc/pV8fsksw/Fte-V.png" group-title="🔹Outdoors",Fishing TV 
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fLvnPWXF/4f11d7b4-99e6-447e-b517-10dbb827a67c.png" group-title="🔹Outdoors",Sport Fishing TV 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZKGX1fmY/Sport-Fishing-TV.png" group-title="🔹Outdoors",Sport Fishing TV 
 https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YC47SHKK/FS.png" group-title="🔹Outdoors",Field & Stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Dfdg2B10/F-S.png" group-title="🔹Outdoors",Field & Stream
 https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-600-OUTDOORAMERICA-FREELIVESPORTS/mt/freelivesports/600/hls/master/playlist.m3u8?ads.channel_name=Outdoor%20America&ads.content_genre=Fishing%2CHunting%2CSport&ads.iab_category=IAB17%2CIAB17-13%2CIAB17-18%2CIAB17-32&provider=FreeLiveSports&ads.us_privacy=&ads.gdpr=0&ads.gdpr_consent=&ads.coppa=0&ads.content_livestream=1&ads.content_url=https%3A%2F%2Fwww.freelivesports.tv%2F&ads.lmt=0&ads.device_id=J8dsjv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rpdzv2Ps/images-(9).png" group-title="🔹Outdoors",Surf Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/B6Zv2S7d/Surf-Cinema.png" group-title="🔹Outdoors",Surf Cinema
 https://amg13231-actve-amg13231c4-plex-us-1821.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-plexus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NauticalChannel" tvg-logo="https://i.postimg.cc/MTLZ1gqN/Nautical-Channel.jpg" group-title="🔹Outdoors",Nautical Channel
+#EXTINF:-1 tvg-id="NauticalChannel" tvg-logo="https://i.postimg.cc/cH8dRvMB/Nautical-Channel.png" group-title="🔹Outdoors",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PursuitUp" tvg-logo="https://i.postimg.cc/hvwCyNC6/pursuitup.png"group-title="🔹Outdoors",PursuitUp
+#EXTINF:-1 tvg-id="PursuitUp" tvg-logo="https://i.postimg.cc/KzhHW4hn/Pursuit-Up-TV.png"group-title="🔹Outdoors",PursuitUp
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="DuckHunting" tvg-logo="https://i.postimg.cc/fydpKdjK/Duck-Hunting-TV.png"group-title="🔹Outdoors",Duck Hunting TV
+#EXTINF:-1 tvg-id="DuckHunting" tvg-logo="https://i.postimg.cc/4365m5jQ/Duck-Hunting-TV.png"group-title="🔹Outdoors",Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 
-#EXTINF:-1 tvg-id="Outdoor America" tvg-logo="https://i.postimg.cc/T1Wjw19b/OA.png" group-title="🔹Outdoors",Outdoor America
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bw9ckKDv/Outdoor-America.png" group-title="🔹Outdoors",Outdoor America
 https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-600-OUTDOORAMERICA-FREELIVESPORTS/mt/freelivesports/600/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmericanStories" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fill/w:80/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vNmJmYjBiODktNDhlNS00NmZlLWI0YjMtZWM2ZmVmMjRlMWZj" group-title="🔹Outdoors",AmericanStories
+#EXTINF:-1 tvg-id="AmericanStories" tvg-logo="https://i.postimg.cc/CKpTqwx1/American-Stories.png" group-title="🔹Outdoors",AmericanStories
 https://a1a41a9beb9342598598b5f6dd94fb56.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1016-ASN-FREELIVESPORTS/mt/freelivesports/1016/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hjNyMHZV/ohtirybalka.png" group-title="🔹Outdoors",Охота и рыбалка
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3wNp2QSZ/Ohota-i-rybalka.png" group-title="🔹Outdoors",Охота и рыбалка
 http://rodnoetv.com/tv/000002510/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNbvYMHb/ohirtv.png" group-title="🔹Outdoors",Охотник и рыболов
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjdR7pHT/Ohotnik-i-rybolov.png" group-title="🔹Outdoors",Охотник и рыболов
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ATAJ32000027V" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𑜶𐑾ᨡඋৎ",🔸𑜶𐑾ᨡඋৎ
