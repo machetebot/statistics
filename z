@@ -2262,10 +2262,10 @@ http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/61769
 #EXTINF:-1 channel-id="0128b5f756acf1e1c488509fd76b0a61" tvg-id="0128b5f756acf1e1c488509fd76b0a61" tvg-chno="265" tvg-name="🔹Sports" tvg-logo="https://i.postimg.cc/WpdB1Y1V/XGames.png" group-title="🔹Sports",X Games
 https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/RhhHRV8W/Xtreme-S.png",X-treme Sports
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/RhhHRV8W/Xtreme-S.png",X-tream Sports
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QrHqfMY/Extreme-Sports.png" group-title="🔹Sports",Extreme Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFdhy8mW/Extreme.png" group-title="🔹Sports",Extreme Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/144/index.m3u8
 
