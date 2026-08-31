@@ -2186,6 +2186,7 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 #EXTINF:-1 tvg-id="UDAR.ru" tvg-logo="https://i.postimg.cc/VkNJPsTC/30RCC.png" group-title="🔹Sports",Russian Cagefighting Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 http://rodnoetv.com/tv/000007802/mono.m3u8
+#http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/5067/index.m3u8
 #https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
 #http://tvset.org/ch/000007802.m3u8
 #https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
@@ -2249,9 +2250,9 @@ https://vits.tv/tv/proxy.php?id=boxtv
 http://136.239.240.67:8081/tap/program6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8CQdz5cv/Fighter.png" group-title="🔹Sports",Fighter
-#EXTVLCOPT:http-referrer=https://stream.mcquack.net/
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://stream.mcquack.net/112/index.m3u8
+http://stream.mcquack.net/112/index.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.postimg.cc/59hchBHR/Fite-TV.png" group-title="🔹Sports",Fite
 https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
@@ -2298,6 +2299,9 @@ https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jSHYzWhh/NBA.png" group-title="🔹Sports",The NBA Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951383&ads.xumo_streamId=99951383&ads.channelId=99951383&ads.channelName=NBAFASTChannel&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_coppa=0&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads.asnw=&ads.xumo_channelName=NBAFASTChannel&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=f3db4baa-551a-49e7-a1fc-c2e716304ccc&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mRoHgR4XBQlXf1H8l4f-rj8BuGA1x2GO9v70tvFPmlgtT4Azsf3Kocn7pUMlsCeK7tu4RsWXbfAZ5QCnFPiq-uvNH_i2MHd4u0OHK8cSkplFoL9A2Bh9VVQW4ZV3A-zloNEJf6tFNJbz3z9QWEt_Q5csaVXM4Ucgi8wENSuZYJC7T6hAi0WEVL0tKSic/s1600/74219.png" group-title="🔹Sports",WWE Superstar Central
+https://dpv6ceilvhyrw.cloudfront.net/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.postimg.cc/qBKhHdBb/WWEtv.png" group-title="🔹Sports",WWE Network
 http://websafety101.net:5050/JT2024/wxApKJ57yy/509152
@@ -2431,6 +2435,11 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBv5hiaTbNB_ROMaK4UWChbe2SC93_WDi-g2s_ebbEZ-jA6h1ZyFFZTKV25XJ7w3Ia5o-xN9Nu_5ublj9AzLEIJ88ul7uSWmT2tQxPmFOYB9T-Xa2fVFrmjCM20Mi-nFJ1Ej2aT_F3fTIE2Blp5c7ExB73Rbj3UhL-EtrWuSjlViTcF2iejb80nDWccoZf/s1600/74222.png" group-title="🔹Sports",Go3 Sport 1
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://stream.mcquack.net/416/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66zCT4M3/Digi1.png" group-title="🔹Sports",Digi Sport 1
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -2478,6 +2487,9 @@ https://tvset.org/ch/000004499.m3u8
 #EXTVLCOPT:http-referrer=https://beetv.kz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://edge02-alm.beetv.kz/bpk-token/4an@kvljhn4wof3ujnulp0sltxso02k3k0jtklfmhqaa/bpk-tv/000008731/tve/000008731-audio_82882_rus=82400-video=1297600.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0U24pJbQ8HSm1RhGcTWVttZUhqwpUrrbhIKXedYYQ99sVYAxNc2u0PuOyfUkxfLqDwhzExe5akcumsa_SLRYsX4uLEQH8cfPHBPh_HxtWLlumUpDSIRyO6ledmspGAIOB9w9qsDtwr-YJa5f3OZgLBZSagQh_jB8sqq7KaCpJBV76xZrNCbkOUAfuqFCD/s1600/74230.png",Polsat Sport
+http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/7296/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Y0SkdPKM/Okk-OS.png",Okko Sport 1
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/manifest.m3u8
