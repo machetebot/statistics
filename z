@@ -2258,7 +2258,7 @@ http://stream.mcquack.net/112/index.m3u8
 https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="828041" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Kzjr520B/ufc.png",UFC 24/7
-http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/61769
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="0128b5f756acf1e1c488509fd76b0a61" tvg-id="0128b5f756acf1e1c488509fd76b0a61" tvg-chno="265" tvg-name="🔹Sports" tvg-logo="https://i.postimg.cc/WpdB1Y1V/XGames.png" group-title="🔹Sports",X Games
 https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8
@@ -2439,6 +2439,9 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTVLCOPT:http-referrer=http://stream.mcquack.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 http://stream.mcquack.net/416/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglAAEvbiNPHCdWbFQWteJx42nTCckMSVT6AtLUsjEaaMKZzM-HXSYIquZ3PXbWmLHPKsHhhaZDg5ITxemwO9YbUSC-a_8S-yZw012P3YK33B-EZ5tDMYCauokIPXTiBFb31E5G3Wo14vBeA1phTcuOaGZuke5hiBemJpjkilEBtMAS9pIlPFxnSlh3djfa/s1600/74231.png" group-title="🔹Sports",Go3 Sport 2
+http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/18012/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66zCT4M3/Digi1.png" group-title="🔹Sports",Digi Sport 1
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
@@ -3121,7 +3124,7 @@ https://video.beeline.tv/live/d/channel423.isml/manifest-stb.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjhQJ6t5/1038.png" group-title="🔹Sports",KHL Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/2403/index.m3u8
+http://stream.mcquack.net/166/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/kG9KLDcv/Belarus'-5.png",Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
