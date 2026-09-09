@@ -4369,8 +4369,14 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6707cfa5da81
 #EXTINF:-1 tvg-id="HellsKitchenTV" tvg-logo="https://i.postimg.cc/dt61w19B/Hell-s-Kitchen.jpg" group-title="🔹Kitchen Show",Hells Kitchen
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68dcb9f59beaa3a402966db8.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=uFRHRmfLnZMtBZyNdCzm
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RFkVLpf5/TV5MONDE-Chefs.png" group-title="🔹Kitchen Show",TV5MONDE Chefs
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68b74890b5b437bf872b6b72.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=uFRHRmfLnZMtBZyNdCzm
+
 #EXTINF:-1 tvg-id="SnapTV" tvg-logo="https://i.postimg.cc/QC4Gc0k5/Snap.png" group-title="🔹Kitchen Show",Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bw7C8Q16/Taste.png" group-title="🔹Kitchen Show",Taste by iTV
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-69a202f60f8d297b3f6ac0f4.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=uFRHRmfLnZMtBZyNdCzm
 
 #EXTINF:-1 tvg-id="BonAppetit" tvg-logo="https://i.postimg.cc/8PGVtZ3Z/2-bon-appetit.png" group-title="🔹Kitchen Show",Bon Appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
