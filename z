@@ -2176,7 +2176,8 @@ https://a182aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/u00
 #https://stitcher.pluto.tv/stitch/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hPjSLPRW/XXtreme-Jobs.png" group-title="🔹Documentaries",XXtreme Jobs
-https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zko1curyce7jh/IQJW/WBD/XXtremeJobs_IN/XXtremeJobs_IN.m3u8
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-690ce1d0718f73527d832927.m3u8
+#https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zko1curyce7jh/IQJW/WBD/XXtremeJobs_IN/XXtremeJobs_IN.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HLv5hZtQ/One-CTv.png" ch-number="" group-title="🔹Sports",One Championship TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4422,6 +4423,11 @@ https://ifood-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="Cocina"  tvg-logo="https://i.postimg.cc/wMcQqx9t/Cocina.png" group-title="🔹Kitchen Show",Cocina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Duck_TV_Logo.webp/250px-Duck_TV_Logo.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🔹Kids",Duck TV
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://arwen1.panaka1.cfd/duk/usergenz9ak7fxt.m3u8
 
 
 #EXTINF:-1 tvg-id="ATAJ32000027V" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𑜶𐑾ᨡඋৎ",🔸𑜶𐑾ᨡඋৎ
