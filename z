@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/Melbourne/epg.xml.gz,
+https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,
 https://iptv-epg.org/files/epg-inakdiszej.xml.gz,
 https://raw.githubusercontent.com/djdoolky76/Mediaquest-EPG/main/cignal_epg.xml.gz,
 https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, 
@@ -4370,6 +4371,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6707cfa5da81
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-masterchef.m3u8
+
+#EXTINF:-1 channel-id="mjh-kitchennightmares-fast" tvg-id="mjh-kitchennightmares-fast" tvg-logo="https://i.mjh.nz/.images/auto-kitchennightmares-fast-ba1ad2.png" group-title="Au" , Kitchen Nightmares
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/kitchennightmares-fast.m3u8
 
 #EXTINF:-1 tvg-id="HellsKitchenTV" tvg-logo="https://i.postimg.cc/dt61w19B/Hell-s-Kitchen.jpg" group-title="🔹Kitchen Show",Hells Kitchen
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68dcb9f59beaa3a402966db8.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=uFRHRmfLnZMtBZyNdCzm
