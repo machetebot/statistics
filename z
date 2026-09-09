@@ -4372,7 +4372,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6707cfa5da81
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-masterchef.m3u8
 
-#EXTINF:-1 channel-id="mjh-kitchennightmares-fast" tvg-id="mjh-kitchennightmares-fast" tvg-logo="https://i.mjh.nz/.images/auto-kitchennightmares-fast-ba1ad2.png" group-title="Au" , Kitchen Nightmares
+#EXTINF:-1 channel-id="mjh-kitchennightmares-fast" tvg-id="mjh-kitchennightmares-fast" tvg-logo="https://i.mjh.nz/.images/auto-kitchennightmares-fast-ba1ad2.png" group-title="🔹Kichen Show" , Kitchen Nightmares
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/kitchennightmares-fast.m3u8
