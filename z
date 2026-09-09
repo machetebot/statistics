@@ -4363,6 +4363,43 @@ http://rodnoetv.com/tv/000002510/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjdR7pHT/Ohotnik-i-rybolov.png" group-title="🔹Outdoors",Охотник и рыболов
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="IronChef" tvg-logo="https://i.postimg.cc/W16ggTjf/Iron-Chef.jpg" group-title="🔹Kitchen Show",Iron Chef
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6707cfa5da81682f2d1e6837.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=uFRHRmfLnZMtBZyNdCzm
+
+#EXTINF:-1 tvg-id="SnapTV" tvg-logo="https://i.postimg.cc/QC4Gc0k5/Snap.png" group-title="🔹Kitchen Show",Snap
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="BonAppetit" tvg-logo="https://i.postimg.cc/8PGVtZ3Z/2-bon-appetit.png" group-title="🔹Kitchen Show",Bon Appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="Cuisine Culture" tvg-logo="https://i.postimg.cc/rFsZPSg6/Cuisine-Culture.png" group-title="🔹Kitchen Show",Cuisine Culture
+https://jmp2.uk/str-7275.m3u8
+
+#EXTINF:-1 channel-id="Giniko" tvg-logo="https://i.postimg.cc/6Qn0jfFV/Mad-Dog-and-Merrill.png" group-title="🔹Kitchen Show",Mad Dog & Merrill
+https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
+
+#EXTINF:-1 channel-id="Cooking Channel"  tvg-logo="https://i.postimg.cc/jdzRTLmG/s30156-dark-360w-270h.png" group-title="🔹Kitchen Show",Cooking Channel
+https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+
+#EXTINF:-1 channel-id="Cooking Panda"  tvg-logo="https://i.postimg.cc/RC3LY4rg/Cooking-Panda.png" group-title="🔹Kitchen Show",Cooking Panda
+https://stream.ads.ottera.tv/cl/260123d5pvclc9b34klpq1bn10/1280x720_2300000_0_f.m3u8?i=475_46&avod=1
+
+#EXTINF:-1 channel-id="ChefChampion"  tvg-logo="https://i.postimg.cc/9Mc3X0j6/Chef-Champion.png" group-title="🔹Kitchen Show",Chef Champion
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
+
+#EXTINF:-1 channel-id="ChefRocShow"  tvg-logo="https://i.postimg.cc/FKDpcHSh/Chef-Roc-Show.png" group-title="🔹Kitchen Show",Chef Roc Show
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+
+#EXTINF:-1 channel-id="InTheKitchen"  tvg-logo="https://i.postimg.cc/8z3MVfLW/In-the-Kitchen.png" group-title="🔹Kitchen Show",In The Kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+
+#EXTINF:-1 channel-id="iFoodTV"  tvg-logo="https://i.postimg.cc/nrCnZr4H/i-Food-TV.png" group-title="🔹Kitchen Show",iFood.tv
+https://ifood-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="Cocina"  tvg-logo="https://i.postimg.cc/wMcQqx9t/Cocina.png" group-title="🔹Kitchen Show",Cocina
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+
 #EXTINF:-1 tvg-id="ATAJ32000027V" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𑜶𐑾ᨡඋৎ",🔸𑜶𐑾ᨡඋৎ
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 
