@@ -1296,7 +1296,7 @@ https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/IBC.png" tvg-id="IBC13.ph@SD" group-title="🔹RageTV",IBC 13 (480p) [Not 24/7] (Comclark Feed)
 https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://fapwp.s3.amazonaws.com/wp-content/uploads/2023/08/24181120/LAC-icon-1.png" tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel (Comclark Feed)
+#EXTINF:-1 tvg-logo="https://fapwp.s3.amazonaws.com/wp-content/uploads/2023/08/24181120/LAC-icon-1.png" tvg-id="LivingAsiaChannel.ph@HD" group-title="🔹RageTV",Living Asia Channel (Comclark Feed)
 https://streams.comclark.com/pknsd/lac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ml02dtnc01wc.i.optimole.com/w:945/h:945/q:mauto/ig:avif/https://mindanownetwork.com/wp-content/uploads/2024/11/Mindanow-Network-Logo-Vertical.png" tvg-id="MindanowNetworkTV.ph@SD" group-title="🔹RageTV",Mindanow Network TV (Comclark Feed)
