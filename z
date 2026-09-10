@@ -122,13 +122,13 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=6a2d9f815c744e30b9168f3a7d2c5049:fb07ec8ca16ffdb8b8a045fa4c8aac74
 https://ucdn.mediaquest.com.ph/bpk-tv/tvmaria_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_hbofam" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/62F1A4ED-EB56-49DF-912D-0A2388131772/0-16x9.jpg?width=1980" group-title="🔹Cignal",HBO Family
+#EXTINF:-1 tvg-id="cg_hbofam" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEyEOaPmapxLGr_vttrfxVBjKvyH3IYo6eaLZ0t8y6gRW0f7QZW4agiuKECWf74RAQnXopRyD5mbyWaz8uoCjNNABM31wC2EH27xAi_yETHqcl2m8ChDPW9CRao8SnUkW_vWkP60rx3Ilg3RRuDjtVOcVLc6wOyZeeWxPcngvipUQkLNUM90rvqC0DKP9O/s1600/75389.png" group-title="🔹Cignal",HBO Family
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_cinemax" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/BC3C51E7-F1A5-46DE-979D-65DC483AE59C/0-16x9.jpg?width=1980" group-title="🔹Cignal",Cinemax
+#EXTINF:-1 tvg-id="cg_cinemax" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir0eWw5aSiecDFTRx8gawICMOroD6Z97zm-v1Jwf1HU3-mp1sHK-8hx579NhuKNXxbHSriIH1Cc9BRWI7vcNX9TLXxv7RL2CDEjaPtQVsEy9HED_7itxWQP8shNgEQ2wKLVhbRax6dEGI23w6wx_DZrtKVHmlfLpLzCNPyAKMFsO16ftElwzjT0NXCT8RT/s1600/75390.png" group-title="🔹Cignal",Cinemax
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7a9c5215e364b809f148c2d6a7e3045:c92a3b4a7fe9fab97c130468260b963f
@@ -140,25 +140,25 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_cinemax/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e2c9a5748b314f60a9276d5e3c1f8042:c845cc41e3826b6d880b802911eb43f9
 https://ucdn.mediaquest.com.ph/bpk-tv/lotusmacau_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_hbosign" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/D5127959-34E4-41B2-AA80-CE74DDC2C3C4/0-16x9.jpg?width=1980" group-title="🔹Cignal",HBO Signature
+#EXTINF:-1 tvg-id="cg_hbosign" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlTtiy5KTtf5WXJsvLLi2HdmR2CxONACexSHWfbhI5sbY26WKfvKn0g_u4kcv7l5VFnaaq8Bjyv5ZO9eGQL3PF1BMKJl8Et5zta3eBMyOWK3HhNIitvyfhAP2OgidcAD9I27j48grY7NN9I25zFXrZ4jFLfeg0n-kPgGOuB8oYBElEon3AwjEW3DDLvCtF/s1600/75392.png" group-title="🔹Cignal",HBO Signature
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=74d8f5916c234b80a9179e5d3c7a2046:f8d2753ff54579efc01d3373acf21f96
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_hbohits" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/CEE83EE5-D870-4B3C-9339-ACA7FF4020D0/0-16x9.jpg?width=1980" group-title="🔹Cignal",HBO Hits
+#EXTINF:-1 tvg-id="cg_hbohits" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXU6Yaxjv_xRCoseAFTfWN-jLRhB6yszxzFgxmYaEmBDT3gUeFLWnY8zEWTzv0CD-K-lVnD9G2-CKn8cvum97dZDfU4yz4fqS-ywcnYoppdWoW7dDhAA-2mSQy14lEwfzxF6eplk7ul5YoEn78dYQHtcExF-qWrV9-KVP6nqi-tUPQ6ISHtPUuFz4CeO_N/s1600/75393.png" group-title="🔹Cignal",HBO Hits
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e8c5a917d424f06b2196a5c9e2d8043:516c47ccef00a12421d9805c8c1c6c1d
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_tvnmovie" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587/0-16x9.jpg?width=1980" group-title="🔹Cignal",TVN Movie
+#EXTINF:-1 tvg-id="cg_tvnmovie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5aaES69Yo5kvNMddUMkB-SoHtiNgn_xD1TbOryh5sj7loWl8QvpaLYK_CT57hZfdMd2iSa0ctrFfwM6uzRpizNM_ct1bUbtmoHOOw155-JWkMk4EimDkcR0L3MOp4wuGqEtSsO7r4KMc3HTaYOBTIYw4BN6mE78ZXEKSBg5EY30SlCU4NeRIn-siju6Qd/s1600/75395.png" group-title="🔹Cignal",TVN Movie
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6c9a4215d734f608b197c3e2a5d9048:ec695ab203cb2258db220b3863e2a7ee
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_dreamworktag" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/40E328E7-FE69-4287-86EA-FA942A7EA302/0-16x9.jpg?width=1980" group-title="🔹Cignal",DreamWorks
+#EXTINF:-1 tvg-id="cg_dreamworktag" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSf32S4I1_jpdY2zwdEwQIDhFqPPe8nuPpctaT_5jBns_jFy9_ccnMa5i5aFFP3_vAtbuhyphenhyphenPaFPH0_86TJlPnecq8UQdAE4bC-GRGN7WN0wnLFJWHeDH-MxlB5spKR5Eo2lEiakztkZk_8ZBjTTu4LQCyAAqKnREf-ZF6DqTBOfQhcpH1FdR_NaaPp5p-M/s1600/75396.png" group-title="🔹Cignal",DreamWorks
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f9c3a218d454b70a2187e5c3d6f9042:337ca7b74b462dd1ba7441553614538a
