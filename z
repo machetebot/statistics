@@ -50,43 +50,43 @@ https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz" tvg-shift=
 #EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𐍐հ⃯ᨡ֟፝͝𐑾꫶⃮ࠋꜟৎ",🔸𐍐հ⃯ᨡ֟፝͝𐑾꫶⃮ࠋꜟৎ
 https://linear-175.frequency.stream/dist/whaletvplus/175/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cgnl_nba" tvg-logo="https://i.imgur.com/x1ZG71v.png" group-title="🔹Cignal",NBA TV
+#EXTINF:-1 tvg-id="cgnl_nba" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2vinaR15OqvewhhGX70-yMje3Kq8yrPPEssQd7dtU4umIiLhe_Rir7DQ4xnyQKank1l_OoFTF-gKRmy99JHYvyjBPEGVAhzpj0x-WWzhgwq4clOYg5GBWtE9dJpYk_ukesjBydgW_G-N1VmbESMx6sNtN3dOsytC0TYMigpiLT8ssbUZ0m2wgLqzG07JI/s1600/75370.png" group-title="🔹Cignal",NBA TV
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
 https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_pbarush_hd1" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="🔹Cignal",PBA Rush HD
+#EXTINF:-1 tvg-id="cg_pbarush_hd1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW9TA5wGYcrr-qIs2ctGO9_dbptNPjv7sk3y7tLTI3IJsBZ5r7i8Sn6K5xhpMmSX7CGnswaX_I-IbLMUoJPH8bXmBzrBCYciqnWaf5MmPisoKsLwYoBYU9Cep_Qbsm4J5HcSTC1-XmsMchDNWkp3i0JWe_JUROQCPF9wJaXN2KEeVrfps9xLdesapUi7fW/s1600/75369.png" group-title="🔹Cignal",PBA Rush HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_onesportsplus_hd1" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="🔹Cignal",One Sports Plus HD
+#EXTINF:-1 tvg-id="cg_onesportsplus_hd1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig2hlqg7nrj8DRNk4IGUtM9yEgUDslbRAick7cZvlXYP-PbJu5lxXEGShdYpUedR6XJcKmdjyfbAMsOSC9ti_PzIcyuyift6jZKvmLZzRtMu4kjzYnbLtk0QQeK8iBLiiwaFtUGL0nPD2LXTqxoGM4u9_J91i3FX0aeabq-1LLOGxvnUM9g5wBR6zKGRra/s1600/75368.png" group-title="🔹Cignal",One Sports Plus HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9c4f7312a854d69b0137f6e8c2a5490:1105fa92173b06885be336b887bc4d26
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_uaap_cplay_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A869A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",UAAP Varsity Channel
+#EXTINF:-1 tvg-id="cg_uaap_cplay_sd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj3RDGhmgj1fn6Gi5yw8TtsXGJgozzw2mCZuJygaDmofXz-F7_4XjC8P5XOqk0iBkGYrE4s7VTVNL8pTbADXWD9GJN7leIaWCO8j1Q6gsuSDygmnl82hNLAoZr6XZUV5YBcbilRQmTD5aB4I3ivSf-ksPuRaL7f8bpps8SnIXTO6SqfZYqBPBVhbY4TnzM/s1600/75367.png" group-title="🔹Cignal",UAAP Varsity Channel
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="discovery" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A734E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Discovery Channel
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiEJafSIsDEpsHGADutEmPqgnBmDP4MlPMgsq4mcTfP-UUbORJK76nmT54ILjCgscypE6UxnZnEVH-9qsvg-uz8OzOOnD5rGu1UxLMBlJ1Wu1nKlzd-2SUe21k6w6_JOKQ7m2QKqBDQsYIPLiqcMIQ_7voPHL7istakJVuE73FWircgfFRUMWhJVDVw4EH/s1600/75373.png" group-title="🔹Cignal",Discovery Channel
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5a7f8219c364e50b2147f6d3a8c9025:c77d5e56c52c4065c42594422ac85e2c
 https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_animal_planet_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A57B0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Animal Planet
+#EXTINF:-1 tvg-id="cg_animal_planet_sd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg185hBenWeAwsEOvRcPbhdc2d6T11NrUVRBwLe7SFiL2aZ1newXcJVqHOC-KEBo0xTFodlgihEeM8BFyvApE6j3-h0KZAiNwtFylkerhPtVcCRtN9Ah-7NWOlYNSrJW1HD2FzDRRIP9zW8JWUk5icyzG9u_Ng1wsPdtE6AObWf4JvG54NT6fhthRVMVSAc/s1600/75374.png" group-title="🔹Cignal",Animal Planet
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c8e5a927d414b069f236a5c8e1d7049:a9b9198bf7b116b30492aea4dc471122
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_animal_planet_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="bilyonaryoch" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=1980" group-title="🔹Cignal",Bilyonaryoch
+#EXTINF:-1 tvg-id="bilyonaryoch" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh508Lz-XrEmuogEWwcBQgGSySjsPPeyIcm-l-tWK6oYqXGfncz4pp0EtnDSMtrO844bBtVerdUIJC4h2am6YN06jTW2AN8Kvr9hNbnXUYKAFyJ8y1OJeHzI2YbIYC2fp8tM73d-Dokl8X1oCIYNOgps3onTvvSOiv4MuK9nAn9_YwXdQ8qdj7ogv_3_IyF/s1600/75376.png" group-title="🔹Cignal",Bilyonaryoch
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e7f9c518a424d30b2165c3e7a9d6041:8c8c0ef924c982bc1dd92348e024cd4c
