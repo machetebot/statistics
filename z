@@ -176,13 +176,13 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=27f6c4818a534d09b2169e5c7a3f6048:fbd8e319511ff5a1593f5b68da7b81cd
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tagalogmovie/default/index.mpd
 
-#EXTINF:-1 tvg-id="kapatid_hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/F222CD8E-81E5-4D77-AC2F-86E7129C2DD7/0-16x9.jpg?width=1980" group-title="🔹Cignal",Kapatid
+#EXTINF:-1 tvg-id="kapatid_hd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rbDzLvJTVusoZLOE07NbLhzgD7UMdx-7cs-LvZGn152ppszilnCg1Eehn7NuRA5qrbKf19P31iDhV8J_UYu9soOMjuCm1K6m6LEHwEDVZPKl1rRTIIxkYVRQC5zKvHxpi_yLqQrp7sLPllBAIoxN3oRJ-qK5rJai2CnrcbEvD-ObA_IwagiIixuRGPZd/s1600/77698.png" group-title="🔹Cignal",Kapatid
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f7a2c913d6b4e5a9f127c8d4e6a1b90:a73d3d1211fb23084c62572706f45397
 https://ucdn.mediaquest.com.ph/bpk-tv/kapatid_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="globaltrekker" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/09A671F2-39E7-47AF-BC9B-53AB53BC7FD0/0-16x9.jpg?width=1980" group-title="🔹Cignal",Global Trekker
+#EXTINF:-1 tvg-id="globaltrekker" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgglg3r49cig6OzVQu9WEWtPlSQkMP64dqHdabA3oGgMjl0VprI1G2MMvqwJJxNtjLuWpY_iccVrg5bGDUkz8HQKj8DEqUFRY5xTYKF8vGThs9O_UD9FHvPp60AkowuLwLgUWvL8qjzAwsqcWbwI849iAhAEsxiIL3SoFG7BrCw91doA1mifJHwkUVtM1iZ/s1600/77701.png" group-title="🔹Cignal",Global Trekker
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
@@ -200,7 +200,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cgtn/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
 https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
 
-#EXTINF:-1 tvg-id="tv5" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A97A2-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",TV5
+#EXTINF:-1 tvg-id="tv5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT3Au3tdm37sYjRI5gi09zT7iEafbWDKQuc3FhOc0t7kY4urp9XLNHjZQ1SlIb3Qm-hgNinFpTf4HY_30mZK_v_D_E5eQu2cqRepHb1atmRHLdk8M09izBxao2GpXEpS3pfftnJwiyJKoAmnVu68sxAa3CfFU-V7dBwnl8bW8PEDwTkKeYe-IL7hk_c6fc/s1600/77704.png" group-title="🔹Cignal",TV5
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
@@ -302,7 +302,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/kbsworld/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
 https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="kix_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7EE8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",KIX HD
+#EXTINF:-1 tvg-id="kix_hd1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9kqvoBoWGRFmBgq9idUsbSWZMFHfPtIRSi73swzeahhRqAfiU_tWUdZaCw0dkznnpbykMfkVhEfFIxrxT7J_WSayMVqo29jca570WC7IBFWGlBVcP31YgCCQSgK5Ve4XCZpNOai2KoGmczqPf9pKXDbMJdCKgOY5_wtokkojDURiHpjWpckZcd9LjrqS6/s1600/77697.png" group-title="🔹Cignal",KIX HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f4a9c312e854d67b0198c6f5a3e7240:141f058ad1a6230e7c6f9d302ce378ef
@@ -398,7 +398,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/bloomberg_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=a3d7f5916c824e09b2158a5c3f7d2046:32d760047f05c233d9dae35083fe0b30
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nhk_japan/default/index.mpd
 
-#EXTINF:-1 tvg-id="asianfoodnetwork_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB020-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Asian Food Network
+#EXTINF:-1 tvg-id="asianfoodnetwork_sd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxfsycOqyipdm9WUd63Oi88UgwcZ-DocA0zMMIMBGKXw6vSOx0nulQjNV6baugY-fOGXGOwbnLr9vTmzvTWu2WLP7vod5zywKC9qcBk9IyFhzVRe6kYyugZkSpGf12qRq6_asIU906AMDHE2mRHp1eLXj1IK2a-hVJp5Kjigu-wT1_AAMb9_iLrE_YC-I/s1600/77694.png" group-title="🔹Cignal",Asian Food Network
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4b7c8219e364a058d295c6f3e7a1042:d10c7f2a37c1079e6b83837423c0d6b2
@@ -4428,9 +4428,9 @@ https://ifood-vizio.amagi.tv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Duck_TV_Logo.webp/250px-Duck_TV_Logo.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🔹Kids",Duck TV
-#EXTVLCOPT:http-referrer=https://canale-tv.net/
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://arwen1.panaka1.cfd/duk/usergenz9ak7fxt.m3u8
+https://arwen1.panaka001.cfd/duk/usergenz9ak7fxt.m3u8
 
 
 #EXTINF:-1 tvg-id="ATAJ32000027V" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𑜶𐑾ᨡඋৎ",🔸𑜶𐑾ᨡඋৎ
