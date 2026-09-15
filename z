@@ -2056,7 +2056,7 @@ https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cQvf7Xm/Viasat-Nature.png" group-title="🔹Documentaries",Viasat Nature
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
+https://arwen1.panaka001.cfd/vnature/usergenrnd2g9eqk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Ny09KhH/Viasat-History.png" group-title="🔹Documentaries",Viasat Nature 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3272,6 +3272,9 @@ https://9c428b4b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVF
 #EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" group-title="🔹Movies",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9fd4PrhN/images-(12).png" group-title="🔹Movies",Rakuten TV
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+
 #EXTINF:-1 tvg-chno="37.9" tvg-id="MGM+.Marquee.HD.us2" tvg-logo="https://i.postimg.cc/nh2HSy7y/MGM-Marquee-2023-svg.png" tvg-name="MGM+ Marquee" group-title="🔹Movies", MGM+ Marquee
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4387,8 +4390,8 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68b74890b5b4
 #EXTINF:-1 tvg-id="SnapTV" tvg-logo="https://i.postimg.cc/QC4Gc0k5/Snap.png" group-title="🔹Kitchen Show",Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bw7C8Q16/Taste.png" group-title="🔹Kitchen Show",Taste by iTV
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-69a202f60f8d297b3f6ac0f4.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=uFRHRmfLnZMtBZyNdCzm
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bw7C8Q16/Taste.png" group-title="🔹Kitchen Show",Tastemade by iTV
+https://tastemade-tastemadefreetv16-tcl-mmaw8.amagi.tv/playlist/tastemade-tastemadefreetv16-tcl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BonAppetit" tvg-logo="https://i.postimg.cc/8PGVtZ3Z/2-bon-appetit.png" group-title="🔹Kitchen Show",Bon Appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
