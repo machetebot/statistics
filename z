@@ -248,7 +248,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_spotvhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f8c2a6915d744b309e186a3f7c2d8049:1ad3243b38c60312caa6ba11f150c19c
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_ptv4_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_ps_hd1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDmG6-vpxHHkh88vttz-MaH3_9dGSZOM0EQI5N82DyxIcQjNIGlytpqsclKngF1yNwziwytvwN8vBipRjkr5c0p-r6ytqP5mq3Ndt9RPLS6t8LFIB_GOHoRZUF3XAFm7wFr2Ga6xq02V_n5l-cTHTPiIRYlb2xpL3392fN2jx_280W3RezMninKTKwOtg4/s1600/77716.png" group-title="🔹Cignal",Premier Sports HD
+#EXTINF:-1 tvg-id="cg_ps_hd1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtyYsP_oPijX2jkJNKu0R_IFcDoQh-AM1eQcnmuINXCEX94S5Q1zrtKXRr49AnD-co13QMJIETpaC_Ej3Lg5PkizsUn6XGMG9Ew-6GtLvJeDz1InolYB4qUkRA3TpRKSOxw4S_vpeS1iX1XkcAzTlebhBOqJ8kaXgf4QpyM32sGH0gCj3nRRHeVLBXP1uX/s1280/77750.png" group-title="🔹Cignal",Premier Sports HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91e4c6725a834d198f602c7b9e3a5148:4185d260443198690be03e294fdc1240
@@ -278,31 +278,31 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbcearth_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_rockentertainment" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6C78-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Rock Entertainment
+#EXTINF:-1 tvg-id="dr_rockentertainment" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipKfgmbjyNgB7kiXk9BrdINl2cxzjDyl4XmI0y3Uj1PLNauDcp50nMcqG_GlyAzzeaDz95aGqFPyLS72bgCUYxybSh_4oxo5rpRdrVrwE6KaFQdYSwxqc5rS6YuHvP1eZx3kUcw7sV1h_7SNWwpny0pQb96eZT0fudLLwkdhcAQnS-AexqNertYMi3g-Bl/s1280/77738.png" group-title="🔹Cignal",Rock Entertainment
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e5c7921a434f60b9287d3c9e5a6041:fab817af24eab2a73ae89145797cf556
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockentertainment/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_cctv4" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7448-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",CCTV 4
+#EXTINF:-1 tvg-id="dr_cctv4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFkHxUDE_k90sfI1B7FVnA7fQMMNslo6nn2b6W1fRpFRQR3bct7hZV7lNZTN1Mh0qdTgN4Nrx4VOS1CVvjbIwotEQ8kocapog-Ya4WNN27HQnYM6vUsOjTgJxilYvzhiWKRQmaCRraiSFZ-bFiQxKkdo3fRkf26nDLB6q8kQCxhPpoJwTOl1X2yiDyNXAp/s170/77739.png" group-title="🔹Cignal",CCTV 4
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83e5c4917d624b00a2196f3c8a5e2047:d8fae6a24d5df3fa8e17a8f4a4854426
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_cctv4/default/index.mpd
 
-#EXTINF:-1 tvg-id="arirang_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7754-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Arirang
+#EXTINF:-1 tvg-id="arirang_sd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjev7zbMzYFXHL-0U5EjvOzxuPNeiin5lvBz8Tl4n8aMw_Let8-qEf2nXwuSa71VApfVh16I2NM_N_RzYAQsPoCm6ifFtsvDnq3xEdbspKhxT67V5S2EZMchsh5AaULij8HBD4RpncXC9GV5B2Fii_Yz5lF-5q8szCZPelspZfR5gvBo1TEUp8cLjl4n312/s200/77741.png" group-title="🔹Cignal",Arirang
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d4f9c216a834e508b165c3a7d9e2048:9d148906d890053a00f5e581185ac066
 https://ucdn.mediaquest.com.ph/bpk-tv/arirang_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7CE0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",KBS World
+#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYXMmycg0yp8Mx4az2PL6BISgFCIgF2MnRlSPQJHwLUvwstGUXv1gikdf4pRvwqXZow8ec28LEsZRqCuhyphenhyphenVq96biuSk8R4BfBFOxz2tb-oR6g-sP91PYIVgW-ldoc19IYU2Ddu4-jfR_ig7tlNUMIfU7Kl2CoRkIXxupRwkZAxTyNO-LTIe2aOkNGuxq6Q/s960/77742.webp" group-title="🔹Cignal",KBS World
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8c5d2317a944f06b2186d3a9e7c5042:ce327be0871677eb1c480d10a73eac34
 https://ucdn.mediaquest.com.ph/bpk-tv/kbsworld/default/index.mpd
 
-#EXTINF:-1 tvg-id="onenews_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7DDA-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",One News HD
+#EXTINF:-1 tvg-id="onenews_hd1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilXuc0orksQB6Jdz9uAUCSmRmpJXvMIbAQh_ThLH7LSn7pGFPRAy3sD2K7Xz6JvVzMYvuA1u-QOypq9HBu17gCno5bOQSrdUml0V7xKKSVDrKj6QvZ1EJrurafyMW5l2WgmrfuXmb-Ket2CJbqQn8h6NkZwnKGrBx9Tb43jPgUprvaixLJYTdwHB5kZ4zs/s250/77743.png" group-title="🔹Cignal",One News HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
@@ -314,31 +314,31 @@ https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=7f4a9c312e854d67b0198c6f5a3e7240:141f058ad1a6230e7c6f9d302ce378ef
 https://ucdn.mediaquest.com.ph/bpk-tv/kix_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_lifetime" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A80E6-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Lifetime
+#EXTINF:-1 tvg-id="dr_lifetime" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrGgThC07oZ8o7K-u8sUppIFHwZifp3FlRyH2c9Hm8rDIdTM25jtNYG7L3VaKDYn2jfmWfBdJ0C3-pHy9btTk-llu-EV_zlDxiOR4l7yQNsRQLOeaaaIeSWYJvN_LUb3yjpYcmXXz06hwn_3Mi4JBzBuDZW8HzBD7sIMXMtyJn2FNVpCPn5LhHPHctzUB/s960/77744.webp" group-title="🔹Cignal",Lifetime
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9e6a3214c754f908d165a3c7e2f6048:32300d9517f91a4acb747d360768dd00
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_lifetime/default/index.mpd
 
-#EXTINF:-1 tvg-id="bbcworld_news_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A847E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",BBC World News
+#EXTINF:-1 tvg-id="bbcworld_news_sd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOT4b3I7BvPf0_qS0cJd1Jo-sxyAifbX1k6VoEseNXKWhZGUS5Mdwf3ysjPW_iFgpjShk_2LHzuhoQldZv68R_GM4XkZB07ffeUXoFz_WPscz1qDQonaZqlmXG-vIoCOfvpzxxTYxZDhXsor0j90RK1X6gMGr-Diy-ecji3LIxfspGm6XFCTMO_6DpRcgb/s1280/77745.png" group-title="🔹Cignal",BBC World News
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1a6e8329c574b048d216e5f3a7c9048:8106237b47f99be13f4e941ca5bd35c5
 https://ucdn.mediaquest.com.ph/bpk-tv/bbcworld_news_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="hgtv_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A858C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",HGTV HD
+#EXTINF:-1 tvg-id="hgtv_hd1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1D-L4nxqg_6nv0GMK3KjMWbdJRQVVBpvK9Nw3Qw18K2bS5mCujmTPpgdXf31JaIbflJ6K1qV5FvJmljsAFJO9vkvOnqBx_ektMC_mOGk3R2tXIRbIlVjEB1P_rU1czbu2fT4eTZyo8juFK_8bozB2z225hXwUYltPYQRDsSUopZQCZSRl-g63cMImCFH4/s1280/77746.png" group-title="🔹Cignal",HGTV HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e9a6c317d524f808b163c5a2e7d9048:5079e2288b584f47d4bbf8d149b2a986
 https://ucdn.mediaquest.com.ph/bpk-tv/hgtv_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="travel_channel_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8898-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Travel Channel
+#EXTINF:-1 tvg-id="travel_channel_sd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4CP-iIZj3DimIqZiyEK0gIcIVFR_Iatjov2ZRa_YYuVeMiI023hSkWQtCfB6KFsiuEcao6xf6Yk4PU66CSjZabCIc_LQoX3HtVAx6T890mF-AvXcPlGfWHSB-BmrkOj6TsDoQ5_o30XnDaf71mfbxp90uMxMIYNfB-CiIff2STJ6yfjD34VDauNZX-wWu/s1280/77747.png" group-title="🔹Cignal",Travel Channel
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18c6f9235b744d81a0397e2c9f6a5048:7974c1376447c563f5fdb41be0104ddf
 https://ucdn.mediaquest.com.ph/bpk-tv/travel_channel_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="premiersports2hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A899C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Premier Sports 2 HD
+#EXTINF:-1 tvg-id="premiersports2hd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqNNHJsc5Nd1eFP8x2ia_zqnu9zHmJa3aqtGfr0cZqv6AFgvHsffPB82n5dDgMn7-MUlQ-etwE-xo2RmwE8yAOVkIYoRml_JLRz5mTB4BCAQHmLMw_YmOCtzVeKQxe4M3qFZsIHprvwt-50BAM1YyWdcplerb2Wkwchrw4-nIgg5bXxzGotT2x3A6_wiS9/s1280/77749.png" group-title="🔹Cignal",Premier Sports 2 HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72e4b9c13f864a52a9178d6c0e5b2394:9390c1edae5ecf680c168daf44bf6a03
@@ -350,25 +350,25 @@ https://ucdn.mediaquest.com.ph/bpk-tv/premiersports2hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc
 https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_aljazeera" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9284-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Al Jazeera
+#EXTINF:-1 tvg-id="dr_aljazeera" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSLxaps_tL8hIE66UvPlw8QdurrfcFyS48zlCbA1MxJMnu_rDaQFakjBTuXW9rl3c0N6xK-q6QWUbPAnXLZWscvWhO51Ob-DbycAWp9LL2lGsE7PRIkPKzSKXRW2Fjbt9EveN0XMM7akSJhyphenhyphenC3bKdsuSwI3IkLzFhC3PGxvHgJ97qyWuu-bf5-l6me3kx-/s1280/77752.png" group-title="🔹Cignal",Al Jazeera
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73c5f8919d424b06a2186e7c3a5d9040:bf46e85e8fba9f0eae0931394d478d25
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_aljazeera/default/index.mpd
 
-#EXTINF:-1 tvg-id="oneph_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9392-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",One PH
+#EXTINF:-1 tvg-id="oneph_sd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMmM5ETjepIEdt5JcuIWXHqRbNP9J3v7qkWHvFuMG0CPUJ1Rl_lLvglGJvUIjOhAL_twHJJNsTKWJWzzNeIIV0haEmHdcoiJnwMdRn4yg2IIPQEG2nlP_ow2Auin6qfKP29uwhrDDjVf8IEBeSOn_tA8tXSAI0uNJRY7_a1W9XbWaSFI7M7VwXuPPFztAb/s1280/77753.png" group-title="🔹Cignal",One PH
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e9a3c718d464f20b9157a6c2e4d8031:7bf8a7666a2d572fe111b5f829c99266
 https://ucdn.mediaquest.com.ph/bpk-tv/oneph_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_foodnetwork_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9496-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Food Network HD
+#EXTINF:-1 tvg-id="cg_foodnetwork_hd1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifJX35IGms9QM5q4k22de-XB6ds2DeupXs91flA981FXDv6T8yBjCcdsxjM1PXcb_XMh6KdaAZm2sZqqJ8kx2ShqCfjgEBEU7vvA2dhr-pu5lr5NB4lvVW9BLfAaWmUL8z7pBQH_6hsN7Om_UVATrmSpB7rsFZfrrfWSfEba_sg-c8b6jvtZmPgSmVzb5W/s1280/77754.png" group-title="🔹Cignal",Food Network HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1f4a8926c374d509e218a7c3f5d6049:15cde0b44b44f38ea936513a99606c1b
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="depedch_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9590-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",DepEd TV
+#EXTINF:-1 tvg-id="depedch_sd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFv5fQqXclfj6-FSfxqc_9UE2hMw1QIOayEsVhEUxjP-QLuhZ2VeHCDWRyod2OV93WlrajQGlX391tg2T7SBvzsEVlof3ib1awBFDAMVYSj6FK10REUHbNESB2B-nNHMq88wSmFl1hH_nuvc2r3k-qOWOkIu6ehN0RtVqS8FTILaM_TXOgqENAkRaepnCv/s1280/77755.png" group-title="🔹Cignal",DepEd TV
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1a5e8329d644f70b2187a3c6e5d2041:55979431f291f7dff35a43b73b3c2a36
