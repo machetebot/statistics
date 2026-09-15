@@ -188,13 +188,13 @@ https://ucdn.mediaquest.com.ph/bpk-tv/kapatid_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
 https://ucdn.mediaquest.com.ph/bpk-tv/globaltrekker/default/index.mpd
 
-#EXTINF:-1 tvg-id="cgtn" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/DEFC81EE-883B-446F-BD47-21F5B7FE0730/0-16x9.jpg?width=1980" group-title="🔹Cignal",CGTN
+#EXTINF:-1 tvg-id="cgtn" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP0mlJ7J0ySz3tJVUJQvGaNvPIBfPIaa-cDR8ceRe8-5dnI1SM_stSxWGWJ7Q-hRIrDC0SkfPaJWwEhHcB-DepEdDIVC0OYBbi_ydbVx87ZgcmF76krd1yruukbH8OF1ku6VL3AMkzCk7GjXIesmNA8i4lGeuAoAzHT94KwioOeOWRdYtZlLx8sD2tR-Z2/s1600/77705.webp" group-title="🔹Cignal",CGTN
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2a7d6318c544b099e216d5f3a7c8042:1abff1626a5403fa2ea8964c2f3b9c1d
 https://ucdn.mediaquest.com.ph/bpk-tv/cgtn/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv5vibetv" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/726AB804-66DE-4684-A455-ABD1683114CF/0-16x9.jpg?width=1980" group-title="🔹Cignal",Vibe TV - TV5
+#EXTINF:-1 tvg-id="tv5vibetv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtFs8aWXOLC7Snv22M3D4u6LtG-RDwv_dH8_TWHkpuf7PARVk0XwLBi49yE8JQY-Zerh4FAlU-IbdYCQ-B4QxhMkg46eMy0OV6l9I76qpmSIEaEeeowgkhU65bmFqaWtyBcBXjQPA4q6kL_dsF6CSxDS7c2GKyE9r5Hz0jrHMqbaZQZxmNcvh3ReKVTG-C/s1600/77708.png" group-title="🔹Cignal",Vibe TV - TV5
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
