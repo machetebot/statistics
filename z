@@ -179,7 +179,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=3a7f9c615d824e40a9168c5b2d7f3049:2bc91eced1660ecf88299a42e4c0cd91
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_tagalogmovie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Trk10L_cImOaRfqbuicE13eZ6bpNESVm67AKKRxXndDFFG5DIbKTxPFb8qornQGjyJz2_miT71orFwyWwH4SWRB8ftvyR8dCArvkH3b5h8qVmFjAPNegmr8zm5cpwGvDBdQPuGSHfOxlNkY3coPPsNPyhUAhBcIC3UTd0yr3oWt0mkHISPnau-Oy15mf/s433/77775.png" group-title="🔹Cignal",Tagalog Movie Channel
+#EXTINF:-1 tvg-id="cg_tagalogmovie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Yk7I1P8b3TH28QuVKuhE_lbg1Vi5CbzbUX9WN6Gg4yi9NNQQtydFYL656f0uxC88Nw2vRxOZcuLpTjrps9XUu-xElHnfEJaaC3grFuWPft-81t9PHxI1OgqN_tTHC9nSJSq1-pJWA8UaY-qnXrEvAxzG3hpa-IhdKdGMdNNrrWLw29bBYXnKt8UX8CFH/s420/77783.png" group-title="🔹Cignal",Tagalog Movie Channel
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27f6c4818a534d09b2169e5c7a3f6048:fbd8e319511ff5a1593f5b68da7b81cd
