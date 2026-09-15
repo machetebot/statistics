@@ -104,7 +104,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/bilyonaryoch/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb
 https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="truefm_tv" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/4514F052-94DC-47C5-8BB1-DA42BD5F2F57/0-16x9.jpg?width=1980" group-title="🔹Cignal",True FM TV
+#EXTINF:-1 tvg-id="truefm_tv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnDA4wyVCeLsowqg6c3Y08UyqvkAS-JNTSan9trWaIzGishNi4_wN00vKZGf5fLOTJjtAvZOQYyYM7jCcQ3M5jRyh6MnOKd2rVP-jpZOSN2j8Jh1764s4_lwmbRfErhSp1HQ4MgNKiXDMBIHLyR8WY0mKvKSpRLYWlH7GeYpPEXMoBAz6Y_XPycyvRUOC_/s1100/77770.png" group-title="🔹Cignal",True FM TV
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c4e9a516d724f30b2187a3c5e9d6041:e25c167573772b510ff8e5282560a349
@@ -116,7 +116,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/truefm_tv/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hitsnow/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_hbohd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B741DD7A-A7F8-4F8A-A549-9EF411020F9D/0-16x9.jpg?width=1980" group-title="🔹Cignal",HBO HD
+#EXTINF:-1 tvg-id="cg_hbohd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuLQgaQyqkroGeboOdeqd4Shyphenhyphenl8S-e3yg5pvV2ugJAjRSF-w8sXJco1qWwnbe9lvw-tOnYderTnDYG470rforJQRk9qMRptWJU73wAxeqJsoJvwDRgQMKDaEJMieQ8ZGo-HtjSd2KCQE1hwRN-6rj44xyfaEFSujTP1x28GlZRnsQGuYXUvNfoueKitfgH/s5000/77768.png" group-title="🔹Cignal",HBO HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7f3c8215a944e068b176c9d2a5f3048:93c0a798243d6443864d1a7ff3e42c05
@@ -170,13 +170,13 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=6f9c3a218d454b70a2187e5c3d6f9042:337ca7b74b462dd1ba7441553614538a
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_tvnpre" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/66B5278C-75EA-4D93-AD2B-A5822A0F1056/0-16x9.jpg?width=1980" group-title="🔹Cignal",TVN Premier
+#EXTINF:-1 tvg-id="cg_tvnpre" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCmvvrlYrjrUSf5VNaFThvLIU3b-pRnSMeSVPhbbMA2qXw6lfKwDxSRIHzztHY-ssvVX3lUPfBvEcNaf4g8JGS28TzFeHtdSPbQD8boUQsMQilwoIs0KMy4H-HbwK1pm_XXQuKbo9SFKC3oIwT173mpVVWCPCT-dUyW7IxwhxHst-7BYP8MtPjrxRCJnJb/s1280/77772.png" group-title="🔹Cignal",TVN Premier
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a7f9c615d824e40a9168c5b2d7f3049:2bc91eced1660ecf88299a42e4c0cd91
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_tagalogmovie" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/A9E09C52-721F-4316-ABB9-35EF145B69C0/0-16x9.jpg?width=1980" group-title="🔹Cignal",Tagalog Movie Channel
+#EXTINF:-1 tvg-id="cg_tagalogmovie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsZ9Fm075cwNsSY9LW6RS25GLtZbusQLjwrcD5URTmpbBn9LcnRfqKokmqckiJgQITZeHNF6wiWXgmCzDJjiQMpPB2Rxpssnx6sXhuIdhkr-xI2Ux8ELrkLMgUXTm_NDV-Q60M8ixkcRJ5PKd4pscT7aahZ9Kig6eJRbMBl3LXhIWPXn_xZo2Z3dSHH-B3/s250/77771.png" group-title="🔹Cignal",Tagalog Movie Channel
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27f6c4818a534d09b2169e5c7a3f6048:fbd8e319511ff5a1593f5b68da7b81cd
@@ -230,7 +230,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_cnnhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f3a8c9126e544d809b312c7f5a8e6140:43f5361983896b47ff01b4f77c5dbf3f
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_dreamworks_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5698-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",DreamWorks HD
+#EXTINF:-1 tvg-id="cg_dreamworks_hd1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSf32S4I1_jpdY2zwdEwQIDhFqPPe8nuPpctaT_5jBns_jFy9_ccnMa5i5aFFP3_vAtbuhyphenhyphenPaFPH0_86TJlPnecq8UQdAE4bC-GRGN7WN0wnLFJWHeDH-MxlB5spKR5Eo2lEiakztkZk_8ZBjTTu4LQCyAAqKnREf-ZF6DqTBOfQhcpH1FdR_NaaPp5p-M/s1600/75396.png" group-title="🔹Cignal",DreamWorks HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f7c9a425d864e30b2198a3c6f7d5041:b392ee3cd42686a8cff3070eef614745
@@ -344,7 +344,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/travel_channel_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=72e4b9c13f864a52a9178d6c0e5b2394:9390c1edae5ecf680c168daf44bf6a03
 https://ucdn.mediaquest.com.ph/bpk-tv/premiersports2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="hits_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8BB8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Hits HD
+#EXTINF:-1 tvg-id="hits_hd1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcAJsWCB_BlMQBBgo0HnB5zhuZM6kfBliUYH-jHQoOqk084aq1UnadlFcSeTTGp6bMKargQ5rw5Qa-5FuHOiVZmqZcNvkN8zmOf1ddWdP9_jD68WjgQmC-FPZ7E4BDFKZQhkie0u_AXJuxarPhCGYisVsbvOZJKQt_00Fk12szv2QRn_mw-NTspF2OFw2K/s1600/75382.png" group-title="🔹Cignal",Hits HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc
@@ -374,31 +374,31 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=c1a5e8329d644f70b2187a3c6e5d2041:55979431f291f7dff35a43b73b3c2a36
 https://ucdn.mediaquest.com.ph/bpk-tv/depedch_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_historyhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9C02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",History HD
+#EXTINF:-1 tvg-id="dr_historyhd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8uYpJd4ITlM1Q0DnoPvkGNzWbjNKPyUhCDLex-SXFFCPepwjzfeRx1eGYwcPERyFJYBLTMNhQpPV70pO_LwD8wFJlh6j_uIeDkfWpJer9asWrgJjNe35s_1iTzlkEQf0I5CCu-DKurGZuRikY7dSpNzdlQj-I9-j5Q3LEyM8RcaiiRNnUOF_TwZ_PfxOY/s330/77757.png" group-title="🔹Cignal",History HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5c7a8219d464e30b2186a3f7c5d9041:dacc84b7010ca22f8c63a7c290461ed3
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_historyhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="fashiontvhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9D06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Fashion TV HD
+#EXTINF:-1 tvg-id="fashiontvhd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPt5oET90K6lgvCATviZYwoKzTYY_-cUndBGmb99jxRyXOLp7DIVobaWi1pLLpmHBUGOPv2ewkDsNGmZ-SWjtLmSgYQzycp9HYzjoMNDRv0fmKZ-M0z4ZlbY5Z5M7rlfYnYu5fuiult7tOs_MZ0hvcXJMFLzhPcddhY3RLDzovW6w0MjdV0EnNGe63v-Es/s500/77758.png" group-title="🔹Cignal",Fashion TV HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a4e6917f324d05b9186c5e3a2f7049:92b4ece8c84379145045267b47f183d2
 https://ucdn.mediaquest.com.ph/bpk-tv/fashiontvhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="celmovie_pinoy_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9F0E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Cinema One
+#EXTINF:-1 tvg-id="celmovie_pinoy_sd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPIMBPfbp4A2bJx4w3CNy3USW5TPsAOEInBTgkZLZAghyphenhyphentzYezbw7Za-PKnyW5UHAawA66UR9Fx-y4V6Mn0WdrGwhDSAGeVfcbhG1ihJd6eFJ96IE6lMvMINqJ3AmWOCAI09n0srpwKdyEKJUPOrsCRRjy4r1iMO6KLL9ocF8FXQMLCzQ5piYuoW6qBZso/s1280/77759.png" group-title="🔹Cignal",Cinema One
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=35f8d6917a424b059e166c3a7d5f8049:76830e1bcb5819f76b7c515e9d65cc31
 https://ucdn.mediaquest.com.ph/bpk-tv/celmovie_pinoy_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="bloomberg_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA47C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",Bloomberg
+#EXTINF:-1 tvg-id="bloomberg_sd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoFg1VYeX7-5-ozoF0F8uOY_xr__5TwY19y3LDY5D5ZtPqFZhMlH6OkhrdpMCbPRQDLv1PS5_z52ofO0i7hSV2edQgqafDrD0NN5wCbgnqEzgjMG5NOmLzquYNEcdZDfKKnzntxC57Jpt3bIoX4SZtjvmnYDa5om5dTLlVUZFGfSTaaGeKMp4TbmBATlyB/s623/77762.png" group-title="🔹Cignal",Bloomberg
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19f6c8325a744d90b2618e3f7c2a5049:784fffb38dc4fb6d5b74de822074feb4
 https://ucdn.mediaquest.com.ph/bpk-tv/bloomberg_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_nhk_japan" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA896-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="🔹Cignal",NHK Japan
+#EXTINF:-1 tvg-id="dr_nhk_japan" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_kQXWmPOnEGqnsLKtgEX-NuvxMF6b3Ftq2czSj4j4FEy1DIL2rJZuGVYFxaMHWov8ma6b_7x6O0tHY6t5WkEr7-o80IUMpQQVfhqmkzKu1VuxsYqD88pQWn5-n54IAmbJEsaH_HDZejXs1wCG96TI1Y6Tzki9__J4zu1uT7wtGKkT86uSKlTOQEBDdnvt/s250/77764.png" group-title="🔹Cignal",NHK Japan
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3d7f5916c824e09b2158a5c3f7d2046:32d760047f05c233d9dae35083fe0b30
