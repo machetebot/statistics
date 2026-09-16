@@ -4432,11 +4432,15 @@ https://ifood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="Cocina"  tvg-logo="https://i.postimg.cc/wMcQqx9t/Cocina.png" group-title="🔹Kitchen Show",Cocina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Duck_TV_Logo.webp/250px-Duck_TV_Logo.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🔹Kids",Duck TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizitQtmbI9GtbXQ9lotXbHYzcKWTBhct8PlcAgNzVKlmbJ3reBuq36PCC4crqVPJUOidwW3JXW2gVay1jTQJ_kfFMzDo4eyuTECfY25kcs23RUpLJzTGMrUlGHlcDv9o861pc9pwH2DEyAmrKm3LN-i2lt97UlDrR7XtTKURVwBl9VD45BbzXbauFDIPBQ/s250/77786.webp" group-title="🔹Kids",Duck TV
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://arwen1.panaka001.cfd/duk/usergenz9ak7fxt.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI-3E0tq-r4m5HazhnR3TTnyadcKJKOqMtkIL7UwAwtciNxTFpaeGxyE9G5F5pUU2mstKy1a5EzwCv19Fp_LSfLLKgY31Ft2VMTgHNYyyjVGjLtPl37_DMMeM1FdTJA8yWQA8fwb2ps7w1u40roS-hpcq8FSEhq4iASVq6Rqq_i38FvIif8taFNg5662cj/s137/77785.png" group-title="🔹Kids",Tankee
+#EXTVLCOPT:http-referrer=https://cdniptvpotok.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=39
 
 #EXTINF:-1 tvg-id="ATAJ32000027V" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𑜶𐑾ᨡඋৎ",🔸𑜶𐑾ᨡඋৎ
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
