@@ -56,7 +56,7 @@ https://linear-175.frequency.stream/dist/whaletvplus/175/hls/master/playlist.m3u
 #KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
 https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
-EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2vinaR15OqvewhhGX70-yMje3Kq8yrPPEssQd7dtU4umIiLhe_Rir7DQ4xnyQKank1l_OoFTF-gKRmy99JHYvyjBPEGVAhzpj0x-WWzhgwq4clOYg5GBWtE9dJpYk_ukesjBydgW_G-N1VmbESMx6sNtN3dOsytC0TYMigpiLT8ssbUZ0m2wgLqzG07JI/s1600/75370.png" group-title="🔹Cignal",NBA TV http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073 
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2vinaR15OqvewhhGX70-yMje3Kq8yrPPEssQd7dtU4umIiLhe_Rir7DQ4xnyQKank1l_OoFTF-gKRmy99JHYvyjBPEGVAhzpj0x-WWzhgwq4clOYg5GBWtE9dJpYk_ukesjBydgW_G-N1VmbESMx6sNtN3dOsytC0TYMigpiLT8ssbUZ0m2wgLqzG07JI/s1600/75370.png" group-title="🔹Cignal",NBA TV http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073 
 
 
 #EXTINF:-1 tvg-id="cg_pbarush_hd1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW9TA5wGYcrr-qIs2ctGO9_dbptNPjv7sk3y7tLTI3IJsBZ5r7i8Sn6K5xhpMmSX7CGnswaX_I-IbLMUoJPH8bXmBzrBCYciqnWaf5MmPisoKsLwYoBYU9Cep_Qbsm4J5HcSTC1-XmsMchDNWkp3i0JWe_JUROQCPF9wJaXN2KEeVrfps9xLdesapUi7fW/s1600/75369.png" group-title="🔹Cignal",PBA Rush HD
@@ -2309,7 +2309,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?includeAss
 https://dpv6ceilvhyrw.cloudfront.net/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.postimg.cc/qBKhHdBb/WWEtv.png" group-title="🔹Sports",WWE Network
-http://websafety101.net:5050/JT2024/wxApKJ57yy/509152
+http://nocable.cc:8080/vVgP6v/817017/11645
+#http://websafety101.net:5050/JT2024/wxApKJ57yy/509152
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.postimg.cc/KYFSjBtB/Impact-TNA.png" group-title="🔹Sports",TNA Impact
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
@@ -4412,8 +4413,10 @@ https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
 #EXTINF:-1 channel-id="Cooking Channel"  tvg-logo="https://i.postimg.cc/jdzRTLmG/s30156-dark-360w-270h.png" group-title="🔹Kitchen Show",Cooking Channel
 https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
-#EXTINF:-1 channel-id="Cooking Panda"  tvg-logo="https://i.postimg.cc/RC3LY4rg/Cooking-Panda.png" group-title="🔹Kitchen Show",Cooking Panda
-https://stream.ads.ottera.tv/cl/260123d5pvclc9b34klpq1bn10/1280x720_2300000_0_f.m3u8?i=475_46&avod=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RC3LY4rg/Cooking-Panda.png" group-title="🔹Kitchen",Cooking Panda
+#EXTVLCOPT:http-referrer=https://cdniptvpotok.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
 #EXTINF:-1 channel-id="ChefChampion"  tvg-logo="https://i.postimg.cc/9Mc3X0j6/Chef-Champion.png" group-title="🔹Kitchen Show",Chef Champion
 https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
