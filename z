@@ -58,7 +58,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2vinaR15OqvewhhGX70-yMje3Kq8yrPPEssQd7dtU4umIiLhe_Rir7DQ4xnyQKank1l_OoFTF-gKRmy99JHYvyjBPEGVAhzpj0x-WWzhgwq4clOYg5GBWtE9dJpYk_ukesjBydgW_G-N1VmbESMx6sNtN3dOsytC0TYMigpiLT8ssbUZ0m2wgLqzG07JI/s1600/75370.png" group-title="🔹Cignal",NBA TV http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073 
 
-
 #EXTINF:-1 tvg-id="cg_pbarush_hd1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW9TA5wGYcrr-qIs2ctGO9_dbptNPjv7sk3y7tLTI3IJsBZ5r7i8Sn6K5xhpMmSX7CGnswaX_I-IbLMUoJPH8bXmBzrBCYciqnWaf5MmPisoKsLwYoBYU9Cep_Qbsm4J5HcSTC1-XmsMchDNWkp3i0JWe_JUROQCPF9wJaXN2KEeVrfps9xLdesapUi7fW/s1600/75369.png" group-title="🔹Cignal",PBA Rush HD
 #EXTVLCOPT:http-referrer=https://mediaquest.com.ph/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4413,7 +4412,7 @@ https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
 #EXTINF:-1 channel-id="Cooking Channel"  tvg-logo="https://i.postimg.cc/jdzRTLmG/s30156-dark-360w-270h.png" group-title="🔹Kitchen Show",Cooking Channel
 https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RC3LY4rg/Cooking-Panda.png" group-title="🔹Kitchen",Cooking Panda
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RC3LY4rg/Cooking-Panda.png" group-title="🔹Kitchen Show",Cooking Panda
 #EXTVLCOPT:http-referrer=https://cdniptvpotok.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
