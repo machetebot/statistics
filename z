@@ -4442,6 +4442,12 @@ https://arwen1.panaka001.cfd/duk/usergenz9ak7fxt.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=39
 
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.KFXEhPqV71jSnjoPenSCaAAAAA?w=100&h=100&c=1&bgcl=c2866b&r=0&o=7&dpr=2.8&pid=ImgRC&rm=3" group-title="🔹AM/FM Radio",Wish 107.5
+#EXTVLCOPT:http-referrer=https://www.wish1075.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://radio.wish1075.com/web/stream/wish.m3u8
+
 #EXTINF:-1 tvg-id="ATAJ32000027V" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𑜶𐑾ᨡඋৎ",🔸𑜶𐑾ᨡඋৎ
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 
