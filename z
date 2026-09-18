@@ -4448,6 +4448,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://radio.wish1075.com/web/stream/wish.m3u8
 
+#EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCnPKWkDp9g4vPzYwEA6rGzoyGSG9WUzGk-8CWqBdbyNHhS1_eHzjuaARGX1Cxy_wfijxUMdv6Ffsz_w1WsEDgSX0XFdrk2R5gGwsunHBgmMn1P0bGqi1Nqgk-skXXKQjnEfRBUMFWRI3kFODrHckZ0FVnv-A9z9DxxbThJ7qbQLGSNS6pafKJJvhZSbm9/s288/77829.png" group-title="🔹FM Radio",Magic 89.9
+#EXTVLCOPT:http-referrer=https://kick.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://zharlzzz.short.gy/iKo8N4
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOwB9Vrqixw6AUYx6KsP62yDu3C2gt79iOFF6M0yxcSyqsCv27PzbmC6yNyhwbPp9mIGoi_iVkKCDpxGzqebi5Z10K2oaOIUAyxWgGAYglqoiwbfyTZ4V_HntNupEVAdvaGgw2HNdj8swnE9Kvq3nEKKxXZrsVz8M3KZv2S1n9e5O4Dy-jsM2SWAWkbRvI/s150/77815.png" group-title="🔹FM Radio",wRock 96.3
 https://wrockceb-iradioph.radioca.st/;?1759654424802
@@ -4455,11 +4459,24 @@ https://wrockceb-iradioph.radioca.st/;?1759654424802
 #EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRxao2fgOqT6WfqCAB2siGoehdLEV-SsoFp0_sV4clsFNGcZdSScwdlC9t9ShnhpG7Kwesg0e4W2XMxDXP-MRdc_aCoNTnCj5CWw-1NiMu-A_9ERehxfTCoHv2fdWNEXmTEZW-XXaQjeDnEn9SF90cPNIgYmliiioXnLTVxqtq_YFG4boIDByND5VUcqyK/s512/77813.png" group-title="🔹FM Radio",EasyRock 96.3
 https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
 
+#EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxjx59innTBumUlbUxM_4b-CjeLNL3cZWlHxQ7Dp6uHSlACRjsNvl71CekFnzUJFaOiAzWpUWFGoCzFKjU_12DUcYW8Lkv0kOQJcuYIjJmO3afFTyzx8bb2vURYad5eOjy3h3EXd5_QfEfaIyeG5QcA-aDDfasMf-YKHFS5-5aGe7PShl4ucgJdAGEJjbp/s384/77822.png" group-title="🔹FM Radio",Yes! FM 101.1
+https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
+
 #EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRdMYY2_T0M8GSOfzXPcAodB0OLJ7Bb35sp4qvv9HLdSSWLcnkS5zTxynsLvegCGjeJ2GYi7qcw10lyaqpwTcTr9NSeiipWyhpP03bA7wIB_0EOSCCRdIa0S-y6xCnbh1_FdynA-EjKUeipTJ6svVJf4PAmnlRS2iAKLEwBB7R4sYHuU5_a2Qpevcmz0zz/s256/77818.png" group-title="🔹FM Radio",Home Radio 97.9
 https://hrmanila.radioca.st/streamb
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipjb3adEvCMX8lNUiqi0OESTZAXuG7OTj1aYMV8htouzh4f10GHBwv6zOwpy8auTEv7aLCObxR35yGYpug_DPdRHjffvbaroyAIS4Qpnb5UOoSOcpLF2Jc11f85_5pTMu9-KYQXl-Ho1zmUsBoO9J8P23jP0DdF7JpsHHS_RF8m79Z-zwu1b1QJogZPRxt/s400/77820.png" group-title="🔹FM Radio",Barangay LS 97.1
 https://magic.radioca.st/stream
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXQHnCS2Q_Mjtuo1ouhRR-c3GdTfPrdk4PSfFJwVJB13KHGEgY8nsPfYgG-88EzjF_xUSPAOrxJstuxmiyxrzbPc-hRXzgEf69NMo4avatyagNARmFydcFM_bJLERXyrtZmREIQz_sy3oZJ8IUZqDy5KftiNX53fvnlDLfZtYxu4oWD1fc2j3jrE8B_nPy/s512/77824.png" group-title="🔹FM Radio",Love Radio 90.7
+https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQpoHjtSBgebPwymkOZJsxvoqoQdt7fR7IoVwQQwmV9pQcFPyqT9B4nYlPHmKem6_OwNZ-W7NEgx5HBGyHL9kM2IG2dWAcwO7XK-h02iGg0sBKT24ynePSXdnZjykfnFTr3UrIKbP6mC-2BoC8bnYI1jpxXUxp_kttu2NykYMOd3Ug1EkODMrD_9rnwunM/s256/77826.png" group-title="🔹FM Radio",MOR
+https://stream-150.zeno.fm/0ha8ftewqp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwaGE4ZnRld3FwOHV2IiwiaG9zdCI6InN0cmVhbS0xNTAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjRZYXd2S2U2VEt5Tm5XVzdDQ1ZCQWciLCJpYXQiOjE3NTk3MDE3NjEsImV4cCI6MTc1OTcwMTgyMX0.Bvfve_DOxD232gxvr3F1zpqRT0XZsmx3YQ3mSzdzLEY&type=.aac
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxjx59innTBumUlbUxM_4b-CjeLNL3cZWlHxQ7Dp6uHSlACRjsNvl71CekFnzUJFaOiAzWpUWFGoCzFKjU_12DUcYW8Lkv0kOQJcuYIjJmO3afFTyzx8bb2vURYad5eOjy3h3EXd5_QfEfaIyeG5QcA-aDDfasMf-YKHFS5-5aGe7PShl4ucgJdAGEJjbp/s384/77822.png" group-title="🔹FM Radio",Yes! FM 101.1
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxjx59innTBumUlbUxM_4b-CjeLNL3cZWlHxQ7Dp6uHSlACRjsNvl71CekFnzUJFaOiAzWpUWFGoCzFKjU_12DUcYW8Lkv0kOQJcuYIjJmO3afFTyzx8bb2vURYad5eOjy3h3EXd5_QfEfaIyeG5QcA-aDDfasMf-YKHFS5-5aGe7PShl4ucgJdAGEJjbp/s384/77822.png" group-title="🔹FM Radio",Yes! FM 101.1
 
 #EXTINF:-1 tvg-id="ATAJ32000027V" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𑜶𐑾ᨡඋৎ",🔸𑜶𐑾ᨡඋৎ
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
