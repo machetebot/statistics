@@ -2364,6 +2364,71 @@ https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
 #EXTINF:-1 group-title="🔹Sports" tvg-logo="https://i.postimg.cc/sDpHB7bC/MTSTv.png",More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
+#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! ТВ.ru" tvg-logo="https://i.postimg.cc/wBmYfnMN/Match.png", Матч! 🇷🇺
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://stream.mcquack.net/169/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCR7t7g/3z9.png" group-title="🔹Sports",Матч! Боец  🇷🇺
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://stream.mcquack.net/112/index.m3u8
+
+#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! Арена.ru" tvg-logo="https://i.postimg.cc/nzrBfY8c/Match-Arena.png", Матч! Arena 🇷🇺
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://stream.mcquack.net/163/index.m3u8
+
+#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! Боец.ru" tvg-logo="https://i.postimg.cc/0QSmN5Qb/Match-Fight.png", Матч! Fight 🇷🇺
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://stream.mcquack.net/188/index.m3u8
+
+#EXTINF:-1 tvg-id="Матч! Игра.ru" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/2SyHTvyx/2gg6sl1642095135.png", Матч! Igra 🇷🇺
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://stream.mcquack.net/188/index.m3u8
+
+#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! Футбол 1.ru" tvg-logo="https://i.postimg.cc/g23f38TR/Matc-Futbol.png", Матч! Football 1 🇷🇺
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://stream.mcquack.net/130/index.m3u8
+
+#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! Футбол 2.ru" tvg-logo="https://i.postimg.cc/g23f38TR/Matc-Futbol.png", Матч!  Football 2 🇷🇺
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://stream.mcquack.net/142/index.m3u8
+
+#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! Футбол 3.ru" tvg-logo="https://i.postimg.cc/g23f38TR/Matc-Futbol.png", Матч! Football 3 🇷🇺
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://stream.mcquack.net/185/index.m3u8
+
+#EXTINF:-1 group-title="🔹Sports" tvg-id="МАТЧ ПРЕМЬЕР.ru" tvg-logo="https://i.postimg.cc/JzhpzJWz/MATC-PREM'̱ER.png", Матч! Premier 🇷🇺
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://stream.mcquack.net/192/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jd7GSP2P/e1e.png" group-title="🔹Sports",Матч! Planet 🇷🇺
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://stream.mcquack.net/1243/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Jzd63hsm/match-strana.png" group-title="🔹Sports",Матч! Country 🇷🇺
+#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://stream.mcquack.net/143/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/G3sNvYfD/Match-Tv-PRAMOJ-EFIR.png" group-title="🔹Sports",Матч! Прямой Эфир 🇷🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/SxWxjXLV/MIRBaaketbola.png", MIR Basketbola 🇷🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a21b3a63ec7a17a8a6c5da6a48cab3d5:b33b26a922c281d2fc73d639b83ee54c
+https://video.beeline.tv/live/d/channel423.isml/manifest-stb.mpd
+
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Arena
 https://7nyaler.streamhostingcdn.top/stream/7/index.m3u8
 
@@ -3059,71 +3124,6 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tdk3bssrpb/out/v1/1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
-
-#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! ТВ.ru" tvg-logo="https://i.postimg.cc/wBmYfnMN/Match.png", Матч! 🇷🇺
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/169/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCR7t7g/3z9.png" group-title="🔹Sports",Матч! Боец  🇷🇺
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/112/index.m3u8
-
-#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! Арена.ru" tvg-logo="https://i.postimg.cc/nzrBfY8c/Match-Arena.png", Матч! Arena 🇷🇺
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/163/index.m3u8
-
-#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! Боец.ru" tvg-logo="https://i.postimg.cc/0QSmN5Qb/Match-Fight.png", Матч! Fight 🇷🇺
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/188/index.m3u8
-
-#EXTINF:-1 tvg-id="Матч! Игра.ru" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/2SyHTvyx/2gg6sl1642095135.png", Матч! Igra 🇷🇺
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/188/index.m3u8
-
-#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! Футбол 1.ru" tvg-logo="https://i.postimg.cc/g23f38TR/Matc-Futbol.png", Матч! Football 1 🇷🇺
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/130/index.m3u8
-
-#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! Футбол 2.ru" tvg-logo="https://i.postimg.cc/g23f38TR/Matc-Futbol.png", Матч!  Football 2 🇷🇺
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/142/index.m3u8
-
-#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! Футбол 3.ru" tvg-logo="https://i.postimg.cc/g23f38TR/Matc-Futbol.png", Матч! Football 3 🇷🇺
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/185/index.m3u8
-
-#EXTINF:-1 group-title="🔹Sports" tvg-id="МАТЧ ПРЕМЬЕР.ru" tvg-logo="https://i.postimg.cc/JzhpzJWz/MATC-PREM'̱ER.png", Матч! Premier 🇷🇺
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/192/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jd7GSP2P/e1e.png" group-title="🔹Sports",Матч! Planet 🇷🇺
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/1243/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Jzd63hsm/match-strana.png" group-title="🔹Sports",Матч! Country 🇷🇺
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/143/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/G3sNvYfD/Match-Tv-PRAMOJ-EFIR.png" group-title="🔹Sports",Матч! Прямой Эфир 🇷🇺
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/SxWxjXLV/MIRBaaketbola.png", MIR Basketbola 🇷🇺
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a21b3a63ec7a17a8a6c5da6a48cab3d5:b33b26a922c281d2fc73d639b83ee54c
-https://video.beeline.tv/live/d/channel423.isml/manifest-stb.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjhQJ6t5/1038.png" group-title="🔹Sports",KHL Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
