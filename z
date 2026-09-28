@@ -2040,7 +2040,7 @@ https://cache07.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Ny09KhH/Viasat-History.png" group-title="🔹Documentaries",Viasat History
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
 
@@ -2051,12 +2051,12 @@ https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
 https://mob.webtvstream.bhtelecom.ba/hls15/viasat_history.mpd?n=7e88df0f0fc1cbd49f02170eb9448f5a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwVkd368/Viasat-Explore-logo-svg.png" group-title="🔹Documentaries",Viasat Explorer
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cQvf7Xm/Viasat-Nature.png" group-title="🔹Documentaries",Viasat Nature
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://arwen1.panaka001.cfd/vnature/usergenrnd2g9eqk.m3u8
 
@@ -2339,7 +2339,7 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 https://streams2.sofast.tv/ptnr-yupptv/title-KOZOOM-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8?hdnts=st%3D1768456486~exp%3D1768478086~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-KOZOOM-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ffdd6f243-f971-4a1a-9510-97ac01d6b37f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1~hmac%3De45c8609a6c54f4e1ec54eaf3873e85a3e9eca4a71ab2e149530bd249d245630
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifPKahnDAHIIhLk2gi60n6gNvCwTLFqbdAm6IParzNH0KMooWlk5KlsY5rfpPGTmW4o38hbAFX2QnCEIzG9zcc3d0K28IgIKQ2GPlTeKmR90mBzaTWInq5XBXt0jumpQV25MyGzFkBuJTNw-9hu45gNtv91vwPs-Tu3cbevxhMhgIyaRfRgYTXQxhLDjnx/s1600/73194.png" group-title="🔹Sports",Sports Extra
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://saruman1.tharen1.cfd/sextra/usergenq8eo0q.m3u8
 
@@ -2615,72 +2615,71 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #EXTINF:-1 group-title="VijuSport" tvg-logo="https://i.postimg.cc/j2Pg6n55/Viju-Sport-logo-svg.png" group-title="🔹Sports",Viju+ Sport http://185.78.112.47:8077/ViasatSportHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KY5Gh83T/Prima-Sport1.png" group-title="🔹Sports",Prima Sport 1
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTVLCOPT:http-origin=https://canale-tv.net
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://dokagents.site/live/pr1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRJqh23F/Prima-Sport2.png" group-title="🔹Sports",Prima Sport 2
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTVLCOPT:http-origin=https://dokagents.site
+#EXTVLCOPT:http-referrer=https://dokagents.site/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://dokagents.site/live/pr2/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJJWVfGz/Prima-Sport3.png" group-title="🔹Sports",Prima Sport 3
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://dokagents.site/live/pr3/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5QW91yP/Prima-Sport4.png" group-title="🔹Sports",Prima Sport 4
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://dokagents.site/live/pr4/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvGZNCsh/Prima-Sport5.png" group-title="🔹Sports",Prima Sport 5
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://dokagents.site/live/pr5/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J087fHPG/Prima4k.png" group-title="🔹Sports",Prima 4K
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://rundle.tv/api.php?src=https://xn--p3t879b.store/prima4kk/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CK66xJLW/Ppv1.png" group-title="🔹Sports",Prima PPV 1
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://cronos.mangora1.cfd/puki1/usergendx6kal0r2bsm.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq6LrPMg/Ppv2.png" group-title="🔹Sports",Prima PPV 2
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://cronos.mangora1.cfd/puki2/usergendxpk2s6utg0l.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLf4NNLQ/Ppv3.png" group-title="🔹Sports",Prima PPV 3
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://cronos.mangora1.cfd/puki3/usergendxp3sj2utk9g.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mm1fJ8Q/Super-Sport1.png" group-title="🔹Sports",Super Sport 1
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://kudos111.terranovax1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kX6sDVcG/Super-Sport2.png" group-title="🔹Sports",Super Sport 2
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://kudos111.terranovax1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLn7DrbZ/Super-Sport3.png" group-title="🔹Sports",Super Sport 3
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://pulse1.zalmora1.cfd/kuk3/usergendxt1v8klq6rnd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8tdkpN1/Super-Sport4.png" group-title="🔹Sports",Super Sport 4
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://pulse1.zalmora1.cfd/kuk4/usergendlg1ks0t2n.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMCVq3g3/Super-Sport5.png" group-title="🔹Sports",Super Sport 5
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/FHYTnJCw/Sukan.png",Sukan+
@@ -3364,7 +3363,7 @@ https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/pla
 #EXTINF:-1 tvg-id="FreeMovies" tvg-logo="https://i.postimg.cc/s1F7VPbM/ad1172Free-Movies.png" group-title="🔹Movies",Free Movies https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemoviesastrosooka-sooka/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBqphwS9/Cinemax-2-(2016).png" group-title="🔹Movies",Cinemax 2
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8
 
@@ -3379,7 +3378,7 @@ https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd
 https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1wMHNnW/AXNSpin.png" group-title="🔹Movies",AXN Spin
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 
@@ -4391,8 +4390,21 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-68b74890b5b4
 #EXTINF:-1 tvg-id="SnapTV" tvg-logo="https://i.postimg.cc/QC4Gc0k5/Snap.png" group-title="🔹Kitchen Show",Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
+#EXTINF:-1 tvg-id="DensFood Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="🔹Kitchen Show",Dens Food Channel 
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bw7C8Q16/Taste.png" group-title="🔹Kitchen Show",Tastemade by iTV
 https://tastemade-tastemadefreetv16-tcl-mmaw8.amagi.tv/playlist/tastemade-tastemadefreetv16-tcl/playlist.m3u8
+
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.postimg.cc/vHwLd6tG/images-(32).png" group-title="🔹Kitchen Show",Jordan Kitchen
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.postimg.cc/Hk474cQc/unnamed.png" group-title="🔹Kitchen Show",kFood
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 
 #EXTINF:-1 tvg-id="BonAppetit" tvg-logo="https://i.postimg.cc/8PGVtZ3Z/2-bon-appetit.png" group-title="🔹Kitchen Show",Bon Appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
@@ -4431,7 +4443,7 @@ https://ifood-vizio.amagi.tv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizitQtmbI9GtbXQ9lotXbHYzcKWTBhct8PlcAgNzVKlmbJ3reBuq36PCC4crqVPJUOidwW3JXW2gVay1jTQJ_kfFMzDo4eyuTECfY25kcs23RUpLJzTGMrUlGHlcDv9o861pc9pwH2DEyAmrKm3LN-i2lt97UlDrR7XtTKURVwBl9VD45BbzXbauFDIPBQ/s250/77786.webp" group-title="🔹Kids",Duck TV
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://arwen1.panaka001.cfd/duk/usergenz9ak7fxt.m3u8
 
