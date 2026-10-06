@@ -2429,6 +2429,13 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 #KODIPROP:inputstream.adaptive.license_key=a21b3a63ec7a17a8a6c5da6a48cab3d5:b33b26a922c281d2fc73d639b83ee54c
 https://video.beeline.tv/live/d/channel423.isml/manifest-stb.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTGJF9PV/Set-Sports.png" group-title="🔹Sports",Setanta Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+http://rodnoetv.com/tv/000004498/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/MpS3xQHZ/Set2Sports.png",Setanta Sports 2
+http://rodnoetv.com/tv/000004499/mono.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Arena
 https://7nyaler.streamhostingcdn.top/stream/7/index.m3u8
 
@@ -2543,18 +2550,6 @@ https://dash4.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTGJF9PV/Set-Sports.png" group-title="🔹Sports",Setanta Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://tvset.org/ch/000004498.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/MpS3xQHZ/Set2Sports.png",Setanta Sports 2
-https://tvset.org/ch/000004499.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/9FzNJhSC/SSplus.png",Setanta Sports+ EuroAsia
-https://tvset.org/ch/000004499.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/XJSpD4QN/Set-KZ.png",Setanta Sports KZ
-https://tvset.org/ch/000004499.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJB6zQKf/sport-plus.png" group-title="🔹Sports",Sport +
 #EXTVLCOPT:http-referrer=https://beetv.kz/
