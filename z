@@ -1980,7 +1980,11 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yd5h023D/Discovery-Science-Logo-2017-svg.png" group-title="🔹Documentaries",Discovery Science http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/3679
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://i.postimg.cc/yd5h023D/Discovery-Science-Logo-2017-svg.png" ch-number="989" group-title="🔹Documentaries",Discovery Science
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvkfCrp0/Discovery-Turbo.png" group-title="Documentary",Discovery Turbo http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/3747
 
@@ -2229,9 +2233,11 @@ https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 #EXTINF:-1 tvg-id="GloryKickboxing" tvg-logo="https://i.postimg.cc/T2bchgwr/Glory-K.png" group-title="🔹Sports",Glory Kickboxing
 https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?ads.wurl_channel=1360
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.postimg.cc/xCFrZHQq/RMCSport.png" group-title="🔹Sports",RMC Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
-https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8
+#EXTINF:-1  tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/xCFrZHQq/RMCSport.png",RMC Sport
+#EXTVLCOPT:http-referrer=https://www.screenify.fun/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer-policy=origin-when-cross-origin
+https://p7.streamhostingcdn.top/stream/59/index.m3u8?token=&exp=0
 
 #EXTINF:-1 tvg-id="99991696" tvg-name="Swerve Combat" tvg-logo="https://i.postimg.cc/XvVNm7VR/Swerve-Combat.png" group-title="🔹Sports",Swerve Combat
 https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696&ads._fw_ifa_type=&ads._fw_did=1927ac05-1a1e-4bfc-a749-7bfc0539a50b&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SwerveTV&ads.csid=xumo_web_SwerveTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads.xumo_contentId=3510&ads.xumo_contentName=SwerveTV&ads.xumo_providerId=3510&ads.xumo_providerName=SwerveTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991696&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -2447,56 +2453,40 @@ http://stream.mcquack.net/166/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/kG9KLDcv/Belarus'-5.png",Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Arena
-https://7nyaler.streamhostingcdn.top/stream/7/index.m3u8
+#EXTINF:-1  tvg-id="Sky.Sports.Cricket.HD.ie" group-title="🔹Sports" tvg-logo="https://assets.goal.com/images/v3/blt46f04697e50c5900/sky%20sports%20logo%20image.png",Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://www.screenify.fun/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer-policy=origin-when-cross-origin
+https://p5.streamhostingcdn.top/stream/10/index.m3u8?token=&exp=0
 
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Basketball
-https://7nyaler.streamhostingcdn.top/stream/1/index.m3u8
+#EXTINF:-1  tvg-id="Sky.Sports.Cricket.HD.ie" group-title="🔹Sports" tvg-logo="https://assets.goal.com/images/v3/blt46f04697e50c5900/sky%20sports%20logo%20image.png",Sky Sports Cricket Alt
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer-policy=origin-when-cross-origin
+https://fishing342.b-cdn.net/3/76.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Top Event
-https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8
+#EXTINF:-1  tvg-id="Sky.Sports.Plus.HD.ie" group-title="🔹Sports" tvg-logo="https://assets.goal.com/images/v3/blt46f04697e50c5900/sky%20sports%20logo%20image.png",Sky Sports Plus
+#EXTVLCOPT:http-referrer=https://www.screenify.fun/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer-policy=origin-when-cross-origin
+https://p5.streamhostingcdn.top/stream/11/index.m3u8?token=&exp=0
 
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Max
-https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8
+#EXTINF:-1  tvg-id="Sky.Sports.Action.HD.ie" group-title="🔹Sports" tvg-logo="https://assets.goal.com/images/v3/blt46f04697e50c5900/sky%20sports%20logo%20image.png",Sky Sports Action
+#EXTVLCOPT:http-referrer=https://www.screenify.fun/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer-policy=origin-when-cross-origin
+https://p5.streamhostingcdn.top/stream/12/index.m3u8?token=&exp=0
 
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Action
-https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8
+#EXTINF:-1  tvg-id="Sky.Sports.Main.Event.HD.ie" group-title="🔹Sports" tvg-logo="https://assets.goal.com/images/v3/blt46f04697e50c5900/sky%20sports%20logo%20image.png",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://www.screenify.fun/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer-policy=origin-when-cross-origin
+https://p5.streamhostingcdn.top/stream/19/index.m3u8?token=&exp=0
 
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Bundes Liga
-https://7nyaler.streamhostingcdn.top/stream/37/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Calcio
-https://7nyaler.streamhostingcdn.top/stream/21/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Mix
-https://7nyaler.streamhostingcdn.top/stream/4/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Uno
-https://7nyaler.streamhostingcdn.top/stream/17/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Cricket
-https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports F1
-https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Football
-https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Golf
-https://cors.campware.io/http://stream.bottledesk.net/p/BgJNQQUCfWc/index.m3u8?token=MjRTeGlKNmFydGFiZTV6ZGc2MjNtOGVtMXBxdG1MR0ZzSXpIeHEycnlxL0RxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Premier League
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=I-j3TIy-v3Aet_XQHN7rsQ&e=2086527231&scheme=https
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Racing
-https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=i_FSLGFwbz6ayO1PBb88-Q&e=2086527903&scheme=https
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sport Tennis
-https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=iV57zVD5Awi2OkuqtwwF1w&e=2086527835&scheme=https
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/TYwpjSH6/Sky-Sport.png",Sky Sports Austria 1
-https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
+#EXTINF:-1 group-title="🔹Sports" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/njpwworldjp._SL500_FMpng_.png",新日本プロレスワールド
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8cb24b4af1e7a264c45d56a0e81dbbc:9eedd222f21558d337a16bae3386eedd
+https://otte.live.fly.ww.aiv-cdn.net/nrt-nitro/live/clients/dash/enc/jqgipka8z9/out/v1/4f353d665b344446894f2da1a028fa62/cenc.mpd
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.postimg.cc/g0n9qWws/Fubo-Sports-Net.png" group-title="🔹Sports",Fubo Sports Network
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
@@ -4473,7 +4463,8 @@ https://fa723fc1b171.aps22.playlist.live-video.net/v1/playlist/CtodDw-VdRYMuID98
 #EXTINF:-1 type="radio" tvg-logo="https://i.postimg.cc/fyJRVM5h/1701223837-Myx-Pop.png" group-title="🔹FM Radio",MYX P-pop Radio  
 https://22243.live.streamtheworld.com/MYXPPOPAAC.aac
 
-#EXTINF:-1 type="radio" tvg-logo="https://i.postimg.cc/1zkkGs9Z/Myx-Radio-logo.png" group-title="🔹FM Radio",MYX Radio https://22243.live.streamtheworld.com/MYXFMAAC.aac
+#EXTINF:-1 type="radio" tvg-logo="https://i.postimg.cc/1zkkGs9Z/Myx-Radio-logo.png" group-title="🔹FM Radio",MYX Radio
+https://22243.live.streamtheworld.com/MYXFMAAC.aac
 
 #EXTINF:-1 tvg-id="MonsterRX931.ph" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP0XiJcgSWM4cijjq7PjuSaTw5-90AZAbwQfhZSfJmiBChSgfieBhDanwdLKHAZpw5fNIb0nGL9ZjfkLNnGYkbXlJxw7MMmmtv-dgm5flo8MiA7g_qpheeckx-lwN9d79U2Az7GINHEHFLMuLq3xpUuQzHuDGJDHE5nVZ9qWgOKgxl4zV1LOlA8BHl47PU/s4900/77889.png" group-title="🔹FM Radio",Monster Radio RX 93.1
 https://in-icecast.eradioportal.com:8443/monsterrrx
@@ -4505,7 +4496,7 @@ https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
 #EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizo6Pf26Wim9MlckiPmkApO8WDmJkA9R3N4R5MJTT7xjnecJTPg6tW5LWdmiC32B6ByYo4A0d6SsRdQi6jrxjqkPrliZ_l4mu4zF6dmq8ggpKJxXjA4N8W2U0QC0wETE4mYCHQrxH8xvEL_Dyd5mMLm6c-yiOPU-6NRsmaVCWm1NOe30KJp_2DR_eJbnyz/s256/77857.png" group-title="🔹FM Radio",Energy FM 106.7
 https://stream-285.surfernetwork.com/dnddzf0osc1uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkbmRkemYwb3NjMXV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJIWHk2YXVHelE3LVJzcTRVVmtoUDFnIiwiaWF0IjoxNzg5NzI4MTk0LCJleHAiOjE3ODk3MjgyNTR9.OVcMdIh_h2JZqtZ3pchn_RhFdh8zgAcFvUOUQhCjlKo
 
-EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/tHpWZGg7MD.png" group-title="🔹FM Radio",Easy Rock Boracay 93.5
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/tHpWZGg7MD.png" group-title="🔹FM Radio",Easy Rock Boracay 93.5
 https://easyrockboracay.radioca.st/stream.mp3
 
 #EXTINF:-1 type="radio" tvg-logo="https://apk.radyoph.com/upload/1770681769_RadioBoracay.png" group-title="🔹FM Radio",Radio Boracay 106.1
