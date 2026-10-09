@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/au/Melbourne/epg.xml.gz,
+#EXTM3U billed-msg="𐍐հ⃯ᨡ֟፝͝𐑾꫶⃮ࠋꜟৎ" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://iptv-epg.org/files/epg-inakdiszej.xml.gz, https://raw.githubusercontent.com/djdoolky76/Mediaquest-EPG/main/cignal_epg.xml.gz, https://worker-9dd4.onrender.com/guide.xml.gz, 
+https://i.mjh.nz/au/Melbourne/epg.xml.gz,
 https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,
 https://iptv-epg.org/files/epg-inakdiszej.xml.gz,
 https://raw.githubusercontent.com/djdoolky76/Mediaquest-EPG/main/cignal_epg.xml.gz,
@@ -10,7 +11,6 @@ https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,
 https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/epg.xml.gz,
 https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml.gz, 
 https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/clickthecity_epg.xml.gz, 
-https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, 
 https://github.com/zultan-m/astro-epg/raw/main/astro.xml, 
 https://github.com/AqFad2811/epg/raw/main/sooka.xml, https://github.com/AqFad2811/epg/raw/main/unifitv.xml, 
 https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/merged_epg.xml.gz,
@@ -45,7 +45,10 @@ https://epg.pw/xmltv/epg_JP.xml.gz,
 https://epg.pw/xmltv/epg_BR.xml.gz,
 https://tinyurl.com/DrewLive002-epg,
 https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz,
-https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz" tvg-shift="0" max-conn="9" refresh="3" m3uautoload="1" deinterlace="1" refresh="86400"
+https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz" tvg-shift="0" max-conn="9" refresh="60" refresh_at="60" m3uautoload="1"
+
+#EXT-X-APTV-PREVIEW: FALSE 
+#EXT-X-APTV-LATENCY: FALSE
 
 #EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𐍐հ⃯ᨡ֟፝͝𐑾꫶⃮ࠋꜟৎ",🔸𐍐հ⃯ᨡ֟፝͝𐑾꫶⃮ࠋꜟৎ
 https://linear-175.frequency.stream/dist/whaletvplus/175/hls/master/playlist.m3u8
