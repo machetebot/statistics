@@ -2297,6 +2297,9 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-KOZOOM-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8?hdnts=st%3D1768456486~exp%3D1768478086~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-KOZOOM-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ffdd6f243-f971-4a1a-9510-97ac01d6b37f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1~hmac%3De45c8609a6c54f4e1ec54eaf3873e85a3e9eca4a71ab2e149530bd249d245630
 
+#EXTINF:-1  tvg-name="American Ninja Warrior" tvg-id="eec9d131b4095083a23c485d804c8b2d" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/eec9d131b4095083a23c485d804c8b2d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1713548868549_ANW_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png" tvg-chno="612" group-title="🔹Sports",American Ninja Warrior
+https://jmp2.uk/rok-eec9d131b4095083a23c485d804c8b2d.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifPKahnDAHIIhLk2gi60n6gNvCwTLFqbdAm6IParzNH0KMooWlk5KlsY5rfpPGTmW4o38hbAFX2QnCEIzG9zcc3d0K28IgIKQ2GPlTeKmR90mBzaTWInq5XBXt0jumpQV25MyGzFkBuJTNw-9hu45gNtv91vwPs-Tu3cbevxhMhgIyaRfRgYTXQxhLDjnx/s1600/73194.png" group-title="🔹Sports",Sports Extra
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
