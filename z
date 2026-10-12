@@ -2297,7 +2297,7 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-KOZOOM-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8?hdnts=st%3D1768456486~exp%3D1768478086~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-KOZOOM-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ffdd6f243-f971-4a1a-9510-97ac01d6b37f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1~hmac%3De45c8609a6c54f4e1ec54eaf3873e85a3e9eca4a71ab2e149530bd249d245630
 
-#EXTINF:-1  tvg-name="American Ninja Warrior" tvg-id="eec9d131b4095083a23c485d804c8b2d" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/eec9d131b4095083a23c485d804c8b2d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1713548868549_ANW_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png" tvg-chno="612" group-title="🔹Sports",American Ninja Warrior
+#EXTINF:-1  tvg-name="American Ninja Warrior" tvg-id="eec9d131b4095083a23c485d804c8b2d" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyvFA1ofioh1OMpHxxwP-0Qraej6V-cQDKZG2N0vnakbeR7Mx9CBUg42W2FavyxG9H96u7tGp6kTGALmjpG_pXKc8xn5Ko6G-KCEeN3Mgo-OrMSahLAD5CVQydXhf_Kyi6aORqfbOqDg-D6RZqsEUB0-T0z36n04N8JhLyWgwG5hWlKGQPcnnxHZds7C9v/s260/80334.png" tvg-chno="612" group-title="🔹Sports",American Ninja Warrior
 https://jmp2.uk/rok-eec9d131b4095083a23c485d804c8b2d.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifPKahnDAHIIhLk2gi60n6gNvCwTLFqbdAm6IParzNH0KMooWlk5KlsY5rfpPGTmW4o38hbAFX2QnCEIzG9zcc3d0K28IgIKQ2GPlTeKmR90mBzaTWInq5XBXt0jumpQV25MyGzFkBuJTNw-9hu45gNtv91vwPs-Tu3cbevxhMhgIyaRfRgYTXQxhLDjnx/s1600/73194.png" group-title="🔹Sports",Sports Extra
@@ -2398,6 +2398,20 @@ http://rodnoetv.com/tv/000004498/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/MpS3xQHZ/Set2Sports.png",Setanta Sports 2
 http://rodnoetv.com/tv/000004499/mono.m3u8
 
+#EXTINF:-1 , tvg-id="" tvg-logo="https://i.postimg.cc/brYXpYPy/Joj-Sport.png" group-title="🔹Sports",Joj Sport 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash.allice.antik.sk/stream/joj_sport_streaming001/playlist_cbcs.mpd
+
+#EXTINF:-1 , tvg-id="" tvg-logo="https://i.postimg.cc/vH1q9x3K/Joj-Sport2.png" group-title="🔹Sports",Joj Sport 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
+
+#EXTINF:-1 , tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivGwyXBDsOdgkr8kxJaz9ve-nu2SB99hHSc-Z1m_QqTLzKV0iwIQjorHYOAZQJwGnSCo5Urk5vnXgBhZpM2OURU3Fz0kmf-SzBr1xr9Yv817AbNDxQNLS75LWG-ys-AiNx3ExnKok22JfV0JxCKrCmPudDGIaJGbALnznv9LznitwYvSfXNDMJBahZKsDi/s2048/80345.png" group-title="🔹Sports",Joj Sport Plus
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash4.antik.sk/stream/nvidia_joj_plus/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjhQJ6t5/1038.png" group-title="🔹Sports",KHL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
@@ -2481,12 +2495,12 @@ http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/18012/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66zCT4M3/Digi1.png" group-title="🔹Sports",Digi Sport 1
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
+https://kuruk1.xn--okq6e.shop/kuk1/usergendx419snx12kdgwqrnd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQhLKJWq/Digi2.png" group-title="🔹Sports",Digi Sport 2
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://kudos111.terranovax1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
+https://dokagents.site/live/digisport2/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YC743pnn/Digi3.png" group-title="🔹Sports",Digi Sport 3
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
@@ -2497,17 +2511,6 @@ https://pulse1.zalmora1.cfd/kuk3/usergendxt1v8klq6rnd.m3u8
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://pulse1.zalmora1.cfd/kuk4/usergendlg1ks0t2n.m3u8
-
-#EXTINF:-1 , tvg-id="" tvg-logo="https://i.postimg.cc/brYXpYPy/Joj-Sport.png" group-title="🔹Sports",Joj Sport 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash4.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
-
-#EXTINF:-1 , tvg-id="" tvg-logo="https://i.postimg.cc/vH1q9x3K/Joj-Sport2.png" group-title="🔹Sports",Joj Sport 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJB6zQKf/sport-plus.png" group-title="🔹Sports",Sport +
 #EXTVLCOPT:http-referrer=https://beetv.kz/
