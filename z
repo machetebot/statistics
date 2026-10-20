@@ -2303,7 +2303,7 @@ https://jmp2.uk/rok-eec9d131b4095083a23c485d804c8b2d.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifPKahnDAHIIhLk2gi60n6gNvCwTLFqbdAm6IParzNH0KMooWlk5KlsY5rfpPGTmW4o38hbAFX2QnCEIzG9zcc3d0K28IgIKQ2GPlTeKmR90mBzaTWInq5XBXt0jumpQV25MyGzFkBuJTNw-9hu45gNtv91vwPs-Tu3cbevxhMhgIyaRfRgYTXQxhLDjnx/s1600/73194.png" group-title="🔹Sports",Sports Extra
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://saruman1.tharen1.cfd/sextra/usergenq8eo0q.m3u8
+https://saruman1.tharen001.cfd/sextra/usergenq8eo0q.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/25p2qQcF/Dubai-Racing.png",Dubai Racing
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
@@ -3016,7 +3016,7 @@ http://49.0.64.96:8007/NBA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/ph/en/playlist.m3u8
-
+#https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLdD9-7Pdn5TU4tct2uhimabWTxFmqEZ8jQ&s" ch-number="427" group-title="🔹Sports",World Poker Tour
@@ -3502,7 +3502,8 @@ https://amg16902-amg16902c1-lightcast-worldwide-2931.playouts.now.amagi.tv/playl
 
 #EXTINF:-1 tvg-id="RetroMusic" tvg-logo="https://i.postimg.cc/QMN5SrSR/Retro-Music.png" group-title="🔹Music",Retro Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
-rtmp://vkvsd271.okcdn.ru/playback/9665769450423?stkn=JxPTeKcUp8Wxnw1Qh4yEAoW3sKL4PAcAqF0cjXDEVnPDiDL_7RKTmC5bOg3Qi5jVKe3ggl4F0a0&uid=0&sp=uid,sp&sig=vlibqm4nyu
+rtmp://vkvsd60.okcdn.ru/playback/9665769450423?stkn=zRvwA3bWiW45_m-XHoQ-te_jBf7bff-1xC6GRhxRhhN0OhFpORyj4e1e18sQ-ID_-2gbBHWshLE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8zk5K41d/Music-History-Radio.png" group-title="🔹Music",Music History Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
@@ -3795,7 +3796,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/pl
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 
 #EXTINF:-1 tvg-id="89ARadioRock" tvg-logo="https://i.postimg.cc/VkSJhtzG/89-A-Radio-Rock.png" group-title="🔹Music",89A Radio Rock
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(MmCbuUFtRKeHxUsoYHslg0ANIjYA8cRsUJbwMlFyWgjuhmf_CChzDuLZaIYEHvbeGo3VqWZZ-vz-Wquf0vUQE9DU933l7p5FVTs_nfUOMwDruQj3eePLgKJ1CagnxOXW)/cloud/3/x7wjrui/d/live-480.m3u8#cell=lcf2-eu-north-1b
+https://27433.live.streamtheworld.com:443/RADIO_89FM_SC
 
 
 #EXTINF:-1 tvg-id="LFM" tvg-logo="https://i.postimg.cc/t704YBCh/LFM.png" group-title="🔹Music",LFM
@@ -4318,9 +4319,9 @@ http://rodnoetv.com/tv/000002510/mono.m3u8
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="IronChef" tvg-logo="https://i.postimg.cc/W16ggTjf/Iron-Chef.jpg" group-title="🔹Kitchen Show",Iron Chef
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6707cfa5da81682f2d1e6837.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=uFRHRmfLnZMtBZyNdCzm
+https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6707cfa5da81682f2d1e6837.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=zW9_MadMxXLAnuQTPwVy&auto=0
 
-#EXTINF:-1 channel-id="mjh-10-masterchef" tvg-id="mjh-10-masterchef" tvg-logo="https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png?image-profile=logo" group-title="🔹Kitchen Show" , MasterChef 
+#EXTINF:-1 channel-id="mjh-10-masterchef" tvg-id="mjh-10-masterchef" tvg-logo="https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png?image-profile=logo" group-title="🔹Kitchen Show",MasterChef 
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-masterchef.m3u8
@@ -4436,6 +4437,9 @@ https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdeNtC3xUVpXzHF0PJ92rkJXSytT8EOD33TsGbA2Q105jteVxvSeAKHCKmIJ27AAENh5jSxp7WJiz1iz__9xDSp9UlLoOEYQw-RbTISeHxretlJ4wJv50_On3OUhnAqlmKdaumxOPPc7ESq-91LO58rUYK14mZdDs6hzapuvwg7aDf4un9XosUXMUJAdor/s256/77851.png" group-title="🔹FM Radio",LiteRock Manila
 http://phoebe.streamerr.co:1580/stream
+
+#EXTINF:-1 tvg-id="89ARadioRock" tvg-logo="https://i.postimg.cc/VkSJhtzG/89-A-Radio-Rock.png" group-title="🔹FM Radio",89A Radio Rock
+https://27433.live.streamtheworld.com:443/RADIO_89FM_SC
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY42GkIoyLhigZb80ZFa60xpq9L2uiBbIQMGPOTq4CgSHzs4b7LkWOwzbmhWNNEPtGHucJZqF6eRHdsi9TD_eVMA7xO1tEGWlZHDlk5wQEO68sMwWqiZp7tyquj8fRkqurPewZZsei1iFzoGexBB-TKyKvDyWS0SrBmPqNtyRx1G8beMLG-TEaK7C69ySX/s250/77888.png" group-title="🔹FM Radio",Mellow 94.7
 https://streamer.radio.co/sec36cd5f1/listen
