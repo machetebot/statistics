@@ -2182,7 +2182,7 @@ https://9ab4bcc639c845d2b682105f4e9afbf8.mediatailor.us-east-1.amazonaws.com/v1/
 https://jmp2.uk/plu-685aa802fb6023de7cc56357.m3u8
 
 #EXTINF:-1 tvg-id="HardKnocks" tvg-logo="https://i.postimg.cc/L6TJxVxM/Hard-Knocks-TV.png" group-title="🔹Sports",Hard Knocks
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/0.m3u8
+https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribalV2/e073c5a0-a9ef-4223-bbb1-a5a77dd69306/0.m3u8?ads.channel_name=Hard%20Knocks&ads.content_genre=MMA,Sport&ads.ic=IAB17,IAB17-20&ads.rating=PG&ads.language=US&ads.coppa=0&ads.content_livestream=1&ads.us_privacy=1NYN&ads.gdpr=0&ads.gdpr_consent=0&ads.user_consent=0&ads.app_name=Free%20Live%20Sports&ads.app_bundle=freelivesports.tv&ads.app_store_url=&ads.ifa_type=dpid&ads.did=7658ca6bd4e7c38b144196998d30445e&ads.lmt=1
 
 #EXTINF:-1 tvg-id="PFL"  tvg-logo="https://i.postimg.cc/768PHCKg/PFLTV.png" group-title="🔹Sports",Professional Fighters League
 https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8?ads.wurl_channel=1309
@@ -4321,7 +4321,7 @@ https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bw9ckKDv/Outdoor-America.png" group-title="🔹Outdoors",Outdoor America
 https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-600-OUTDOORAMERICA-FREELIVESPORTS/mt/freelivesports/600/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmericanStories" tvg-logo="https://i.postimg.cc/CKpTqwx1/American-Stories.png" group-title="🔹Outdoors",AmericanStories
+#EXTINF:-1 tvg-id="AmericanStories" tvg-logo="https://i.postimg.cc/CKpTqwx1/American-Stories.png" group-title="🔹Outdoors",American Stories
 https://a1a41a9beb9342598598b5f6dd94fb56.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1016-ASN-FREELIVESPORTS/mt/freelivesports/1016/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3wNp2QSZ/Ohota-i-rybalka.png" group-title="🔹Outdoors",Охота и рыбалка
@@ -4329,6 +4329,9 @@ http://rodnoetv.com/tv/000002510/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjdR7pHT/Ohotnik-i-rybolov.png" group-title="🔹Outdoors",Охотник и рыболов
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yootv.online/images/logo-channel/better-nature-channel-tv.png" group-title="🔹Outdoors",Nature TV
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 
 #EXTINF:-1 tvg-id="IronChef" tvg-logo="https://i.postimg.cc/W16ggTjf/Iron-Chef.jpg" group-title="🔹Kitchen Show",Iron Chef
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6707cfa5da81682f2d1e6837.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=zW9_MadMxXLAnuQTPwVy&auto=0
