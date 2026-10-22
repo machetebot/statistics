@@ -2187,6 +2187,9 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:-1 tvg-id="PFL"  tvg-logo="https://i.postimg.cc/768PHCKg/PFLTV.png" group-title="🔹Sports",Professional Fighters League
 https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8?ads.wurl_channel=1309
 
+#EXTINF:-1 tvg-id="FTF.us"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnQZQ__Yl9217yEkCLcgsZ5vFdqR3rGU9F8aalb5MhokAPQGKchogow6B7FWc06pCJ2X3ikYZZ0jVmX5Ttg5St6vNxv-7hqtrhyphenhyphenzSvY3u2GV87wkreUNxJwJFbIkaS01D_aYW_dXmZ8axR6dBam7gm0hUH4h9K8pgM7e-X24o1IXv8j_u63l1MlvCamZv/s2048/80666.png" group-title="🔹Sports",FTF Sports
+https://d305d0233e434638bc8be2ce61a28e3c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FTFNextUS/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GloryKickboxing" tvg-logo="https://i.postimg.cc/T2bchgwr/Glory-K.png" group-title="🔹Sports",Glory Kickboxing
 https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?ads.wurl_channel=1360
 
@@ -3184,8 +3187,11 @@ https://uae.iptv2022.com/B_sport/index.m3u8
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3nfDjQ/Turkmen-Sporty.png" group-title="🔹Sports",Turkmenistan Sport
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ReCFSWd7aHHDuHAXYEDi-jt1pSCHgCF2P-yhpwhcl2woZXm6KlXfFi1395EmFnWuBqIl8dC0nMMdm1qhOnEdYJi_ZQPgEdZrSBhH9cvdqOJ1ZAGHJ7A4ozQmA_gKQW31MizI8beVvKbnGqRQV13D8mBqzJFSH9XiBZVdIq7KgaVU41LSDwt6U-qVwrLB/s2048/80671.png" group-title="🔹Sports",Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia-JWyCIQt2EOnTCt_dBN4FTFNvaOJVzmGbIAcs17r_GwBNEHKoLflEo6yuQiYa5Z-6fan8hKyTpxcmJd71s1lS7JIjBO6CFL5yBjh0ga3W-cbkTmJIitWkAbKhfDrXYRhS8uVmjmjQ1lE5Z4Ylesginj6q30MOM167Xy1GMhx2XL-Q60uEpZQgx-mWpz5/s2048/80669.png" group-title="🔹Sports",Oman Sport
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8CZ4Wk6B/UDARTV.png" group-title="🔹Sports",Udar TV
 https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
@@ -3193,13 +3199,13 @@ https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjhZPJtb/Voleybol-logo.png" group-title="🔹Sports",Volleyball TV
 https://river-1.rutube.ru/stream/genetta-315.m9.rutube.ru/Ye56ghNr7sP6JPEfMRH0nw/1781911797/cc1b56aa4955a144f324ad58998513bb/1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BbPtppwW/56281545.png" group-title="🔹Sports",Qaz Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg53J3Pc1Hd4rajEz9AoVNUdkMQu6ky8ins3ODnjxu38YqKFehhCnyzezqnZZbBHIP_bwtzvSx8LCPXUBlQv4pSChAL2hBI0lNSwXrhNE8FTyxLL0LHAuiKGY0Qucg2rwnp03DjZEEccnX6AOlL1GcvUZYaR4_z6JEMemHHBoqFKxkZbpjlwEJiVvLu4d91/s2048/80673.png" group-title="🔹Sports",Qaz Sport
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/14032/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MH9f3Xzf/Khl-Prime-logo.png" group-title="🔹Sports",AstraKhan Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYIkArkiC345OrtUNz2Nj-YCvdXAIChgAXkk5iuclZ1ViIZgcTTvyFx3u36TinJ0bTkp60aKNP6BxHlUMW-v94h1EyzE3TK1VENW5RV32WfOcYXZLLSShO2U9yAlr60LB8r2UsHpBe2HkPEW2kuo0-kHSHRA-MZQgfE8nHL1EiqaQcboe2b_6UCDXlZPox/s2048/80675.png" group-title="🔹Sports",AstraKhan Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/TPLfWnGf/TVP-SPORT-HD(0).png" group-title="🔹Sports",TVP Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBeHcwBPWh6iiWe9z69DHSWHlLGCYNfufGx8u7aVxCxfjgfCV-IQAxV5g890tFFU_nfe-yvN2MbadvRwlMowbi9496X4XgXQmma_SMgDVOzSBVMZD1fbSAYWUD8oGL2TLAONqrGj0DVhkt25Aa_Is-i_9JfnKAOJiYsocXqSXv71X7eiAcoxPaEGqBOeDp/s2048/80677.png" group-title="🔹Sports",TVP Sport
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
 
