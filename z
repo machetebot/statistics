@@ -2300,8 +2300,11 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-KOZOOM-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8?hdnts=st%3D1768456486~exp%3D1768478086~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-KOZOOM-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ffdd6f243-f971-4a1a-9510-97ac01d6b37f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_64.236.177.102_yuppfast_2_channel_84_-1~hmac%3De45c8609a6c54f4e1ec54eaf3873e85a3e9eca4a71ab2e149530bd249d245630
 
-#EXTINF:-1  tvg-name="American Ninja Warrior" tvg-id="eec9d131b4095083a23c485d804c8b2d" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyvFA1ofioh1OMpHxxwP-0Qraej6V-cQDKZG2N0vnakbeR7Mx9CBUg42W2FavyxG9H96u7tGp6kTGALmjpG_pXKc8xn5Ko6G-KCEeN3Mgo-OrMSahLAD5CVQydXhf_Kyi6aORqfbOqDg-D6RZqsEUB0-T0z36n04N8JhLyWgwG5hWlKGQPcnnxHZds7C9v/s260/80334.png" tvg-chno="612" group-title="🔹Sports",American Ninja Warrior
+#EXTINF:-1  tvg-name="American Ninja Warrior" tvg-id="eec9d131b4095083a23c485d804c8b2d" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggbbf-BDcK_j7sQtRYOsaCoNGZuqgcU-3WtrVCZfeL80ezxNIK6HEUDmfLwbBQeCOq8y4wY2ITKAtlm0el5VH_2lrOVXLP1tRMCCSH58Bi-vDo31QzatrlUZbt-5Vx0vziQrVX7smCuHI8zk7MScJV53LtbRYid55sOO2WlLFX7Y353hZvJUQCEtZE3Pbv/s2048/80661.png" tvg-chno="612" group-title="🔹Sports",American Ninja Warrior
 https://jmp2.uk/rok-eec9d131b4095083a23c485d804c8b2d.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQyTRKSVCleF_HAd2EuO938qfXlLQjb-U02S14EI_uM9WbuP-SQ1bGLRrVtuEngLWbYItg5SUXSclSC8mFIKfm7Yqg-9bMWc7uYqS2kZCuzBFfu5NTMcfbVmguVipuH1KEhxk9jSl_c0eOtoV-OR3fDOyxhSf877Rgx75merQTki3fEu6U9_NzITv8U6FR/s2048/80659.png" tvg-chno="612" group-title="🔹Sports",Womens Sports Network
+https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifPKahnDAHIIhLk2gi60n6gNvCwTLFqbdAm6IParzNH0KMooWlk5KlsY5rfpPGTmW4o38hbAFX2QnCEIzG9zcc3d0K28IgIKQ2GPlTeKmR90mBzaTWInq5XBXt0jumpQV25MyGzFkBuJTNw-9hu45gNtv91vwPs-Tu3cbevxhMhgIyaRfRgYTXQxhLDjnx/s1600/73194.png" group-title="🔹Sports",Sports Extra
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
