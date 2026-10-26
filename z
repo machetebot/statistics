@@ -1927,7 +1927,7 @@ https://d1tbda9p86v4of.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="" group-title="🔹Documentaries" tvg-logo="https://i.postimg.cc/Qxtr9vpQ/De-Classified.png",DeClassified
 https://zharlzzz.short.gy/PMrNyR
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/fjaee/fctv/master/images/ch_discovery.webp" group-title="🔹Documentaries",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWuuEmewPyh11FUuiaNAPjla94yq2CrCWi30twesqiLJ1sxkyVIQBFqC1qb_P9wortuNBh-_OQPV6_g39oybwkowtIZV5cbx3nzWNSEMmXLDSiKxiZ2kUrnxIorp6Tp9JK6tY_ZEjVQdHfXe_lLSlJlC3q_zINl9nLiA5kqzZvCChaewqGo8U7k-qDb1fP/s547/80882.png" group-title="🔹Documentaries",Discovery Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3773,7 +3773,9 @@ https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 https://nl.utako.moe/kayopops/index.m3u8
 
 #EXTINF:-1 tvg-id="SurfRoots" tvg-logo="https://i.postimg.cc/Fs5KsKXX/Surf-Roots-TV.png" group-title="🔹Music",Surf Roots
-https://livechannel.mdc.akamaized.net/stitch/livechannel/1314/master1400000.m3u8;session=live_stream_1314
+#EXTVLCOPT:http-referrer=https://surfroots.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://livechannel.mdc.akamaized.net/stitch/livechannel/1314/master.m3u8?channel=live_stream_1314
 
 #EXTINF:-1 tvg-id="RTLDisco" tvg-logo="https://i.postimg.cc/GtNkk5kv/RTL-102-5-Disco.png" group-title="🔹Music",RTL Disco
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
