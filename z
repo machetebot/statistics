@@ -2339,6 +2339,18 @@ https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
 #EXTINF:-1 group-title="🔹Sports" tvg-logo="https://i.postimg.cc/sDpHB7bC/MTSTv.png",More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTfNoMudK_L4Y_Q1P_RCCLLXmIjSbszyq3RD5KmoDLPKpG8Mq_AiXt8KD-rjJgV_VzYpS0CHlCNhbuKhIJz1WpDQnkA-ROY1uclMYh4pvK4NVrx-zH5ru52J7DNASUeMmlZHIP8INhbfQbxAbDH7nMwxKtFilqzeVoGFYeD6p979jxdZA4X3e2J16f0Iio/s645/80865.png" group-title="🔹Sports",ESPN
+http://206.212.242.21:8080/live/MeZyl1987/9735100903/15951.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSIb3OlAvP3TO596I6Z0XiAqPyQu7gC79ONueblcz5CXhw-LvfrLAUzmd70JrZEVLFnhJ4N18eferuFEHpWK48c73ycVO4uAno3Owq0rc9zMemwnMqiEghP5iAo7lQM1wY-_8yuZq8vTjedjCqxdUqET2aj_EvBGvAv3U1JfAGhqpw4Oh2FYNJr8mo-PU7/s2016/80862.jpg" group-title="🔹Sports",ESPN2
+http://206.212.242.21:8080/live/CgqzWqMHQ9/5257748697/15950.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfNnY5FJ1LtmN26LW2bQuXLfHOTfEcIAOx5UIhVO5pe-qBRotKqdMZp9CP8Aul3N1jD0jIyyVwBqx0hkF9SbHgKz72gWb0yHxgD-jxBJteL44vkuDxydCRiaYyGzY2ZAdO7Btu9mPTjJ0HgJdtUVV4Qpc36-Q1MvypQR5gt0oe29bkUyS0VPUtxPzN9JIA/s349/80868.png" group-title="🔹Sports",ESPNU
+http://206.212.242.21:8080/live/4abYcSzugD/7732488130/15949.m3u8
+
+#EXTINF:-1 tvg-id="ESPNEWS" tvg-name="ESPNEWS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK81A9MJsfVul-pdoVTblDLjsRQiB7ZGoOiXsmMPV6xOCTthVqbyE8FA2RJjFTQZ9JuX-R3wmzsj5apxgjQ6BPo9FmsipsOH6YGZwNxKh83J0KMzOgZBk76_B08jPInUOSlJ76On-4NRL8jPzzEwQFkk7VXfUmjFeoXx8znVXj23Ol3fJadKrO1Mjg2Np7/s547/80869.png" group-title="🔹Sports",ESPNEWS
+http://206.212.242.21:8080/live/GsPDfRs2H/Grade100/15952.m3u8
+
 #EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! ТВ.ru" tvg-logo="https://i.postimg.cc/wBmYfnMN/Match.png", Матч! 🇷🇺
 #EXTVLCOPT:http-referrer=http://stream.mcquack.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
