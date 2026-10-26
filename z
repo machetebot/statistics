@@ -4428,10 +4428,25 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://arwen1.panaka001.cfd/duk/usergenz9ak7fxt.m3u8
 
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzqVon0BYiWY8VGSYHb72tmBUML3Ny-VHWTjuffzg75xcFuyW5tiBpIQi-Jn-jPJ0uunRi1mhLNOrPpoZpMG93ZqK-FEkGESlho0s6iC3yr4YYcSu7eQwJfn_aQ0fsnhlvo4IAWYc8OlJWVBDFAVpqY6e6echyphenhyphenGFjW7S-nnnEU-uL3Ea2IhRO5LBjbti_N/s1920/80879.png" group-title="Kids",Disney XD
+http://206.212.242.21:8080/live/4yNXhET6j/4992732590/23330.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI-3E0tq-r4m5HazhnR3TTnyadcKJKOqMtkIL7UwAwtciNxTFpaeGxyE9G5F5pUU2mstKy1a5EzwCv19Fp_LSfLLKgY31Ft2VMTgHNYyyjVGjLtPl37_DMMeM1FdTJA8yWQA8fwb2ps7w1u40roS-hpcq8FSEhq4iASVq6Rqq_i38FvIif8taFNg5662cj/s137/77785.png" group-title="🔹Kids",Tankee
 #EXTVLCOPT:http-referrer=https://cdniptvpotok.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=39
+
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVSWZGn-Fb94ncDTGoRIHXwbAJtVcAXt_GRSlKofZsPnUJCmn91gt1OLlnj901GJfGY1h-0tOWd4g7x6sblwVKzS2Ndkyh2-oHmLrJDsvoGulM6iY51Ii4A_vYwBJM7vBkCCZIeFfQngbrP2E7oqEkUFY9ury_U1sj_JjS77RMcXH7Kto4Sq7D_zpHDfH/s554/80871.png" group-title="🔹Kids",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kartoon Channel!" tvg-name="Kartoon Channel!" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLVoAK4Fv8NOXv57uzy1OyR3KSCKbZe9MxjA4UhQe2qjFXO4ATFiugIlaAermcBgLWYsd6OcMubqlX7ECDic_Y07ZT3pYgBJ0frc1kGUj_OxiuI-ej-UtWmqThURbVhnHxSycO3lrzog2ErhIX6_EwQ4jv8roaCH8-dh7Z4DMhq10CdLz6fGgaMMxou1Ca/s900/80873.png" group-title="🔹Kids",Kartoon Channel!
+https://d34o9l4449wcay.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-90kyowvo7ut9m/kchan.m3u8
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-XZfTGp0duGBBFJrat_758zvOB_mNQMjbGuSFQfNo744OWoSYmh0MI2XqJos-boyu4IDeTm4c1HaO7cMcYZA1ur5MjKG70tkvy5SPpkTmFj5PWnXQZKcGJ6SX9xewNE2LivuS-8CN9Wo-kJdkYVGhGmdJa147HTiiSQ2lJOGTNaJEO4-922a0Rvcqf5Yc/s250/80875.png" group-title="🔹Kids",BOOMERANG
+http://206.212.242.21:8080/live/4yNXhET6j/4992732590/22563.m3u8
+
+#EXTINF:-1 tvg-id="Pop" tvg-name="Pop" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVAuEOHCYgo83oh2v0Bqjr1qo2xEXc2BkohAhGF4HngRIrEv5i7tC5osueI64xZ6gIzuBcnz3y14YrxxjKlolpO3yiyQ8ZVvKGhPISDbDyXK6s24z-AWwr3b5WRI5f4n1sztXwtrSJXf4z_pe7HAWQL4r5Z9rIoHOO4kw44uSTmQdyJwJDTwHqDWKkrXMe/s200/80877.png" group-title="🔹Kids",Pop
+https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2LFL3zNkVt-DiAMX48aYvvA94Isc50FOjKESF7_AbpgnN5JuXBk2x2kZlisXfkVp-jZ6c9iKpsw7g0IpoTGS_9kIgQ8YWrlKw1G36yn4BldyixuEU87gC02nI0nQACLghrKiK6uIPKkxstao69TZpoh88nYQrDW-E3pZlD79Pg1MxJ1idJ8j0P857o_VQ/s304/77844.png" group-title="🔹FM Radio",Radyo Ni Sano Guindulman  90.1
 https://cd.radyoph.com:8000/rns128
