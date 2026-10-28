@@ -3545,6 +3545,9 @@ https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
 #EXTINF:-1 tvg-id="LoveFM" tvg-logo="https://i.postimg.cc/PfL0t0xg/Love-FM-TV.png " group-title="🔹Music",Love FM
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VClassicTV" tvg-logo="https://i.postimg.cc/QxKyCh1Y/V-Classic-TV.png" group-title="🔹Music",VClassic
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
 #EXTINF:-1 tvg-id="retrotv" tvg-logo="https://i.postimg.cc/g0BkH2h8/Retro-Music-TV.jpg" group-title="🔹Music",Retro Music+
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
@@ -3557,8 +3560,22 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
 #EXTINF:-1 tvg-id="88Stereo" tvg-logo="https://i.postimg.cc/Zn22Cx4H/88Stereo.png" group-title="🔹Music",88 Stereo
 https://59ef525c24caa.streamlock.net/CableLatino/88stereo/.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rmGhttxs/Kanal-4Fun-Poland-hd.png" group-title="🔹Music",4Fun
+https://stream.4fun.tv:8888/hls/4f.m3u8
+
 #EXTINF:-1 tvg-id="qmusic_be" tvg-logo="https://i.postimg.cc/9F211CZn/264x264-kleur-8.png" group-title="🔹Music",Q Music
 https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/videohls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJS952Zq/piterpan-tv.png" group-title="🔹Music",PiterPan
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7hKsq9R9/Krone-Hit-TV.png" group-title="🔹Music",Krone Hit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/763kYVVW/Kanal-Ocko-Music-TV-1.png" group-title="🔹Music",Óçko Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="4AceTV" tvg-logo="https://i.postimg.cc/dVc0H8TJ/4Ace-TVClassic.png" group-title="🔹Music",4Ace Classic Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
@@ -3735,9 +3752,6 @@ https://bit.ly/3PzQYw5
 #EXTINF:-1 tvg-id="RetroHits" tvg-logo="https://i.postimg.cc/ncTCKjGb/Retro-Hits.png" group-title="🔹Music",Retro Hits
 rtmp://vkvsd32.okcdn.ru/playback/7765205854979?stkn=2hUMECsn_X1bCuwKSKQRFhEPDcldcN2ZKLgFbYauC6XmkrL_lgdVtkZWZfjVF-u2YnbaAnya8MM&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
-#EXTINF:-1 tvg-id="4FunTV" tvg-logo="https://i.postimg.cc/rmGhttxs/Kanal-4Fun-Poland-hd.png" group-title="🔹Music",4Fun
-https://stream.4fun.tv:8888/hls/4f.m3u8
-
 #EXTINF:-1 tvg-id="MusicHorizon" tvg-logo="https://i.postimg.cc/7h7BcJSN/Music-Horizon.png" group-title="🔹Music",Music Horizon
 https://fl1003.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 
@@ -3776,9 +3790,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/p
 
 #EXTINF:-1 tvg-id="EuroIndieMusic" tvg-logo="https://i.postimg.cc/1XYdKcvs/5a60383c8410edb0ba40414b0d3a67b53a50bed911b1618cf9ae4c7871db4dd2.png" group-title="🔹Music",Euro Indie Music
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PiterPanTV" tvg-logo="https://i.postimg.cc/cJS952Zq/piterpan-tv.png" group-title="🔹Music",PiterPan
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TropicalMusic" tvg-logo="https://i.postimg.cc/8zgFzbrC/Tropical-Music.png" group-title="🔹Music",Tropical Music
 https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
@@ -3939,9 +3950,6 @@ https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-id="PrideTV" tvg-logo="https://i.postimg.cc/t7GQTfMm/Pride-TV.png" group-title="🔹Music",PrideTV Latam
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 
-#EXTINF:-1 tvg-id="VClassicTV" tvg-logo="https://i.postimg.cc/QxKyCh1Y/V-Classic-TV.png" group-title="🔹Music",VClassic
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SoloBailaloTV" tvg-logo="https://i.postimg.cc/vHjD7L1R/2-Solo-Bailalo.png" group-title="🔹Music",Solo Bailalo
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 
@@ -3959,14 +3967,6 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
 
 #EXTINF:-1 tvg-id="NogoumTV" tvg-logo="https://i.postimg.cc/j2XfVZp2/Nogoum-FMTV.png" group-title="🔹Music",Nogoum
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="KroneHitTV" tvg-logo="https://i.postimg.cc/7hKsq9R9/Krone-Hit-TV.png" group-title="🔹Music",Krone Hit
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OckoTV" tvg-logo="https://i.postimg.cc/763kYVVW/Kanal-Ocko-Music-TV-1.png" group-title="🔹Music",Óçko Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="AtomicTV" tvg-logo="https://i.postimg.cc/3JHbWs1V/Atomic-TV.png" group-title="🔹Music",Atomic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
