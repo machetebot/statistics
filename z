@@ -4437,6 +4437,12 @@ http://206.212.242.21:8080/live/4yNXhET6j/4992732590/23330.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=39
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-lGfC5H8ppilnvuNLcwNBVamCmWcdQOzNdXQ_j9ekkQOo4YX94VcYkpobIehm4Vs3QyvTanJAzl9UN1-p3xw1wwmNXLHqm4Kfr2erUWEwKz9lTgwqpBvfcKzE5Ldg1tTAYpkmDAA9QX6I0gMAJLxIU7j9hob8FV1TMCZhR2PKWfq5egMDa1E2We83UhOl/s1024/80926.png" group-title="🔹Kids",Southpark
+https://sv0.data-stream.top/53fcec2065d541b568ee76e5ae2fbd8528ff754f01f97bb1f312eec1ba945a52/hls/southpark.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtf6eZiAPB_j22c1AkUlKyd39u2wmZItQiR_Q7s31D6OoEi1l-dy1r6Hhw9QqQSsYpVkbjq7jdDJfSurqKhQm8wLvLwhBbk5dGfAY3t0fo5DKTsA1Tk1PqzumiaR3_GD2OcZHSvMyoRxurMO6hNgTBn2f7ocDVlYShdcRvEkFve8afPqA8CNi2L8En8P1j/s500/80925.png" group-title="🔹Kids",Aqua Teen Hunger Force 
+https://sv0.data-stream.top/53fcec2065d541b568ee76e5ae2fbd8528ff754f01f97bb1f312eec1ba945a52/hls/aquasx.m3u8
+
 #EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVSWZGn-Fb94ncDTGoRIHXwbAJtVcAXt_GRSlKofZsPnUJCmn91gt1OLlnj901GJfGY1h-0tOWd4g7x6sblwVKzS2Ndkyh2-oHmLrJDsvoGulM6iY51Ii4A_vYwBJM7vBkCCZIeFfQngbrP2E7oqEkUFY9ury_U1sj_JjS77RMcXH7Kto4Sq7D_zpHDfH/s554/80871.png" group-title="🔹Kids",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
