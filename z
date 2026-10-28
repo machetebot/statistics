@@ -3528,7 +3528,7 @@ https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="americancountrynetwork.us" tvg-logo="https://i.postimg.cc/rsJPtbQX/ACN.png" group-title="🔹Music",American Country Network
 https://amg16902-amg16902c1-lightcast-worldwide-2931.playouts.now.amagi.tv/playlist/amg16902-americancountrynetworkfast-acnota-lightcastworldwide/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SurfRoots" tvg-logo="https://i.postimg.cc/Fs5KsKXX/Surf-Roots-TV.png" group-title="🔹Music",Surf Roots
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Fs5KsKXX/Surf-Roots-TV.png" group-title="🔹Music",Surf Roots
 #EXTVLCOPT:http-referrer=https://surfroots.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://livechannel.mdc.akamaized.net/stitch/livechannel/1314/master.m3u8?channel=live_stream_1314
@@ -3551,11 +3551,19 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="VClassicTV" tvg-logo="https://i.postimg.cc/QxKyCh1Y/V-Classic-TV.png" group-title="🔹Music",VClassic
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s2tr5Y3B/City-TV.png" group-title="🔹Music",City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+
 #EXTINF:-1 tvg-id="retrotv" tvg-logo="https://i.postimg.cc/g0BkH2h8/Retro-Music-TV.jpg" group-title="🔹Music",Retro Music+
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="retroplustvuno" tvg-logo="https://i.postimg.cc/Bb6wz8xQ/Retro.jpg" group-title="🔹Music",Retro Plus
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BridgeClassicHits" tvg-logo="https://i.postimg.cc/prbyS1RF/Bridge-TV-Classic-telekanal-onlajn-1.png" group-title="🔹Music",Bridge Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
+http://stream.mcquack.net/272/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioMonteCarloTV" tvg-logo="https://i.postimg.cc/D01hhnzV/monte-carlo-tv.png" group-title="🔹Music",Radio Monte Carlo
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
@@ -3565,6 +3573,10 @@ https://59ef525c24caa.streamlock.net/CableLatino/88stereo/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rmGhttxs/Kanal-4Fun-Poland-hd.png" group-title="🔹Music",4Fun
 https://stream.4fun.tv:8888/hls/4f.m3u8
+
+#EXTINF:-1 tvg-id="OxygenMusic" tvg-logo="https://i.postimg.cc/VvHQLnZq/Oxygen.png" group-title="🔹Music",Oxygen Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
 #EXTINF:-1 tvg-id="qmusic_be" tvg-logo="https://i.postimg.cc/9F211CZn/264x264-kleur-8.png" group-title="🔹Music",Q Music
 https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/videohls.m3u8
@@ -3596,13 +3608,67 @@ https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bYFkBkSf/D3-TV.png" group-title="🔹Music",D3
 https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DydCMY6y/Persiana-Music-TV-onlajn.png" group-title="🔹Music",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k49QwwRm/1HD.png" group-title="🔹Music",1HD
+https://web.onair-radio.eu/video/video/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/XNk85n8W/Fresh-TV.png" group-title="🔹Music",Fresh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+
+#EXTINF:-1 tvg-id="TMFTV" tvg-logo="https://i.postimg.cc/tJFG6Vt8/TMF.png" group-title="🔹Music",TMF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nzgCjjP0/Biz-Music-TV.png" group-title="🔹Music",Biz Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://fl.biztv.media/music_1080_MMAUyOJClsRrvfSkUrkrphfMdisQQF/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zfzTMrN6/Extra-TV.png" group-title="🔹Music",Extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/x182pwhY/v2beat-tv.jpg" group-title="🔹Music",Vibe2Beat
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sgw1dSsF/m2otv.png" group-title="🔹Music",Radio m20
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sxQ6V6ZP/company-tv.jpg" group-title="🔹Music",CompanyTV
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/chunklist_w1598899456_b1428000_slita.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hPmKQsLX/FONMusic.png" group-title="🔹Music",Fon Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
+#https://smotr.top/kanal/000000013/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PqvJQRn6/Song-TV.png" group-title="🔹Music",SongTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7LXSH8Nm/FTV.png" group-title="🔹Music",FTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0QcKsYPf/S79uof0.png" group-title="🔹Music",Kerusso
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://s.emisoras.tv:8081/kerussotv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PqM652Ph/Panik-TV.png" group-title="🔹Music",PanikTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bJnDTS4V/images-(3).png" group-title="🔹Music",Saga Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qBDXYHV2/Kanal-7x-Music-TV.png" group-title="🔹Music",7X Music
+https://stream.e2is.in/hls/7xMusic.m3u8
+
 #EXTINF:-1 tvg-id="4AceTV" tvg-logo="https://i.postimg.cc/dVc0H8TJ/4Ace-TVClassic.png" group-title="🔹Music",4Ace Classic Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
 https://cors-proxy.cooks.fyi/https://d3s7x6kmqcnb6b.cloudfront.net/hls/OZWUU3Y/708115480C21/m.m3u8
-
-#EXTINF:-1 tvg-id="BridgeClassicHits" tvg-logo="https://i.postimg.cc/prbyS1RF/Bridge-TV-Classic-telekanal-onlajn-1.png" group-title="🔹Music",Bridge Classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
-http://stream.mcquack.net/272/index.m3u8
 
 #EXTINF:-1 tvg-id="VintageClassic" tvg-logo="https://i.postimg.cc/QdpHY0R1/Vintage-Music.png" group-title="🔹Music",Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
@@ -4024,14 +4090,6 @@ https://servilive.com:3624/stream/play.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://fl1003.bozztv.com:443/ushba-monj/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SongTV" tvg-logo="https://i.postimg.cc/PqvJQRn6/Song-TV.png" group-title="🔹Music",SongTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PanikTV" tvg-logo="https://i.postimg.cc/PqM652Ph/Panik-TV.png" group-title="🔹Music",PanikTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ZeroUnoTV" tvg-logo="https://i.postimg.cc/6qVVMQRD/01TV.png" group-title="🔹Music",Zero Uno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
@@ -4052,18 +4110,6 @@ http://31.148.48.15/O2_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=39199&token=32daecd8da36dfbdad9d2e5276f91ef0&server=v2.catcast.tv
 
-#EXTINF:-1 tvg-id="FTV" tvg-logo="https://i.postimg.cc/7LXSH8Nm/FTV.png" group-title="🔹Music",FTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="KerussoTV" tvg-logo="https://i.postimg.cc/0QcKsYPf/S79uof0.png" group-title="🔹Music",Kerusso
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s.emisoras.tv:8081/kerussotv/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="FONMusic" tvg-logo="https://i.postimg.cc/hPmKQsLX/FONMusic.png" group-title="🔹Music",Fon Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
-#https://smotr.top/kanal/000000013/index.m3u8
 
 #EXTINF:-1 tvg-id="THTMusic" tvg-logo="https://i.postimg.cc/x84pYHpx/TNT-Music-onlajn-Pramoj-efir-FEDERAL-TV.png" group-title="🔹Music",THT Music
 https://s17.federal.tv:8082/fed/tntmusictv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI2IDY6NDY6NTUgQU0maGFzaF92YWx1ZT1nNkc2NDQrYllScXBzK2h1TUpsVVh3PT0mdmFsaWRtaW51dGVzPTIwMA==
@@ -4077,14 +4123,8 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 tvg-id="Punjabi Hits" tvg-logo="https://i.postimg.cc/rwvrd3tJ/Punjabi-Hits.png" group-title="🔹Music",Punjabi Hits
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 
-#EXTINF:-1 tvg-id="7X Music" tvg-logo="https://i.postimg.cc/qBDXYHV2/Kanal-7x-Music-TV.png" group-title="🔹Music",7X Music
-https://stream.e2is.in/hls/7xMusic.m3u8
-
 #EXTINF:-1 tvg-id="M+ HD" tvg-logo="https://i.postimg.cc/YCnBF8tB/mplushd.png" group-title="🔹Music",M+ HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/60a293f1-5ebb-4f57-8ed8-902d04419656/0.m3u8
-
-#EXTINF:-1 tvg-id="Saga Music" tvg-logo="https://i.postimg.cc/bJnDTS4V/images-(3).png" group-title="🔹Music",Saga Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="My3" tvg-logo="https://i.postimg.cc/tJL1P8Q8/My3.png" group-title="🔹Music",My3
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
@@ -4101,9 +4141,6 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-id="¡OPA!" tvg-logo="https://i.postimg.cc/pVq41WHn/OPA.png" group-title="🔹Music",¡OPA!
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PersianaMusicTV" tvg-logo="https://i.postimg.cc/DydCMY6y/Persiana-Music-TV-onlajn.png" group-title="🔹Music",Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="E+" tvg-logo="https://i.postimg.cc/5t3S3sQC/E.jpg" group-title="🔹Music",Europa Plus 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -4136,13 +4173,6 @@ https://smotr.top/kanal/000000327/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 
-#EXTINF:-1 tvg-id="1HD" tvg-logo="https://i.postimg.cc/k49QwwRm/1HD.png" group-title="🔹Music",1HD
-https://web.onair-radio.eu/video/video/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="FreshTV" tvg-logo="https://i.postimg.cc/XNk85n8W/Fresh-TV.png" group-title="🔹Music",Fresh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
-
 #EXTINF:-1 tvg-id="RFM TV" tvg-logo="https://i.postimg.cc/3xkg1JpC/RFMTV.png" group-title="🔹Music",RFM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://s.pokaz.me/204/index.m3u8?k=1773571845p902i15i34i1S036f89301a406ae6fde190a1fde6a14f
@@ -4151,33 +4181,13 @@ https://s.pokaz.me/204/index.m3u8?k=1773571845p902i15i34i1S036f89301a406ae6fde19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vefgpbwcjjjbxfng.naszatv.pl/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="TMFTV" tvg-logo="https://i.postimg.cc/tJFG6Vt8/TMF.png" group-title="🔹Music",TMF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DTR Music 1" tvg-logo="https://i.postimg.cc/Y0sXF633/DTR-MUSIC.png" group-title="🔹Music",DTR Music 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 
-#EXTINF:-1 tvg-id="BizMusic" tvg-logo="https://i.postimg.cc/nzgCjjP0/Biz-Music-TV.png" group-title="🔹Music",Biz Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://fl.biztv.media/music_1080_MMAUyOJClsRrvfSkUrkrphfMdisQQF/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="ExtraTV" tvg-logo="https://i.postimg.cc/zfzTMrN6/Extra-TV.png" group-title="🔹Music",Extra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
-
-#EXTINF:-1 tvg-id="CityTV" tvg-logo="https://i.postimg.cc/s2tr5Y3B/City-TV.png" group-title="🔹Music",City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tv.city.bg/play/tshls/citytv/index.m3u8
-
 #EXTINF:-1 tvg-id="RadioClub4You" tvg-logo="https://i.postimg.cc/v8nW7bt4/Radio-Club4You.png" group-title="🔹Music",Radio Club 4 You
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://v2.catcast.tv/content/48952/seg-26193886-v1-a1.ts
-
-#EXTINF:-1 tvg-id="OxygenMusic" tvg-logo="https://i.postimg.cc/VvHQLnZq/Oxygen.png" group-title="🔹Music",Oxygen Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
 #EXTINF:-1 tvg-id="4FunTV" tvg-logo="https://i.postimg.cc/s2vvm47X/4Fun-TV.png" group-title="🔹Music",4Fun
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
@@ -4208,15 +4218,6 @@ https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
 
 EXTINF:-1 tvg-id="CaliforniaMusicChannel" tvg-logo="https://i.postimg.cc/k5311GTQ/California-Music-Channel-Logo-(cropped).png" group-title="🔹Music",California Music Channel
 https://cmc-kowdtv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vibe2Beat" tvg-logo="https://i.postimg.cc/x182pwhY/v2beat-tv.jpg" group-title="🔹Music",Vibe2Beat
-https://abr.de1se01.v2beat.live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioM20" tvg-logo="https://i.postimg.cc/sgw1dSsF/m2otv.png" group-title="🔹Music",Radio m20
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CompanyTV" tvg-logo="https://i.postimg.cc/sxQ6V6ZP/company-tv.jpg" group-title="🔹Music",CompanyTV
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/chunklist_w1598899456_b1428000_slita.m3u8
 
 #EXTINF:-1 tvg-id="TraVihnTV" tvg-logo="https://i.postimg.cc/59X5f3XV/Tra-Vinh-TV.png" group-title="🔹Music",Tra Vinh
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8 
