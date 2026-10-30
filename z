@@ -3192,7 +3192,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd
 https://stream8.cinerama.uz/1004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5CNd0mh/Africa-24-Sport.png" group-title="🔹Sports",Africa 24 Sport
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+https://tvizle.tr/api/yayin?c=africa-24-sport&u=https%3A%2F%2Fedge14.vedge.infomaniak.com%2Flivecast%2Fik%3Aafrica24sport%2Fchunklist_w1439384517.m3u8&s=M3OENLhMsCM9flQ4CJn844nu
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0LyMR3G/BMSport.png" group-title="🔹Sports",BM Sport
 #EXTVLCOPT:http-referrer=https://limex.tv/
@@ -3740,7 +3740,9 @@ https://nl.utako.moe/spaceshower/index.m3u8
 https://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzMjMwOTQsInBhdGgiOiIvc2Jza3BvcDIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJmMTBmNjAxMy0xOTBiLTQ1NTItYTUxNi0zMGFkNzZlYTI2MTMiLCJpYXQiOjE3NzQzMTU4OTR9.BaK3fM2mk77QzANKTnD2FWdj9FLyZhznJyag2D-yXwY&solsessionid=2f560833d705d1876e8c377c9c23f477
 
 #EXTINF:-1 tvg-id="NewKPop" tvg-logo="https://i.postimg.cc/LXttbqXd/New-KPop.png" group-title="🔹Music",New K-Pop
-https://newidco-newkid-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=new-k-pop
 
 #EXTINF:-1 tvg-id="CountryBackroadsTV" tvg-logo="https://i.postimg.cc/Jn3HN2xw/Country-Back-Roads.png" group-title="🔹Music",Country Backroads
 https://rpn.bozztv.com/gusa/gusa-ridgelinetv/index.m3u8
@@ -3807,7 +3809,9 @@ https://video03.logicahost.com.br/tvrockhd/tvrockhd/playlist.m3u8
 https://d1km5mimggxbs8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1wx09ca45r6yu/XITE_Rock_On.m3u8
 
 #EXTINF:-1 tvg-id="VantageRock"  tvg-logo="https://i.postimg.cc/KYzRPLML/VANTAGE-ROCK.png" group-title="🔹Music",Vantage Rock
-https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=vantage-rock&u=https%3A%2F%2Fcdn-de5.lulzy.eu%2Fvrock_stream%2Fmain_stream.m3u8&s=ow_SIZMNu4FQQX8Bq601rOGL
 
 #EXTINF:-1 tvg-id="PulseRockTV" tvg-logo="https://i.postimg.cc/yNPbrxMq/PRTV.png" group-title="🔹Music",Pulse Rock
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/chunklist.m3u8?token=b7bb9c08-d593-48a2-bfd7-33018b14b3e5&streamSessionId=ba355f08-3131-4759-8486-06cb1a3b6a9a&code=TELEATLANTIC&expires=1740700800000&playUrl=true&ctrl=1ea95bb1f349796e630acdfb68d98c14daa1f7a6efae55f7f8de0c78c46486fec8dff525fb500aed030f0e29790d82e84550600a9bab5831739e5162e63bf604
@@ -4178,7 +4182,7 @@ https://vsd233.okcdn.ru/hls/494737164923.m3u8/sig/h9KpEarQpFc/expires/1773050417
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J0d0VyNV/MCM.png" group-title="🔹Music",MCM Top
 #EXTVLCOPT:http-referrer=https://cdntvmedia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://tvcdnpotok.com/f7Jtq-2LAN_2PXeo49s39w/535/1793353386/index.m3u8
+https://tvcdnpotok.com/f7Jtq-2LAN_2PXeo49s39w/535/1793353386/index.m3u8b
 
 #EXTINF:-1 tvg-id="MoozDance" tvg-logo="https://i.postimg.cc/BnWBWRYk/Mooz-Dance.png" group-title="🔹Music",Mooz Dance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
