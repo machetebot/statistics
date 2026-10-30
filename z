@@ -3578,6 +3578,9 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51OCfDmv30HazhE-epOh9z2K1Q2pmEeqzi47epNfCTwm0Y9z9RF2TqtxYkVFMfcW8XmjRoXrkJOFnU1IqQWSdyOUrAznO3KScKrYjb69FluJ4w-YTAK0WPnbZdU1Z7WW3Ho7Qlq_SStXvgZ6IGyLtT2J3tFHM_eWOvFVbi4qj4IDe8tcseXBWSjQsChYs/s366/80939.png" group-title="🔹Music",Magic
+https://bss1.neterra.tv/magictv/stream_0.m3u8
+
 #EXTINF:-1 tvg-id="qmusic_be" tvg-logo="https://i.postimg.cc/9F211CZn/264x264-kleur-8.png" group-title="🔹Music",Q Music
 https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/videohls.m3u8
 
@@ -3665,6 +3668,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/p
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qBDXYHV2/Kanal-7x-Music-TV.png" group-title="🔹Music",7X Music
 https://stream.e2is.in/hls/7xMusic.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k49QwwRm/1HD.png" group-title="🔹Music",DBM TV
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim7D86E30A-cv0kj7JYFJ1clEMZPFsPl2BpVHYrAa3lwmHCfb26cKSiSryIK0Xmv1j1wLNIYtDw4OtCwpMXztf4gVfutqqrH4uQmTZQ4oPtmRREmJsFgXoFr0mpgyCscfz4s64rtvoYhmJQ7SVJfs3C-I8caRhGFPX9Pwt3qsEDSEcDma8vO1jqRtJJ3un/s500/80940.png" group-title="🔹Music",RTL
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
 
 #EXTINF:-1 tvg-id="4AceTV" tvg-logo="https://i.postimg.cc/dVc0H8TJ/4Ace-TVClassic.png" group-title="🔹Music",4Ace Classic Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
@@ -4167,7 +4176,9 @@ https://aps21.playlist.ttvnw.net/v1/playlist/CuIGmERU2A1wqsOHG_iZFXVtO6Kp8mf9-ZH
 https://vsd233.okcdn.ru/hls/494737164923.m3u8/sig/h9KpEarQpFc/expires/1773050417319/srcIp/220.239.71.53/urls/185.226.55.79/clientType/1/srcAg/CHROME_ANDROID/mid/1077196103291/494737164923_fullhd/index.m3u8?p
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J0d0VyNV/MCM.png" group-title="🔹Music",MCM Top
-https://smotr.top/kanal/000000327/index.m3u8
+#EXTVLCOPT:http-referrer=https://cdntvmedia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvcdnpotok.com/f7Jtq-2LAN_2PXeo49s39w/535/1793353386/index.m3u8
 
 #EXTINF:-1 tvg-id="MoozDance" tvg-logo="https://i.postimg.cc/BnWBWRYk/Mooz-Dance.png" group-title="🔹Music",Mooz Dance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
