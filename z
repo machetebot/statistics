@@ -3739,7 +3739,7 @@ https://nl.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 tvg-id="TheKPop" tvg-logo="https://i.postimg.cc/7ZyQvmwP/The-K-POP.png" group-title="🔹Music",The K-Pop
 https://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQzMjMwOTQsInBhdGgiOiIvc2Jza3BvcDIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJmMTBmNjAxMy0xOTBiLTQ1NTItYTUxNi0zMGFkNzZlYTI2MTMiLCJpYXQiOjE3NzQzMTU4OTR9.BaK3fM2mk77QzANKTnD2FWdj9FLyZhznJyag2D-yXwY&solsessionid=2f560833d705d1876e8c377c9c23f477
 
-#EXTINF:-1 tvg-id="NewKPop" tvg-logo="https://i.postimg.cc/LXttbqXd/New-KPop.png" group-title="🔹Music",New K-Pop
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/LXttbqXd/New-KPop.png" group-title="🔹Music",New K-Pop
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=new-k-pop
@@ -3793,10 +3793,10 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now80's'" tvg-logo="https://i.postimg.cc/BnsmbjkN/now-80s.png" group-title="🔹Music",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="Total80's'" tvg-logo="https://i.postimg.cc/bY2hhTZJ/tmc-80s.png" group-title="🔹Music",TotalMusic 80's
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY2hhTZJ/tmc-80s.png" group-title="🔹Music",TotalMusic 80's
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="90sRock" tvg-logo="https://i.postimg.cc/NF153XxQ/Rock-Now.jpg" group-title="🔹Music",Now 90's
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/NF153XxQ/Rock-Now.jpg" group-title="🔹Music",Now 90's
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Vevo Rock" tvg-logo="https://i.postimg.cc/VktW7FCQ/VRetro-Rock.png" group-title="🔹Music",Vevo Retro Rock
@@ -3811,7 +3811,7 @@ https://d1km5mimggxbs8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="VantageRock"  tvg-logo="https://i.postimg.cc/KYzRPLML/VANTAGE-ROCK.png" group-title="🔹Music",Vantage Rock
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://tvizle.tr/api/yayin?c=vantage-rock&u=https%3A%2F%2Fcdn-de5.lulzy.eu%2Fvrock_stream%2Fmain_stream.m3u8&s=ow_SIZMNu4FQQX8Bq601rOGL
+https://tvizle.tr/api/yayin?c=vantage-rock
 
 #EXTINF:-1 tvg-id="PulseRockTV" tvg-logo="https://i.postimg.cc/yNPbrxMq/PRTV.png" group-title="🔹Music",Pulse Rock
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/chunklist.m3u8?token=b7bb9c08-d593-48a2-bfd7-33018b14b3e5&streamSessionId=ba355f08-3131-4759-8486-06cb1a3b6a9a&code=TELEATLANTIC&expires=1740700800000&playUrl=true&ctrl=1ea95bb1f349796e630acdfb68d98c14daa1f7a6efae55f7f8de0c78c46486fec8dff525fb500aed030f0e29790d82e84550600a9bab5831739e5162e63bf604
@@ -4243,8 +4243,10 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="MTV Live" tvg-logo="https://i.postimg.cc/k4fZJPkG/MTVUSLive.jpg" group-title="🔹Music",MTV US Live 2
 http://104.250.144.202:46183/
 
-#EXTINF:-1 tvg-id="MTVSpankinNew" tvg-logo="https://i.postimg.cc/k4fZJPkG/MTVUSLive.jpg" group-title="🔹Music",MTV Spankin' New'
-https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k4fZJPkG/MTVUSLive.jpg" group-title="🔹Music",MTV Spankin' New
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=mtv-spankin-new
 
 #EXTINF:-1 tvg-id="MTV East" tvg-logo="https://i.postimg.cc/nhFKWHSb/MTV.jpg" group-title="🔹Music",MTV East
 http://23.237.104.106:8080/USA_MTV/index.m3u8
@@ -4258,8 +4260,10 @@ http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1 tvg-id="MTV Europe" tvg-logo="https://i.postimg.cc/JzR6sjW1/MTVEurope.jpg" group-title="🔹Music",MTV Russia
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 
-#EXTINF:-1 tvg-id="MTVFlow" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" group-title="🔹Music",MTV Latino
-https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
+#EXTINF:-1 tvg-id="MTVFlow" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" group-title="🔹Music",MTV Flow Latino
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0 
+https://tvizle.tr/api/yayin?c=mtv-flow-latino
 
 #EXTINF:-1 tvg-id="MTV Japan" tvg-logo="https://i.postimg.cc/7LNVqNPh/MTVJapan.png" group-title="🔹Music",MTV Japan
 https://nl.utako.moe/mtv/index.m3u8
