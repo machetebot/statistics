@@ -3545,6 +3545,11 @@ https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
 #EXTINF:-1 tvg-id="LoveFM" tvg-logo="https://i.postimg.cc/PfL0t0xg/Love-FM-TV.png " group-title="🔹Music",Love FM
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VantageClassic"  tvg-logo="https://i.postimg.cc/KYzRPLML/VANTAGE-ROCK.png" group-title="🔹Music",Vantage Rock
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=vantage-classic
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jd8TN659/Colosal-TV.png" group-title="🔹Music",Colosal
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
