@@ -3533,11 +3533,13 @@ https://livechannel.mdc.akamaized.net/stitch/livechannel/1314/master.m3u8?channe
 #EXTINF:-1 tvg-id="VirginRadio.uk" tvg-logo="https://i.postimg.cc/MZnbDXnM/Virgin-Radio-TV-Logo.png" group-title="🔹Music",Virgin Radio
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
 
-#EXTINF:-1 tvg-id="538 TV" tvg-logo="https://i.postimg.cc/dQWHzr1p/538TV.png" group-title="🔹Music",538
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/dQWHzr1p/538TV.png" group-title="🔹Music",538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 
 #EXTINF:-1 tvg-id="51RadioTV" tvg-logo="https://i.postimg.cc/tC4kkM1H/51Radio-TV.png" group-title="🔹Music",51 Radio
-https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=51-radio-tv
 
 #EXTINF:-1 tvg-id="LoveFM" tvg-logo="https://i.postimg.cc/PfL0t0xg/Love-FM-TV.png " group-title="🔹Music",Love FM
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
@@ -3648,6 +3650,14 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/chunklist_w15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 #https://smotr.top/kanal/000000013/index.m3u8
+
+#EXTINF:-1 tvg-id="PulseTV" tvg-logo="https://i.postimg.cc/x1149nsR/Pulse-Music.png" group-title="🔹Music",Pulse Music
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-id="NR1" tvg-logo="https://i.postimg.cc/cLvYm8vc/NR1.png" group-title="🔹Music",NR1
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=number-1-tv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PqvJQRn6/Song-TV.png" group-title="🔹Music",SongTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -3789,10 +3799,10 @@ https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 #EXTINF:-1 tvg-id="RockNow" tvg-logo="https://i.postimg.cc/NF153XxQ/Rock-Now.jpg" group-title="🔹Music",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist1080.m3u8
 
-#EXTINF:-1 tvg-id="Now70's'" tvg-logo="https://i.postimg.cc/c4Wc6tvP/NOW-70-s.jpg" group-title="🔹Music",Now 70's
+#EXTINF:-1 tvg-id="Now70's" tvg-logo="https://i.postimg.cc/c4Wc6tvP/NOW-70-s.jpg" group-title="🔹Music",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Now80's'" tvg-logo="https://i.postimg.cc/BnsmbjkN/now-80s.png" group-title="🔹Music",Now 80's
+#EXTINF:-1 tvg-id="Now80's" tvg-logo="https://i.postimg.cc/BnsmbjkN/now-80s.png" group-title="🔹Music",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY2hhTZJ/tmc-80s.png" group-title="🔹Music",TotalMusic 80's
@@ -3801,13 +3811,18 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/mas
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/NF153XxQ/Rock-Now.jpg" group-title="🔹Music",Now 90's
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vevo Rock" tvg-logo="https://i.postimg.cc/VktW7FCQ/VRetro-Rock.png" group-title="🔹Music",Vevo Retro Rock
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSu2z_ReDol8eryhGa1FRv4HHcBDM_a7mVwEvrj_ohTvYA3Seic_Rq2T45CHqz29V6mR-qccW_vd0RzdEVd94EnSgzRkRsMBW91gfG0dXaWZ9gJ3NRxriZTGySxbWUkeRCUKTBMO5KK6R12UeJMsQMh52rWCSTGZMANd1pzmDn0i1jzuLhfHjlFoKZivMO/s1000/80979.png" group-title="🔹Music",MTV Rocks
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=mtv-rocks
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VktW7FCQ/VRetro-Rock.png" group-title="🔹Music",Vevo Retro Rock
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Rock Live" tvg-logo="https://i.postimg.cc/y6bDGVX4/TVRock.jpg" group-title="🔹Music",TV Rock Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/y6bDGVX4/TVRock.jpg" group-title="🔹Music",TV Rock Live
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Xite Rock"  tvg-logo="https://i.postimg.cc/qvktGWFx/XITE-Rock-x-Metal.png" group-title="🔹Music",Xite Rock
+#EXTINF:-1 tvg-id="XiteRock"  tvg-logo="https://i.postimg.cc/qvktGWFx/XITE-Rock-x-Metal.png" group-title="🔹Music",Xite Rock
 https://d1km5mimggxbs8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1wx09ca45r6yu/XITE_Rock_On.m3u8
 
 #EXTINF:-1 tvg-id="VantageRock"  tvg-logo="https://i.postimg.cc/KYzRPLML/VANTAGE-ROCK.png" group-title="🔹Music",Vantage Rock
@@ -3950,12 +3965,6 @@ https://cdndirector.dailymotion.com/cdn/live/video/x9mo8iu.m3u8?sec=FKe4m0qkkKKz
 
 #EXTINF:-1 tvg-id="SpiritTV" tvg-logo="https://i.postimg.cc/Kz41D32k/Spirit-TV.png" group-title="🔹Music",SpiritTV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v3a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="PulseTV" tvg-logo="https://i.postimg.cc/x1149nsR/Pulse-Music.png" group-title="🔹Music",Pulse Music
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-
-#EXTINF:-1 tvg-id="NR1" tvg-logo="https://i.postimg.cc/cLvYm8vc/NR1.png" group-title="🔹Music",NR1
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio CapitalTV" tvg-logo="https://i.postimg.cc/gjv48KYj/Radio-Capital-TV.png" group-title="🔹Music",Radio Capital
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
@@ -4240,7 +4249,9 @@ https://cmc-kowdtv.amagi.tv/playlist.m3u8
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8 
 
 #EXTINF:-1 tvg-id="MTV Live" tvg-logo="https://i.postimg.cc/k4fZJPkG/MTVUSLive.jpg" group-title="🔹Music",MTV US Live
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=mtv-us
 
 #EXTINF:-1 tvg-id="MTV Live" tvg-logo="https://i.postimg.cc/k4fZJPkG/MTVUSLive.jpg" group-title="🔹Music",MTV US Live 2
 http://104.250.144.202:46183/
@@ -4254,13 +4265,17 @@ https://tvizle.tr/api/yayin?c=mtv-spankin-new
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
 #EXTINF:-1 tvg-id="YoMTV" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="🔹Music",Yo! MTV
-https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=yo-mtv
 
 #EXTINF:-1 tvg-id="MTV 2" tvg-logo="https://i.postimg.cc/VLRbNVn3/MTV2-logo-2013-svg.png" group-title="🔹Music",MTV2
 http://198.58.104.90:8989/mtv2/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV Europe" tvg-logo="https://i.postimg.cc/JzR6sjW1/MTVEurope.jpg" group-title="🔹Music",MTV Russia
-https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=mtv-ru
 
 #EXTINF:-1 tvg-id="MTVFlow" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" group-title="🔹Music",MTV Flow Latino
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
