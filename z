@@ -3542,7 +3542,7 @@ https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
 #EXTINF:-1 tvg-id="LoveFM" tvg-logo="https://i.postimg.cc/PfL0t0xg/Love-FM-TV.png " group-title="🔹Music",Love FM
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VantageClassic"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHJPKOGJLJ3RAWEvcDJiIedSZAVGJ3e40ImhQkyaiZvTvhNuP57azaNy4euw5RUtS019Os3gPG49eZvqqq7oZJAn1sENdVFVwGRQh9rT-ZgPAOhe4nL_WZVgObUlHj9DTvPn5gAWwtjFaDKNdkJDPyoUtOsEl3B91zwWavyLitqnmA-gpFdS_PHDNptoTF/s108/80968.png" group-title="🔹Music",Vantage Rock
+#EXTINF:-1 tvg-id="VantageClassic"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHJPKOGJLJ3RAWEvcDJiIedSZAVGJ3e40ImhQkyaiZvTvhNuP57azaNy4euw5RUtS019Os3gPG49eZvqqq7oZJAn1sENdVFVwGRQh9rT-ZgPAOhe4nL_WZVgObUlHj9DTvPn5gAWwtjFaDKNdkJDPyoUtOsEl3B91zwWavyLitqnmA-gpFdS_PHDNptoTF/s108/80968.png" group-title="🔹Music",Vantage Classic
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=vantage-classic
@@ -4628,6 +4628,6 @@ https://stream-154.zeno.fm/e9d0qhpxmv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="🔸𐍐հ⃯ᨡ֟፝͝𐑾꫶⃮ࠋꜟৎ",🔸𐍐հ⃯ᨡ֟፝͝𐑾꫶⃮ࠋꜟৎ
-https://linear-175.frequency.stream/dist/whaletvplus/175/hls/master/playlist.m3u8
+https://linear-175.frequency.stream/dist/whaletvplus/175/hls/master/playlist.m3u8 
 
 
