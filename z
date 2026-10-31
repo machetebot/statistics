@@ -3597,6 +3597,11 @@ https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1dL5xioHFRcmvnmxIaynKXhouPLA91e2fimyeFnXUbnrYCEZqovUf2hnPMlv7xyX0awEljvES6wT_ZtPkkfaO7-9YmkXglAi0ly9JY6Kb0GeWIi_GE98gBALzSvq_PXnwmi6YKJknu1PnQILrfaX4gd8QLJbuSSEREJyJPGP2cq5hDo1FH6hxkycwVCOr/s216/80990.png" group-title="🔹Music",Vibe2Beat
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=v2beat-tv-uk
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/763kYVVW/Kanal-Ocko-Music-TV-1.png" group-title="🔹Music",Óçko Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/manifest.mpd
@@ -3917,7 +3922,9 @@ https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
 https://d2hzqddebd4oer.cloudfront.net/csts.m3u8
 
 #EXTINF:-1 tvg-id="BokRadio" tvg-logo="https://i.postimg.cc/fb0MPPHF/BOKTV.png" group-title="🔹Music",B O K
-https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=boktv
 
 #EXTINF:-1 tvg-id="MuzzOne" tvg-logo="https://i.postimg.cc/3r4dkRd5/Muzzone-TV.png" group-title="🔹Music",MuzzOne
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
@@ -4015,16 +4022,22 @@ https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nLxtMxM8/Cadena-Elite.png" group-title="🔹Music",Cadena Elite
-https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=cadena-elite
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/T2nD2Fpm/Super-Q-Panama.png" group-title="🔹Music",Super Q
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QdZLtMS5/Lira-TV.png" group-title="🔹Music",Lira
-https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=liratv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="🔹Music",P2M
-https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=p2m-tv
 
 #EXTINF:-1 tvg-id="IbizaGlobalTV" tvg-logo="https://i.postimg.cc/6pQmmPkw/Ibiza-Global-TV.png" group-title="🔹Music",Ibiza Global
 https://fl1003.bozztv.com:443/ushba-t2/tracks-v1a1/mono.m3u8
