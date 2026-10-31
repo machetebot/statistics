@@ -3553,7 +3553,9 @@ https://tvizle.tr/api/yayin?c=vantage-classic
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VClassicTV" tvg-logo="https://i.postimg.cc/QxKyCh1Y/V-Classic-TV.png" group-title="🔹Music",VClassic
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=v-classic-tv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s2tr5Y3B/City-TV.png" group-title="🔹Music",City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -3625,9 +3627,10 @@ https://web.onair-radio.eu/video/video/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 
-#EXTINF:-1 tvg-id="TMFTV" tvg-logo="https://i.postimg.cc/tJFG6Vt8/TMF.png" group-title="🔹Music",TMF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tJFG6Vt8/TMF.png" group-title="🔹Music",TMF
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=tmf
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nzgCjjP0/Biz-Music-TV.png" group-title="🔹Music",Biz Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -3671,9 +3674,10 @@ https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://s.emisoras.tv:8081/kerussotv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PqM652Ph/Panik-TV.png" group-title="🔹Music",PanikTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PqM652Ph/Panik-TV.png" group-title="🔹Music",MTV Rocks
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=panik-tv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bJnDTS4V/images-(3).png" group-title="🔹Music",Saga Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
@@ -3999,25 +4003,27 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-id="ImpactDanceTV" tvg-logo="https://i.postimg.cc/Kcr0Hk9W/impact-tv.jpg" group-title="🔹Music",Impact Dance
 https://online.tvimpact.live/hls/dancetv.m3u8
 
-#EXTINF:-1 tvg-id="VM Latino" tvg-logo="https://i.postimg.cc/bYDYKCjr/8e4e6f-a3c0c3994703438baf20db63ebe9aebe-mv2.png" group-title="🔹Music",VM Latino
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bYDYKCjr/8e4e6f-a3c0c3994703438baf20db63ebe9aebe-mv2.png" group-title="🔹Music",VM Latino
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=vm-latino
 
-#EXTINF:-1 tvg-id="LatinZoneTV" tvg-logo="https://i.postimg.cc/J07QjKC6/Latin-Zone-TV.jpg" group-title="🔹Music",Latin Zone
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J07QjKC6/Latin-Zone-TV.jpg" group-title="🔹Music",Latin Zone
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 
-#EXTINF:-1 tvg-id="La Mia TV" tvg-logo="https://i.postimg.cc/NfC45jnG/La-Mia-TV.png" group-title="🔹Music",La Mia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/NfC45jnG/La-Mia-TV.png" group-title="🔹Music",La Mia
 https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cadena Elite TV" tvg-logo="https://i.postimg.cc/nLxtMxM8/Cadena-Elite.png" group-title="🔹Music",Cadena Elite
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nLxtMxM8/Cadena-Elite.png" group-title="🔹Music",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
-#EXTINF:-1 tvg-id="SuperQTV" tvg-logo="https://i.postimg.cc/T2nD2Fpm/Super-Q-Panama.png" group-title="🔹Music",Super Q
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/T2nD2Fpm/Super-Q-Panama.png" group-title="🔹Music",Super Q
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Lira TV" tvg-logo="https://i.postimg.cc/QdZLtMS5/Lira-TV.png" group-title="🔹Music",Lira
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QdZLtMS5/Lira-TV.png" group-title="🔹Music",Lira
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="P2M TV" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="🔹Music",P2M
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="🔹Music",P2M
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="IbizaGlobalTV" tvg-logo="https://i.postimg.cc/6pQmmPkw/Ibiza-Global-TV.png" group-title="🔹Music",Ibiza Global
