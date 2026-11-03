@@ -3595,6 +3595,9 @@ https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51OCfDmv30HazhE-epOh9z2K1Q2pmEeqzi47epNfCTwm0Y9z9RF2TqtxYkVFMfcW8XmjRoXrkJOFnU1IqQWSdyOUrAznO3KScKrYjb69FluJ4w-YTAK0WPnbZdU1Z7WW3Ho7Qlq_SStXvgZ6IGyLtT2J3tFHM_eWOvFVbi4qj4IDe8tcseXBWSjQsChYs/s366/80939.png" group-title="🔹Music",Magic
 https://bss1.neterra.tv/magictv/stream_0.m3u8
 
+#EXTINF:-1 tvg-id="360TuneBox.nl@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4KYlWcRhtlYXi5N9blkn7C0yOXmzcCHlejsqfDrlNAfIJb8ytO27Du-cUVbGNJJSj2QrcnQsC3piC2gH0wgUooFrUW0Eu_AmiXOFM-I_Ln7gwyU3EOY2ukbcmDxoUlDSrA_r4ulukM3ZC5mU3eo0_LJsev8dvgH55cC86hhus47Nu1QqZ-jxRTZGbqHtM/s512/81037.png" group-title="🔹Music",360 TuneBox
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8 
+
 #EXTINF:-1 tvg-id="qmusic_be" tvg-logo="https://i.postimg.cc/9F211CZn/264x264-kleur-8.png" group-title="🔹Music",Q Music
 https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/videohls.m3u8
 
