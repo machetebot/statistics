@@ -3556,6 +3556,9 @@ http://stream.mcquack.net/272/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=vantage-classic
 
+#EXTINF:-1 tvg-id="4everMusic.ua@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlDfQG3ysZXfXallyDVvY79MupfuZiIWafpiFt1fXglrF-ZETwpunlv6P9MPhLJwfl7O57PQDRpzhndekt2M_AUrjdw_2pu6MA7QG9ARk2OOGyV41qUB38atncAp9YoQD-yGVpseHhZMQXuK1i1Et2Y-zTnAPeh-uVasACT8R4SxLMrkT-K1kXTTSCZDJb/s278/81036.png" group-title="🔹Music",4Ever Music
+http://stream.mcquack.net/257/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jd8TN659/Colosal-TV.png" group-title="🔹Music",Colosal
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
@@ -3563,9 +3566,6 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=v-classic-tv
-
-#EXTINF:-1 tvg-id="4everMusic.ua@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlDfQG3ysZXfXallyDVvY79MupfuZiIWafpiFt1fXglrF-ZETwpunlv6P9MPhLJwfl7O57PQDRpzhndekt2M_AUrjdw_2pu6MA7QG9ARk2OOGyV41qUB38atncAp9YoQD-yGVpseHhZMQXuK1i1Et2Y-zTnAPeh-uVasACT8R4SxLMrkT-K1kXTTSCZDJb/s278/81036.png" group-title="🔹Music",4ever Music
-http://stream.mcquack.net/257/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s2tr5Y3B/City-TV.png" group-title="🔹Music",City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
