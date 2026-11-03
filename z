@@ -3544,6 +3544,8 @@ https://tvizle.tr/api/yayin?c=51-radio-tv
 #EXTINF:-1 tvg-id="LoveFM" tvg-logo="https://i.postimg.cc/PfL0t0xg/Love-FM-TV.png " group-title="🔹Music",Love FM
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MTVClassic.us@BR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZQMS1mwL3pS3Wkwoel2_pRTCBBG21DN73EBHgHCrCP9nsGVssqdu4bpqN8875U3Z-ENPGkieJP7c_4xlvtkcX7mHFSflB1XC_i2S3YqbJfslD7mGHH0stb8xSfa4XjCcFbUR1sPwMY0jSCLeUbwvUsRhOsMZtLdABv35BRgAxQ0wcKx6FXJJXdxKXk4vp/s474/81035.png" group-title="Music",MTV Classic https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8 
+
 #EXTINF:-1 tvg-id="BridgeClassicHits" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUMH6HdoCNVV3OiCrlyWExBeGALF04lW5ow8bx7hJLJtMetGI3L8OWDBqxd2IJkwK28hCH0Zg8PBn8QTvRNKWau47b2PC8BW4aCaU2vEARuXRJWI-g4zkLoG4gYYWCka_1aFhn0t-KCRl6EKxtwbnKe0oO_6e8Bk6ndkLfEwZZcaSDUgBzVIRBghV_6Mu-/s188/81030.png" group-title="🔹Music",Bridge Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
 http://stream.mcquack.net/272/index.m3u8
@@ -3899,8 +3901,9 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-60b0f65c0c8f
 #EXTINF:-1 tvg-id="ClassicaTV" tvg-logo="https://i.postimg.cc/d3sZRvqn/Classica.png" group-title="🔹Music",Classica
 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 
-#EXTINF:-1 tvg-id="Mezzo" tvg-logo="https://i.postimg.cc/DyQHXms7/mezzo-live-hd.png" group-title="🔹Music",Mezzo
-https://tv.tvcdnpotok.com/9WYQciE6VFhabeZye_V7Xg/2092/1777397296/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DyQHXms7/mezzo-live-hd.png" group-title="🔹Music",Mezzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
+http://stream.mcquack.net/276/index.m3u8
 
 #EXTINF:-1 tvg-id="QelloConcerts" tvg-logo="https://i.postimg.cc/CMXCxwzT/Qello-Concerts.png" group-title="🔹Music",Qello Concerts
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&avod=1
