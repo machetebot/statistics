@@ -1956,9 +1956,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2597
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxfCQxVG/Animal-Planet.png" group-title="🔹Documentaries",Animal Planet HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/izle/animal-planet-in
 
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-logo="https://i.postimg.cc/FKjsnbjf/AP.png" group-title="🔹Documentaries",Animal Planet HD 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
