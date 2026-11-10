@@ -3535,11 +3535,16 @@ https://amg16902-amg16902c1-lightcast-worldwide-2931.playouts.now.amagi.tv/playl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://livechannel.mdc.akamaized.net/stitch/livechannel/1314/master.m3u8?channel=live_stream_1314
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwP4XWR6soHNW6dY3MkXmRbYRw2j5QzD8TmS-TOx6w92JX7wsrmnQjyGi0AYS6Z_mIXio4ihqKcCKm7Ds7aE8QEvLLTV8kaPTlEHNFznEtlaAxGc2GBI9ZrjdEGZZfEO8s3HvO8cEUXhg_Be72YTW523SjhLDtMx1CDlv47IJZHWm45IBnFMMHOfHzDOA2/s625/81201.jpg" group-title="🔹Music",89A Radio Rock
+#EXTVLCOPT:http-referrer=https://www.dailymotion.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://cdndirector.dailymotion.com/cdn/live/video/x7wjrui.m3u8?sec=NpewS5mr24Oc1nfxXpaVhyd1HgrPAR4sjyuGgp5ENVVynWLJfpC5au2PjeLw6UxXIBjefowvKYeQHT7pwWZLBCdNcB4AfoEAhB9KHRaDw0_-6oWwbFftmBTnE06jET4k
+
+#EXTINF:-1 tvg-id="538.nl" tvg-logo="https://i.postimg.cc/dQWHzr1p/538TV.png" group-title="🔹Music",538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+
 #EXTINF:-1 tvg-id="VirginRadio.uk" tvg-logo="https://i.postimg.cc/MZnbDXnM/Virgin-Radio-TV-Logo.png" group-title="🔹Music",Virgin Radio
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/dQWHzr1p/538TV.png" group-title="🔹Music",538
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tC4kkM1H/51Radio-TV.png" group-title="🔹Music",51 Radio
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
@@ -3977,7 +3982,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/pl
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 
 #EXTINF:-1 tvg-id="89ARadioRock" tvg-logo="https://i.postimg.cc/VkSJhtzG/89-A-Radio-Rock.png" group-title="🔹Music",89A Radio Rock
-https://27433.live.streamtheworld.com:443/RADIO_89FM_SC
+https://24463.live.streamtheworld.com/RADIO_89FM_ADP.aac?dist=site-89fm&_t=1794321195210
 
 
 #EXTINF:-1 tvg-id="LFM" tvg-logo="https://i.postimg.cc/t704YBCh/LFM.png" group-title="🔹Music",LFM
