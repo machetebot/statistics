@@ -3606,9 +3606,10 @@ https://tvizle.tr/api/yayin?c=4-fun-tv
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAQ1qIwIdYqTQ4_kbIVfFicr8tBRi6GCTEk270_ntqyYALJ8l-fVkxZRtrd0UabOLFI5rOskjJf8EUHsIpuo7eOyjM9K5mE_oOL8X8BhSZeBGxhN2wTbM3c4JeDGCdz_xbLtgZCbj4UFGdWRp9WVEw4tAJoFaBAXweh8SmNcdpipfNYNtVTn32zOGFndmt/s1920/81004.png" group-title="🔹Music",Óčko Star
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
-#EXTINF:-1 tvg-id="OxygenMusic" tvg-logo="https://i.postimg.cc/VvHQLnZq/Oxygen.png" group-title="🔹Music",Oxygen Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VvHQLnZq/Oxygen.png" group-title="🔹Music",Oxygen Music
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=oxygen-music
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51OCfDmv30HazhE-epOh9z2K1Q2pmEeqzi47epNfCTwm0Y9z9RF2TqtxYkVFMfcW8XmjRoXrkJOFnU1IqQWSdyOUrAznO3KScKrYjb69FluJ4w-YTAK0WPnbZdU1Z7WW3Ho7Qlq_SStXvgZ6IGyLtT2J3tFHM_eWOvFVbi4qj4IDe8tcseXBWSjQsChYs/s366/80939.png" group-title="🔹Music",Magic
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
@@ -3748,8 +3749,10 @@ https://627bb251f23c7.streamlock.net:444/MetaldelCielo/MetaldelCielo/playlist.m3
 #EXTINF:-1 tvg-id="GoldMusicBox" tvg-logo="https://i.postimg.cc/LsfJXRK0/musicbox-gold.png" group-title="🔹Music",Gold Music Box
 rtmp://vkvsd279.okcdn.ru/playback/9855673772950?stkn=YBV5uaE8DFoAERCna3gEsPoTOBgthvJ7XU4qEhmm26WE_Jc2Zt-H95IjPOVf3XUharorlKQx-II&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5t3S3sQC/E.jpg" group-title="🔹Music",Europa Plus
-rtmp://vkvsd279.okcdn.ru/playback/2275019336490?stkn=-uqNVZJd5uVWgppyyAafYn1J7JeCwa37i9jCDj2kRYM660hlnV7zmJg681gFhL_vn63DldXbHDU&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvBi3G5-FPnQddEoFBFtsFZ1bsn8m83b17-dd3fCzhRhIVG9WPKPyT42aByZBVErKr1HQxQOoNik8uDnjoBf8_SBm97qY36yiOYsQAHArPVq-h3bChIl9gF7bRcsuPx0KPkEmJNECEyEx-2XTGSkuA27I5qpFVDCuJ5bDZXzhktVtBV8VQgj8hTegoJVAw/s512/81214.png" group-title="🔹Music",Europa Plus TV
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=europa-plus-tv
 
 #EXTINF:-1 tvg-id="TotalDance" tvg-logo="https://i.postimg.cc/gjRXTZm7/TOTAL-DANCE-TV.png" group-title="🔹Music",Total Dance
 https://iptv02.eurocable.co.hu:15400/BR-TOTALDANCEHD/playlist.m3u8
@@ -3757,7 +3760,12 @@ https://iptv02.eurocable.co.hu:15400/BR-TOTALDANCEHD/playlist.m3u8
 #EXTINF:-1 tvg-id="TechnoDance" tvg-logo="https://i.postimg.cc/q7P99qQV/TECHNO-DANCE.png" group-title="🔹Music",Techno Dance
 rtmp://vkvsd209.okcdn.ru/playback/4541149555686?stkn=e-ZTX9edu5x8R1DnwbgjgisbzB1beBNoxl_LZ2lou4j4fANC5UHg5npDk3LhtywSTwvESyIV3dA&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
-#EXTINF:-1 tvg-id="DanceStarTV" tvg-logo="https://i.postimg.cc/HL3rzJgf/DSTV.png" group-title="🔹Music",Dance Star
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6sGIHbLjD274q24-viuMkPOcqjUXEG6j3HFkK740SwJuwxuo7NPaKi_ixqCIsMK2SFjS12ZHiJJReXcKcLWUg96FQUuqbtoeW1qVe75dKKBTIfTkk26ucPdkan-aTgX8ybaiVDe53jAOhEelkpQDpofPXlvzww9vx3mnQtflen6NiRU69Ikb96_SUiAik/s216/81212.png" group-title="🔹Music",Vantage Dance
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=vantage-dance
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HL3rzJgf/DSTV.png" group-title="🔹Music",Dance Star
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 
 #EXTINF:-1 tvg-id="Vevo70's" tvg-logo="https://i.postimg.cc/zvC3j5v7/Vevo70s.png" group-title="🔹Music",Vevo 70's
