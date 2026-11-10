@@ -4349,6 +4349,11 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:-1 tvg-id="StingrayMovieMusic" tvg-logo="https://i.postimg.cc/fLhsmDYd/MMusic-S.png" group-title="🔹Music",Stingray Movie Music
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaFB-eOhR2FkALjfA52ixyU4_gZ_esqDu6ImemyLcB-_gDDNpXXg4hyCz6d1HS53fRP-NmoQ664LNiri_WdfsHB2nQTFKbWCAWhO8BenLK_dtBcyLLM6I4K612sV2KWolVzgesfHs-yHB2oeFI2VQ6Hk89ETN0J0tf1ogZarLJUIOAH6U1mk_Flu5y3v7e/s216/81198.png" group-title="🔹Music",Trace Gospel
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=trace-gospel
+
 #EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbCKKyXYbNC8WTEJTbqd6rxd4n7ky87wwiZ3V9o3VtlhuYkgifOQamNqcdxsuf4nwih-SvkBa2I4Ppdn3yoeYPHmaQo6f21rmkcI6m6Yq6bIFgP9UJIuBdSqO0lAq7YNY0HfTdn3CgRFS8qLObytRPGAV63XexpLQdZbwdO9YGYQD_hR2sJOCD6e3lEfOp/s1600/73197.png" group-title="🔹Outdoors",Spike Outdoors
 https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
 
