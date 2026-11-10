@@ -3627,8 +3627,10 @@ https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="qmusic_be" tvg-logo="https://i.postimg.cc/9F211CZn/264x264-kleur-8.png" group-title="🔹Music",Q Music
 https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/videohls.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJS952Zq/piterpan-tv.png" group-title="🔹Music",PiterPan
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJS952Zq/piterpan-tv.png" group-title="🔹Music",Piter Pan
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=radio-piter-pan-tv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7hKsq9R9/Krone-Hit-TV.png" group-title="🔹Music",Krone Hit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -4240,9 +4242,10 @@ https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="RussianMusicGold" tvg-logo="https://i.postimg.cc/52gHzQP6/logo-535f5e36ebf8c403a1001bde.jpg" group-title="🔹Music",Russian Music Box
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-rtmp://vkvsd59.okcdn.ru/playback/10853863598929?stkn=ohGgzfx4sfyVdcvNz2pJ-K-5IyPdE6MJgUr_aXMgMEjXV91rRtID9cXn8Oa3Nt6mvVwomUOoAss&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-vSQsr-JDR39bQs6d-PPQBm819RwPceWiWjo2oe_NPsqQttKNmpHKsI0BjUvm-m5f1oTQiDUn1RmcOdbTROusFJPno7vTorHhkSwYPevfuTtqddWTEUyINZINqP5SHIC3Oe55mkr7WEMcRVQUZIZRBpxT8QZROkvKGs6YeagXXZO8_3avSbh2uR5iQ2_m/s588/81217.jpg" group-title="🔹Music",Russian Music Box
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=russian-musicbox
 
 #EXTINF:-1 tvg-id="EuroDance" tvg-logo="https://i.postimg.cc/nLK8frj4/Euro-Danz-TV.png" group-title="🔹Music",Euro Dance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
