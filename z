@@ -3591,11 +3591,15 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioMonteCarloTV" tvg-logo="https://i.postimg.cc/D01hhnzV/monte-carlo-tv.png" group-title="🔹Music",Radio Monte Carlo
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
 
-#EXTINF:-1 tvg-id="88Stereo" tvg-logo="https://i.postimg.cc/Zn22Cx4H/88Stereo.png" group-title="🔹Music",88 Stereo
-https://59ef525c24caa.streamlock.net/CableLatino/88stereo/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Zn22Cx4H/88Stereo.png" group-title="🔹Music",88 Stereo
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=88-stereo
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rmGhttxs/Kanal-4Fun-Poland-hd.png" group-title="🔹Music",4Fun
-https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=4-fun-tv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAQ1qIwIdYqTQ4_kbIVfFicr8tBRi6GCTEk270_ntqyYALJ8l-fVkxZRtrd0UabOLFI5rOskjJf8EUHsIpuo7eOyjM9K5mE_oOL8X8BhSZeBGxhN2wTbM3c4JeDGCdz_xbLtgZCbj4UFGdWRp9WVEw4tAJoFaBAXweh8SmNcdpipfNYNtVTn32zOGFndmt/s1920/81004.png" group-title="🔹Music",Óčko Star
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
@@ -3605,7 +3609,14 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51OCfDmv30HazhE-epOh9z2K1Q2pmEeqzi47epNfCTwm0Y9z9RF2TqtxYkVFMfcW8XmjRoXrkJOFnU1IqQWSdyOUrAznO3KScKrYjb69FluJ4w-YTAK0WPnbZdU1Z7WW3Ho7Qlq_SStXvgZ6IGyLtT2J3tFHM_eWOvFVbi4qj4IDe8tcseXBWSjQsChYs/s366/80939.png" group-title="🔹Music",Magic
-https://bss1.neterra.tv/magictv/stream_0.m3u8
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=magic-tv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAWA_e4IyCFyMEA1zFdjukHe8hx5WBaCBUTHWOQCQ4SURBEnKonKyeG1hWr8rnELo6x2x3DLaHysCLTv89S6D37TYVjjZ0krUDCVxuE0d1z-Lvp87Bn_q-jljA1VfR22Ylyaqd5Mts1cSl1csSAxyEdGky2wOiFvzBK7n_i2HoZ0VFN9VFV6ckDwOs5sAN/s216/81203.png" group-title="🔹Music",Audiokiss
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=audiokiss
 
 #EXTINF:-1 tvg-id="360TuneBox.nl@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4KYlWcRhtlYXi5N9blkn7C0yOXmzcCHlejsqfDrlNAfIJb8ytO27Du-cUVbGNJJSj2QrcnQsC3piC2gH0wgUooFrUW0Eu_AmiXOFM-I_Ln7gwyU3EOY2ukbcmDxoUlDSrA_r4ulukM3ZC5mU3eo0_LJsev8dvgH55cC86hhus47Nu1QqZ-jxRTZGbqHtM/s512/81037.png" group-title="🔹Music",360 TuneBox
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
