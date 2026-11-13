@@ -2151,7 +2151,8 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 
 #EXTINF:-1 tvg-id="UDAR.ru" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkIvDwVKtlim-oXNHYnSvx2iSYK5p8ilGo5miG4GT3VrwwbaBLae7xROCO4suh5NtfU-l-uTRW0gl0oVH0mqFW4hyHJ-GwuyABGe5uh8ICPAyyLoLrSEXT_CCYUHy8o78FWFX2FzuXmy-PS1WMTRmfDzZvR7ek4tRqrmg82uWQkIxoRq5tzyIML-SfxsO-/s899/80731.png" group-title="🔹Sports",Russian Cagefighting Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://rodnoetv.com/tv/000007802/mono.m3u8
+https://r2.awmcdn.link/r2/memfs/M0mcBPxzJiRN_8iIluzEQQ:1794613363/34d3e7f6-6bbe-406e-bf70-2442b9cfc023.m3u8
+#http://rodnoetv.com/tv/000007802/mono.m3u8
 #https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
 #http://tvset.org/ch/000007802.m3u8
 #https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
