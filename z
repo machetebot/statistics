@@ -3040,12 +3040,27 @@ https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kr
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://49.0.64.96:8007/NBA
 
-#EXTINF:-1 tvg-id="Redbull.Dummy.us" tvg-name="Redbull Dummy" tvg-logo="https://img.redbull.com/images/w_450/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ch-number="317" group-title="🔹Sports",Redbull TV
+#EXTINF:-1 tvg-id="Redbull.Dummy.us" tvg-name="Redbull Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15U3qINlfceaj9jeUCDzGpyQ1OqLdu-hONRLNq65Mftm1Kg12t4F0n4dyBxWGnM6WG3y6Ln_YrwCBZT646sRZ47yVPqLIH6-WVZh4MYcRkpC1b5c6suOkZv3a4_Pg5bIZcdBlVnNbr35NeaERP4CJdRW-237cLNJhn2MnrOVFTzwPJ1pjlfn4b-Ku-1D_/s450/81309.png" ch-number="317" group-title="🔹Sports",Redbull TV (USA)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/ph/en/playlist.m3u8
 #https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15U3qINlfceaj9jeUCDzGpyQ1OqLdu-hONRLNq65Mftm1Kg12t4F0n4dyBxWGnM6WG3y6Ln_YrwCBZT646sRZ47yVPqLIH6-WVZh4MYcRkpC1b5c6suOkZv3a4_Pg5bIZcdBlVnNbr35NeaERP4CJdRW-237cLNJhn2MnrOVFTzwPJ1pjlfn4b-Ku-1D_/s450/81309.png" group-title="🔹Sports",Redbull TV (AU)
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15U3qINlfceaj9jeUCDzGpyQ1OqLdu-hONRLNq65Mftm1Kg12t4F0n4dyBxWGnM6WG3y6Ln_YrwCBZT646sRZ47yVPqLIH6-WVZh4MYcRkpC1b5c6suOkZv3a4_Pg5bIZcdBlVnNbr35NeaERP4CJdRW-237cLNJhn2MnrOVFTzwPJ1pjlfn4b-Ku-1D_/s450/81309.png" ch-number="426" group-title="🔹Sports",Redbull TV (ES)
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15U3qINlfceaj9jeUCDzGpyQ1OqLdu-hONRLNq65Mftm1Kg12t4F0n4dyBxWGnM6WG3y6Ln_YrwCBZT646sRZ47yVPqLIH6-WVZh4MYcRkpC1b5c6suOkZv3a4_Pg5bIZcdBlVnNbr35NeaERP4CJdRW-237cLNJhn2MnrOVFTzwPJ1pjlfn4b-Ku-1D_/s450/81309.png" group-title="🔹Sports",Redbull TV (UK)
+https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15U3qINlfceaj9jeUCDzGpyQ1OqLdu-hONRLNq65Mftm1Kg12t4F0n4dyBxWGnM6WG3y6Ln_YrwCBZT646sRZ47yVPqLIH6-WVZh4MYcRkpC1b5c6suOkZv3a4_Pg5bIZcdBlVnNbr35NeaERP4CJdRW-237cLNJhn2MnrOVFTzwPJ1pjlfn4b-Ku-1D_/s450/81309.png" group-title="🔹Sports",Redbull TV (DE)
+https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15U3qINlfceaj9jeUCDzGpyQ1OqLdu-hONRLNq65Mftm1Kg12t4F0n4dyBxWGnM6WG3y6Ln_YrwCBZT646sRZ47yVPqLIH6-WVZh4MYcRkpC1b5c6suOkZv3a4_Pg5bIZcdBlVnNbr35NeaERP4CJdRW-237cLNJhn2MnrOVFTzwPJ1pjlfn4b-Ku-1D_/s450/81309.png" group-title="🔹Sports",Redbull TV
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLdD9-7Pdn5TU4tct2uhimabWTxFmqEZ8jQ&s" ch-number="427" group-title="🔹Sports",World Poker Tour
 #KODIPROP:inputstream=inputstream.adaptive
