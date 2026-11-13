@@ -2172,6 +2172,9 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
 #EXTINF:-1 tvg-id="BellatorMMA.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii98u-qhbYt94FX4KSGhOj5QN_6cFH1fUnDoO1feSlwPkTZ8qEtF5jGHvr1IWmrMxtGZFiRVAz7fWYteevDr9UyVrhCMpN1SV3qe56M_NH29rt9lQm28HhxtA-KaC9rnAgosRploIbsHP4tmVyH3YLi6Q1-em0jL3j0RwFVAKzYq1qIwQmXyyd63iRNvyR/s228/80738.png" group-title="🔹Sports",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
+#EXTINF:-1 tvg-id="HardKnocks" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVLDKm1sKZLWbM9d9QhjSL4gw__hYsI7mhoIvcfU2HcZCAbdQsfsBKzEeA01bs-z3b5wo1WvtB_1Lpx9i7WKz1mVK6OTf4ZQJ0itF1dL06P3wvoEy3ElDbPndK1IXx6XgfWyur7NJg2YBO_T4av1G5kbXflijBdc_OzQ6fhuhfA7eH2rQbpYcpFks8d_a-/s200/80747.png" group-title="🔹Sports",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+
 #EXTINF:-1 tvg-id="wwe0100foxsportspremium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtza8J-2oy9X6oKR7zX3aDj-5Rgf6mk-vWEccnWKoRt5qOgQKs9p51lKHDbdRePOUQwMjVSayh1nU6spLe5ERzJDS26ispSEnDo7qV9E-IaA9D4CZCx97TNPfZcoNEUTscgYIlyNWzE_RGcUI9MjIUd8LyOfSGcpswk6GZdeyIzlBivqw7CfZeSYPluA8/s250/80741.png" group-title="🔹Sports",Budo Sento Championship
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
@@ -2182,9 +2185,6 @@ https://9ab4bcc639c845d2b682105f4e9afbf8.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 channel-id="685aa802fb6023de7cc56357" tvg-id="685aa802fb6023de7cc56357" tvg-chno="55" tvg-name="Dominance FC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCldY58OlXvriZ6v7RKkZ-TUZ-ha_Tt3xXdw085ueDAbs0xCgLoirg-30_MBsmGoBSAbaI6X9zMc36lp7_Ew0OTrUgI4dtEHpIZZkN8Vl7_ATY3ZdgnaCg8sSqD3lGWbt7zCVLf1PmKPu301vmd0B76Reonztw0KEZ7xqbOT3xBflqeiUJR7bT_D8h8C1Z/s320/80746.png" group-title="🔹Sports",Dominance Fighting Championship
 https://jmp2.uk/plu-685aa802fb6023de7cc56357.m3u8
-
-#EXTINF:-1 tvg-id="HardKnocks" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVLDKm1sKZLWbM9d9QhjSL4gw__hYsI7mhoIvcfU2HcZCAbdQsfsBKzEeA01bs-z3b5wo1WvtB_1Lpx9i7WKz1mVK6OTf4ZQJ0itF1dL06P3wvoEy3ElDbPndK1IXx6XgfWyur7NJg2YBO_T4av1G5kbXflijBdc_OzQ6fhuhfA7eH2rQbpYcpFks8d_a-/s200/80747.png" group-title="🔹Sports",Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribalV2/e073c5a0-a9ef-4223-bbb1-a5a77dd69306/0.m3u8?ads.channel_name=Hard%20Knocks&ads.content_genre=MMA,Sport&ads.ic=IAB17,IAB17-20&ads.rating=PG&ads.language=US&ads.coppa=0&ads.content_livestream=1&ads.us_privacy=1NYN&ads.gdpr=0&ads.gdpr_consent=0&ads.user_consent=0&ads.app_name=Free%20Live%20Sports&ads.app_bundle=freelivesports.tv&ads.app_store_url=&ads.ifa_type=dpid&ads.did=7658ca6bd4e7c38b144196998d30445e&ads.lmt=1
 
 #EXTINF:-1 tvg-id="PFL"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixAUJ4Ju7P3sMo7hTcOFIJX_0hfOnR1GMPGKTPql88KMk5AyxDeYviZZXoIK0pRWQerWG7OfZTFNSZh2nOv0DU5kT7p7vnA6aT1QTY4rPQ01_SfoIkCZaX34JYQlx0x7UgOCvUNN81-kt18tpw9x9JIsAHTX_rSqXQw-4HMuJF45ECrXBWjfhjZZ-0xm2k/s250/80748.png" group-title="🔹Sports",Professional Fighters League
 https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8?ads.wurl_channel=1309
