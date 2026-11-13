@@ -2335,7 +2335,12 @@ https://tvizle.tr/api/yayin?c=htv-sports
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/Qxnjsgvk/1TV.png",1TV Sports
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/66FTRH36/TLT.png",TLT Sports
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj76bZUyEuIKbfR4pNSzVKQyOxZte5CSUDla5uq0K3KA3KXoI4EoPKqIfz13lvnHEmKoDmJhpQsv1BT89MMW5dgkLaF4a-5NyU5pVBsLSuF-SQ00b1KEvWfaSriY5gpaIUlSOHvqcI4ZXL3WLmIHDjAUPttk3fzT1WQd86wSZN4xgpvY1Uha3fRhN6kfWAg/s1600/81315.png" group-title="🔹Sports",Claro Sports
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=realitatea-sportiva
+
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBMXL0CnQFXwSeBR_3zir-tNLcXq-zzBK54JMSLKvH5QFoT0SuqQ4j9QQBRm1UtQFuaqpGe_Y6I_AW7tJbGsOmMqMbGngfPMGeOSRC8pLVU4O4yLpEOxPfLo_b4dSTetxDhgwmeJLnkQvC7m3cUjchKbfTkOWznb7_LjQFnyg6h0tjot0hSJdKApZWfxbf/s1600/81319.png",TLT Sports
 https://tltsports.rst.ae/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/GpmdL1Q4/KTVSPorts.png",KTV Sports
