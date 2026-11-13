@@ -1958,7 +1958,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2597
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxfCQxVG/Animal-Planet.png" group-title="🔹Documentaries",Animal Planet HD
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://tvizle.tr/izle/animal-planet-in
+https://tvizle.tr/api/yayin?c=animal-planet-in
 
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-logo="https://i.postimg.cc/FKjsnbjf/AP.png" group-title="🔹Documentaries",Animal Planet HD 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2253,7 +2253,7 @@ https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/61
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5SjksNjgPzQx8m06mClL_i3sEljSNrubEBFZ6KJzeN2SwHakYvH2geCTCv_gMkZ93KbjVlTHGpq4W5hmcZKhTkGAbWS_t_5jHZEboisG-U5NenJy8HxDSwqpGyXBWEkVaY_TrQxbkbDljZyOVUDFN8FnWFuTCgn_WlpIm2kOMKkZv5AxbvOxhsmXgMC8V/s663/80798.png" group-title="🔹Sports",Channel Fight
 https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-DistroTV/266.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQb5vg_SAR0DKDBIam7AtAPWev6vKKUNy9tA0vSIhyphenhyphenugG7AiXOuD6iay0czxeToxSD962VZAJcRx2hu87I-Yf0z5Dv7EIYB2rx2eSkw9FeKLx5QxSgkz8o0nqVKbg8uDs9iT-2IkPUSHogqGoDXPJlYJLObGEn7NCfD7ESdNCPN-v2cxqZ1K6Q2Qb0Sm3d/s408/80801.png" group-title="🔹Sports",Unbeaten
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpF4MKe4eKMWaPpwk9PNKiXBeexpdTMlT-ELFeED_LQoThgpBViuvuSzJ58tWNM8tnpo6e3Imas6AB4oUPyb9ODjV_qH87VqXL9KaI3SYXP5iMKhyphenhyphenQxexx4ToY_crTcxlrjs_IrB6-r0TD0L-DyDTOv7UUrW-JPN7CcCsEqqR6PM_bsY1hCDuLMz4xCgVD/s108/81311.png" group-title="🔹Sports",Unbeaten
 https://unbeaten-tcl.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 group-title="🔹Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdjn36H5LAqM4uJp4RO8wFLPOpCJIanCjy5kddNhsdyiP0u6BpLfQNh6TqQDjt-TGl-gOgtmoy8JoEQvMtAATyYv0fFCtCoCzcm_4OW9GuFtScryZB0M1Xx3WG_tyD3mepS_8yJiuGNtBjfYOM1nn31-jNeEIn3gV_KL-O5c9I2qya_sPFOwSnhv356NpA/s247/80803.png",HBO Boxing
@@ -2292,6 +2292,11 @@ https://3432e021b91043f0814aa9d377c401d2.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV-B199VIvSagfjj-WJGiTkyfBZVYWhLPn1b_5Lp3C9TIDWFIi3zD4RSip5R4d3mvRcHULfMWhuIQag9DqxQBHEHo7lr3JKBCMOXfotuGScVFZ3SkyetUjOn_QPWtZFNGXqBSA0mJCPMdzad9U0iSaByfjo6vFEE01lo2GH2FJcSc3N7GsGfzSvf92T4of/s1280/80827.png",Billiard TV
 https://zharlzzz.short.gy/hb9Rdc
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyL2VWafJ6pCsn-ARc5uAgDsn4WN7pOF0FancKI1wfsniwyh1exxisiFAKuftlk33zwaApH57evchXoIJvPjgEx4klfMSFTaJmm6noXaNtJoKdcJv7GKbEMU_si0gINQobJYt1QJKI60mDaV17B490cc1B4bjnCoiH8K9KGp0l_1VMxpOlrr2MWclfXFYQ/s108/81310.png" group-title="🔹Sports",Claro Sports
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=claro-sports
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1BfnaCYQ8aIhSS71Tz0AUe01rWksIDmflo-ZR_s3dse2DPub-K7Okn4jt_pY_I_Ak8f-dQLnZxN-MFfqehQ6zgPhwI3FWp53GN3Hn4ya_9Tfy2yib0TK5Xj0h3T6_-UtjyiZKyiY0QMf5CwXCPZOzD1z4p6Dkq5GP9xOh7OD6nvCtr-76iFcicOgX5CwO/s2048/80835.png" group-title="🔹Sports",Billiards+
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
