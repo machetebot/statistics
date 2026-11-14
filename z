@@ -2148,6 +2148,9 @@ https://a182aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/u00
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-690ce1d0718f73527d832927.m3u8
 #https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zko1curyce7jh/IQJW/WBD/XXtremeJobs_IN/XXtremeJobs_IN.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji-utFIRKxxmDCfzhJrvco_zxNgivu4oKjC93Oo8mbHPwQtrq54DIyYH4pkwEF9ILidDSX_mYdK4oEN_8tyXgE0mqV936O_ME0Onc858IGTqtYs2z7-dWdjuwOg9ryAWCt0ore4RGo-I3CSfk2nez9fJsRgcne6joapcembgWMyDlCwAskjfg4eCxpq1-I/s424/81350.png",XTREAM Sports
+http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSsjLqmLCP-qIBLJqclXNAJBzWvb1F1xdrZCWbQEp5N-ixCDkzIKIlXs34u6Mp3Ir_hOPUuwzHioNf8ONpZxGOUiqvPkrOHPUF3LVeSs0KrVApqU_z_8GOgJh0F-5-kRKTMKCVoju8LtA05le3ddiJ7ctazHaVMkT4UAvjUuMqv2ob0s_nmm6UG3ERZAPK/s877/80719.png" ch-number="" group-title="🔹Sports",One Championship TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
@@ -2239,9 +2242,6 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="0128b5f756acf1e1c488509fd76b0a61" tvg-id="0128b5f756acf1e1c488509fd76b0a61" tvg-chno="265" tvg-name="🔹Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwl5tAl6zrPgQtYEnJ7a5wm4FI2G1s4PQxmGDzrHsJntQafVMq3RrXU8_4w8bAqMh7kCTyG_qMLU_9zZr5hh-0ecFSm2RgaCBCCW_dMvsJTegH4_nzmQXgeb6nUUxLu6zPBfTiPsza-mO2RYWB2E3u8ZMV5JDfDyFXVkQTJgZl3kLAUeso06Vt52CCRrim/s2207/80780.png" group-title="🔹Sports",X Games
 https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1XNx1BgJ-H59LaX9tt-IOB7sLjq3VHzH6ALXNYp_HBKHqJZOKSYM3-h4y7AToAMXzdNxudv4CR8i_K8PQrMpbDXnB23Km7DZNkk8cGFl4LlHonFeH6PeDv0UToAZkYnRFDa2E3Th6J3up9esxpSCHgb0kjscsCcgFzeoT2XQpvuOCd7BYSzu7Kzr-Ruic/s369/80783.png",X-tream Sports
-http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxDFS4Syn8uqAe7UuF6rH-BS_ehrzuFcyiPEmbknyi1f8D89Ln9VJp14PseqnCjqUmq5xOLSYNBn3rJDb3rRq64EpTiVSNPx3yUR7fI-QSN-MWUr3xWHLRjyunJ7U16KciNNLHAdNJxCWOz6b2_pFak2Zq1CV4bvWShlP_NS1hTGafTiWTb8sTN_L-hI1O/s1200/80786.png" group-title="🔹Sports",Extreme Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
