@@ -1985,7 +1985,7 @@ https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hrZTgZw/National-Geographic.png" group-title="🔹Documentaries",National Geographic 2
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+https://onyx1.mofta001.cfd/ngeo/usergenrnd84oeigt.m3u8
 
 #EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-logo="https://i.postimg.cc/HL3xRJz4/Nat-Geo-Wild.png" group-title="🔹Documentaries",National Geographic Wild
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4562,6 +4562,16 @@ https://ifood-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="Cocina"  tvg-logo="https://i.postimg.cc/wMcQqx9t/Cocina.png" group-title="🔹Kitchen Show",Cocina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZki6I1AbYoX2uieHOsm_AHd28xkp_qmRESbDFXKotvvO0JPuGBO80Sf-dIHn2pMN9EnwOsb1Rj9Yw8nU41zCXlw4Jvpjq9cmgkSDMWmxoL-cyEB6fYtiCTWwfqZDH_PubV8USRJlZP1796uMnhLKp20IctBLPe6ZslTCePTb0g6Y9SXY0iAyA8RONKxn9/s1920/81328.png" group-title="🔹Kids",Cartoon Network
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://saruman1.tharen001.cfd/cartun/usergenrx2xfzol0q.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gWlwliUMwt4ACEgcGOTq8Ffw3w8Nalh6BUhd0VfMFbPZbRyMUJX1m7fWdIa6CHqKz8EkObyNzTt5_Zc7dBvdQJVqEF2vXJEz5jEhzckSbSHiBIe8k3QMhbDMqTp_QiOyYBLhMxhVTi0GykUsC-fxSGv98Z3hW-7EgK1N61L8Av-QiY_tb02UVRIDdf0Z/s1920/81327.png" group-title="🔹Kids",Minimax
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://atlantida1.aquax001.shop/minimaxy/usergendxny9zrnd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-lGfC5H8ppilnvuNLcwNBVamCmWcdQOzNdXQ_j9ekkQOo4YX94VcYkpobIehm4Vs3QyvTanJAzl9UN1-p3xw1wwmNXLHqm4Kfr2erUWEwKz9lTgwqpBvfcKzE5Ldg1tTAYpkmDAA9QX6I0gMAJLxIU7j9hob8FV1TMCZhR2PKWfq5egMDa1E2We83UhOl/s1024/80926.png" group-title="🔹Kids",South Park
 https://sv0.data-stream.top/53fcec2065d541b568ee76e5ae2fbd8528ff754f01f97bb1f312eec1ba945a52/hls/southpark.m3u8
