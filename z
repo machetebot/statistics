@@ -4599,6 +4599,11 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=teletubbies
 
+#EXTINF:-1 tvg-id="HappyKids.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHYhxhNZ23ROWJ9Wy1zKAYfrVty3AVVqlSc10PwBRYZcjbjawdS76xta6wCqhjdU3UGC4Lu74Wzc5yEXcTe5M1fhoQGxWfqM3XilbvwgUWEHwbbU5JmdFr6RwtGlH3u0xF3Jvh_HdAWymn4JEKSHYeQDJ1fJSpXUq9tsaIoKTUFbfRjnoiXNfWiCUsKuh6/s221/87453.png" group-title="🔹Kids",Happy Kids
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=happykids
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZki6I1AbYoX2uieHOsm_AHd28xkp_qmRESbDFXKotvvO0JPuGBO80Sf-dIHn2pMN9EnwOsb1Rj9Yw8nU41zCXlw4Jvpjq9cmgkSDMWmxoL-cyEB6fYtiCTWwfqZDH_PubV8USRJlZP1796uMnhLKp20IctBLPe6ZslTCePTb0g6Y9SXY0iAyA8RONKxn9/s1920/81328.png" group-title="🔹Kids",Cartoon Network
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
