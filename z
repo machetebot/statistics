@@ -4604,6 +4604,11 @@ https://tvizle.tr/api/yayin?c=teletubbies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=happykids
 
+#EXTINF:-1 tvg-id="HappyKids.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTKYJQZTHROHTaI0PewtEnUkXQin6FFHIoTGAlLA0FC6siRTTG_Milf2OpwmYBU67_KcCXj9VvUxuTfql08Mv9aDfZVlW6qanm_no4fkaLDuesUpaDB564S0WR30BFpXx1H8LKzsmK76S9T1aB-ks1xq_wGImUKDmnbzrf6zvHpjLykjym5UnZlPPTFI7p/s340/87457.png" group-title="🔹Kids",PBS Kids
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=pbs-kids-alaska
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZki6I1AbYoX2uieHOsm_AHd28xkp_qmRESbDFXKotvvO0JPuGBO80Sf-dIHn2pMN9EnwOsb1Rj9Yw8nU41zCXlw4Jvpjq9cmgkSDMWmxoL-cyEB6fYtiCTWwfqZDH_PubV8USRJlZP1796uMnhLKp20IctBLPe6ZslTCePTb0g6Y9SXY0iAyA8RONKxn9/s1920/81328.png" group-title="🔹Kids",Cartoon Network
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -4623,6 +4628,11 @@ https://tvizle.tr/api/yayin?c=disney-channel-us
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=disney-junior-us
+
+#EXTINF:-1 tvg-id="HappyKids.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSEQwsiTVUn7i-fZIya_jyMogDEMNM0q1sDjf9WaoV5xdIPGn4alcVeO8rO3vWZjScfq5L5AvCgPppufwCF6wRyPChyphenhyphenSSkTXLoffPd9nOeE2XY9BbZs4OfZUBRF5_EEkKVoR2PTlF48DmN8wQ3dXCqIRzC77-wCvAHqS4glALTpHj8VyKm3moJSAEkg8Le/s250/87458.png" group-title="🔹Kids",Rugrats
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=rugrats-us
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gWlwliUMwt4ACEgcGOTq8Ffw3w8Nalh6BUhd0VfMFbPZbRyMUJX1m7fWdIa6CHqKz8EkObyNzTt5_Zc7dBvdQJVqEF2vXJEz5jEhzckSbSHiBIe8k3QMhbDMqTp_QiOyYBLhMxhVTi0GykUsC-fxSGv98Z3hW-7EgK1N61L8Av-QiY_tb02UVRIDdf0Z/s1920/81327.png" group-title="🔹Kids",Minimax
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
