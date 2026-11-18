@@ -4581,7 +4581,12 @@ https://ifood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="Cocina"  tvg-logo="https://i.postimg.cc/wMcQqx9t/Cocina.png" group-title="🔹Kitchen Show",Cocina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-lGfC5H8ppilnvuNLcwNBVamCmWcdQOzNdXQ_j9ekkQOo4YX94VcYkpobIehm4Vs3QyvTanJAzl9UN1-p3xw1wwmNXLHqm4Kfr2erUWEwKz9lTgwqpBvfcKzE5Ldg1tTAYpkmDAA9QX6I0gMAJLxIU7j9hob8FV1TMCZhR2PKWfq5egMDa1E2We83UhOl/s1024/80926.png" group-title="🔹Kids",South Park
+#EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfX8_D0JAidc22Yu3awTQ6RR3s8Y8RjRFKYopVFGpzlR4BlgGL93hrGzOrcmvlPNzhTwsTuHBGxW7GISpKYSIZQ9yYgysYCmZYgo-d3vzzsNFu-spJbhVBTkOjjI22GvG6vEYAZLOC-X9bQWcRuBjKwB1Ug0Hi8Zh5NBcH5PvGZosNcrjZJAQprxmAGXWi/s1415/87452.png" group-title="🔹Kids",Dora The Explorer
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=dora-tv
+
+#EXTINF:-1 tvg-id="SouthPark.ca"" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-lGfC5H8ppilnvuNLcwNBVamCmWcdQOzNdXQ_j9ekkQOo4YX94VcYkpobIehm4Vs3QyvTanJAzl9UN1-p3xw1wwmNXLHqm4Kfr2erUWEwKz9lTgwqpBvfcKzE5Ldg1tTAYpkmDAA9QX6I0gMAJLxIU7j9hob8FV1TMCZhR2PKWfq5egMDa1E2We83UhOl/s1024/80926.png" group-title="🔹Kids",South Park
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=south-park-us
@@ -4589,7 +4594,7 @@ https://tvizle.tr/api/yayin?c=south-park-us
 #EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-waFG-srs7sycJYfmnEbXTfXPLOYEhlwMDtkAvWzFzLC-7R0yJ26ils0U3IxTp29Ro9B57JIrEKSQ81dxQDbOF1DqLAWdzok2molixx3tER4pa1l5r1N4UC5b69JbgDLxXfMrA1TQ4-Wltgb5XJmLDT9njidYfbNB7YZLh2BG86RxrfW4EJcMvpOg9_N/s508/87448.png" group-title="🔹Kids",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNO3kQm3QkwaTihRNczSif_oVRUptMrMbIgFJoVxOsUuNa97fpUfzVYVO-U_IvQj337yNCL2Rigsckz0SXdNGUJhBcY7e0vXHvnQJ774AGwWdtO2vfvxZbMGCsmDZlJO7R5pxtP7uTvui1JwVQv7gu7z5T9khodIWSaEep7IX47LZHgpBvDfsApDdo8tsJ/s1231/85951.png" group-title="🔹Kids",Teletubbies
+#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNO3kQm3QkwaTihRNczSif_oVRUptMrMbIgFJoVxOsUuNa97fpUfzVYVO-U_IvQj337yNCL2Rigsckz0SXdNGUJhBcY7e0vXHvnQJ774AGwWdtO2vfvxZbMGCsmDZlJO7R5pxtP7uTvui1JwVQv7gu7z5T9khodIWSaEep7IX47LZHgpBvDfsApDdo8tsJ/s1231/85951.png" group-title="🔹Kids",Teletubbies
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=teletubbies
