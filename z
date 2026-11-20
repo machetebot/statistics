@@ -2161,14 +2161,16 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 
 
 #EXTINF:-1 tvg-id="UDAR.ru" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkIvDwVKtlim-oXNHYnSvx2iSYK5p8ilGo5miG4GT3VrwwbaBLae7xROCO4suh5NtfU-l-uTRW0gl0oVH0mqFW4hyHJ-GwuyABGe5uh8ICPAyyLoLrSEXT_CCYUHy8o78FWFX2FzuXmy-PS1WMTRmfDzZvR7ek4tRqrmg82uWQkIxoRq5tzyIML-SfxsO-/s899/80731.png" group-title="🔹Sports",Russian Cagefighting Championship
+#EXTVLCOPT:http-referrer=http://mcquack.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/279/index.m3u8
-#https://r2.awmcdn.link/r2/memfs/M0mcBPxzJiRN_8iIluzEQQ:1794613363/34d3e7f6-6bbe-406e-bf70-2442b9cfc023.m3u8
+https://r2.awmcdn.link/r2/memfs/PV1DuWtzQRvX7VgJeAVZcg:1795210114/34d3e7f6-6bbe-406e-bf70-2442b9cfc023_output_0.m3u8
+#http://stream.mcquack.net/279/index.m3u8
+
 #http://rodnoetv.com/tv/000007802/mono.m3u8
 #https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
 #http://tvset.org/ch/000007802.m3u8
-#https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
-#http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/5067/index.m3u8
+https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="UFC.us" group-title="🔹Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtndCJ0MM_gSz4SQXBEsHQ_O0P5oewpfGxrhWkRW1kCDXu6138Rj3wRbhHf65lX2YtqDg0ySV67WGM7fouQi8YV4zNPc3enbvJgODrkUmYe4diaLR6rk9D4W5ujgwZOrB2aD-c1WTnbRt5EPzCAGCRMrnQaSVltiI2ACpPYNpWgBOPDroGFtIE6f5yFjSN/s1920/80732.png",Ultimate Fighting Championship
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
