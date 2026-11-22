@@ -2154,6 +2154,10 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-690ce1d0718f73527d832927.m3u8
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji-utFIRKxxmDCfzhJrvco_zxNgivu4oKjC93Oo8mbHPwQtrq54DIyYH4pkwEF9ILidDSX_mYdK4oEN_8tyXgE0mqV936O_ME0Onc858IGTqtYs2z7-dWdjuwOg9ryAWCt0ore4RGo-I3CSfk2nez9fJsRgcne6joapcembgWMyDlCwAskjfg4eCxpq1-I/s424/81350.png",XTREAM Sports
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihu4oesQWWYNfK43hzvMhAf0CShX9eYYZjlnLkz6OcbCYlHh0aOvr8w5NZGv6BQ53zYwYfy9eDrRw7Q4dDMfrpQgkHP_lgIxxg3lhFKwo6dUZVKPs_g8CJklkFB2KiUPbK4n08s4JdHSBO7msJHfz5tMTnFlZoOyzp3zorTselbc0ROMt0DQpbQqd2NmSb/s430/90662.png" group-title="🔹Sports",XTREM Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSsjLqmLCP-qIBLJqclXNAJBzWvb1F1xdrZCWbQEp5N-ixCDkzIKIlXs34u6Mp3Ir_hOPUuwzHioNf8ONpZxGOUiqvPkrOHPUF3LVeSs0KrVApqU_z_8GOgJh0F-5-kRKTMKCVoju8LtA05le3ddiJ7ctazHaVMkT4UAvjUuMqv2ob0s_nmm6UG3ERZAPK/s877/80719.png" ch-number="" group-title="🔹Sports",One Championship TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
@@ -2237,7 +2241,7 @@ https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-
 http://stream.mcquack.net/154/index.m3u8 
 
 #EXTINF:-1 tvg-id="Fightplus" tvg-logo="https://raw.githubusercontent.com/fjaee/fctv/master/images/ch_fight_plus.webp" group-title="🔹Sports",Fight+
-https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
+https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTnyNa3_N8T4lVydoyXwJsy_CQ9SqvkJpMFX1h1N3ITDBv2Bvdxe75fG7piGz47UDK0n6EJqGCOTF4-AnD5ZLaQ_lrCUaM0jqZYZG1UJ2oZgrSmxmr_KV3tilr5BRYkvRBltql3LOL0bNsy8EF6RYmvrXnNGUzgsRhWdhNfUqj3lsk89DCIXKftS839fbj/s716/80773.png" group-title="🔹Sports",Fighter
 #EXTVLCOPT:http-referrer=http://stream.mcquack.net/
