@@ -3615,7 +3615,7 @@ https://tvizle.tr/api/yayin?c=xplore-tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=people-are-awesome
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=failarmy&w=216&auto=format" group-title="🔹Entertainment",Fail Army
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-logo="https://tvizle.tr/api/img?c=failarmy&w=216&auto=format" group-title="🔹Entertainment",Fail Army
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=failarmy
@@ -3625,10 +3625,25 @@ https://tvizle.tr/api/yayin?c=failarmy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=wipeout-xtra
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWcjHIPkkIG1GrUjpiCkt2xnClRHkIsyr_2kEHTz3uP_QxSWe9iih3p6Adbo533xN4qwqzykbHNYSO-Z3caf3kTezykQ2v9OgoDQ1o4BhakTlig_ZhcBm_6ZNCvBjPEEWQaWzMP9xVq5S-7vUh_iJi9wPhwkcmDLyT4o-SLKyXJjB7GnHubI0zLfvq66T2/s500/90678.png" group-title="🔹Entertainment",ION Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=buzzr&w=216&auto=format" group-title="🔹Entertainment",Buzzr
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://tvizle.tr/api/yayin?c=ion-plus
+https://tvizle.tr/api/yayin?c=buzzr
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=heartland&w=216&auto=format" group-title="🔹Entertainment",Heartland
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=heartland
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=ion-tv-us&w=216&auto=format" group-title="🔹Entertainment",ION TV
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=ion-tv-us
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=hollywire&w=216&auto=format" group-title="🔹Entertainment",Hollywire
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=hollywire
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=grit-xtra&w=216&auto=format" group-title="🔹Entertainment",Grit Xtra
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
