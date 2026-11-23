@@ -3645,10 +3645,20 @@ https://tvizle.tr/api/yayin?c=ion-tv-us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=hollywire
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=hi-yah&w=216&auto=format" group-title="🔹Entertainment",Hi-Yah
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=hi-yah
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=grit-xtra&w=216&auto=format" group-title="🔹Entertainment",Grit Xtra
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=grit-xtra
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=midnight-pulp&w=216&auto=format" group-title="🔹Entertainment",Midnight Pulp
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=midnight-pulp
 
 #EXTINF:-1 tvg-id="TVSMusicClassic" tvg-logo="https://i.postimg.cc/C5WJjh3c/TVSClassic-Music.png" group-title="🔹Music",TVS Music Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
