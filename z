@@ -3301,8 +3301,9 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
 #EXTINF:-1 tvg-id="00sReplay.us" tvg-logo="https://i.postimg.cc/GmFpRyWD/00s-Replay.png" group-title="🔹Movies",Pluto 00s Replay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
-https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/62ba60f059624e000781c436/3063648/playlist.m3u8?sid=SAMSUNG-TVPLUS-8a5586a3-6ca3-4409-b7a6-6a62ad4276f1&deviceId=b47edd5f-c1db-4293-9775-a25813f6598c&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQyZGEzNDMzLTYwYTEtNGYxZi1iNTMzLWFlN2E0MDE5Zjk0MiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg3MjQ2ODQ5LCJpYXQiOjE3ODcxNjA0NDksImp0aSI6IjYwZmNlMWM2LTA2ZTktNDZmOS04ZDIyLWViNjM1ODhlOWZmMCJ9.AqYadJ56Y-IZZTPBIwz8HvS2jyMR55Uqjt4L_4YpqR8&ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=00s-replay
 
 #EXTINF:-1 tvg-id="cwgold.us" tvg-logo="https://i.postimg.cc/hjmCpP0D/CW-Gold.png" group-title="🔹Movies",CW Gold
 https://d1d726ny1vain2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/playlist.m3u8
@@ -3318,7 +3319,7 @@ https://9c428b4b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVF
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9fd4PrhN/images-(12).png" group-title="🔹Movies",Rakuten TV
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
 
 #EXTINF:-1 tvg-chno="37.9" tvg-id="MGM+.Marquee.HD.us2" tvg-logo="https://i.postimg.cc/nh2HSy7y/MGM-Marquee-2023-svg.png" tvg-name="MGM+ Marquee" group-title="🔹Movies", MGM+ Marquee
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3583,7 +3584,11 @@ https://rundle.tv/api.php?src=https://xn--p3t879b.store/sky1/tracks-v1a1/mono.m3
 https://thor1.syndula1.cfd/schi2/usergendxj85trnd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xd38W0X3/Bizarro-TV.png" group-title="🔹Movies",Bizzarro Movies
-https://stream.tvivu.com/?url=https://d7d3864d.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9CaXp6YXJyb01vdmllc19ITFM/18f237b4-6d74-46e8-94a7-10dcba0263e7/2.m3u8&exp=1787090400&sig=879b1f1eac76aeceddfdbeefcb931c3475fbda36df56b5f39ce1a047d2998f7c
+https://af43eb9a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9CaXp6YXJyb01vdmllcy0xX0hMUw/playlist.m3u8?ads.wurl_channel=607&ads.wurl_name=BizzarroMovies&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.privacy_values=%7BPRIVACY_VALUES%7D
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8uuX0xJtAa4ZBSVxVOBsccIOmTO-ee63slAX4qio4adQw0CZt0WHi_YOn8xtcR3Ky76_8XSG9JFi5op79a24oicKS4k3q-lojWDqAT4WcQ5qWZ4CB28JGogtBeSx9C-8AQKE2NI2kWNGU0cY_t2GBzGPvWefOmskB0L4RXEwDJAqAgtCVxBHrA8TzdQHX/s1600/90664.png" group-title="🔹Entertainment",America's Got Talent
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8 
 
 #EXTINF:-1 tvg-id="TVSMusicClassic" tvg-logo="https://i.postimg.cc/C5WJjh3c/TVSClassic-Music.png" group-title="🔹Music",TVS Music Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
