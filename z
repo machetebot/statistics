@@ -3595,6 +3595,21 @@ https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=deal-or-no-deal
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=bounce-xl&w=216&auto=format" group-title="🔹Entertainment",Bounce XL
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=bounce-xl
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=xplore-tv&w=216&auto=format" group-title="🔹Entertainment",Xplore TV
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=xplore-tv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=failarmy&w=216&auto=format" group-title="🔹Entertainment",Fail Army
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=failarmy
+
 #EXTINF:-1 tvg-id="TVSMusicClassic" tvg-logo="https://i.postimg.cc/C5WJjh3c/TVSClassic-Music.png" group-title="🔹Music",TVS Music Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
 https://zharlzzz.short.gy/Mclassic
