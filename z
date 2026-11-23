@@ -3588,7 +3588,12 @@ https://af43eb9a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8uuX0xJtAa4ZBSVxVOBsccIOmTO-ee63slAX4qio4adQw0CZt0WHi_YOn8xtcR3Ky76_8XSG9JFi5op79a24oicKS4k3q-lojWDqAT4WcQ5qWZ4CB28JGogtBeSx9C-8AQKE2NI2kWNGU0cY_t2GBzGPvWefOmskB0L4RXEwDJAqAgtCVxBHrA8TzdQHX/s1600/90664.png" group-title="🔹Entertainment",America's Got Talent
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8 
+https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEireVETsuNhiGbKtwcGXWcMKGICakNoZnbEpRN6OPhI1V649t2kXlQpdHxCkwnKRw2S8vQeKnyp5fGh03I4r-_wto3E2rXcADEtACamWnqCh7D7ino89k2mhrbSGjsBhPewowEf_s1Nw-wNVWU__MqjzuVCr48kZ-aNWW7BXJZSm4MvgLKP_ol3r5Rt7ijN/s1600/90672.webp" group-title="🔹Entertainment",Dear or No Deal
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=deal-or-no-deal
 
 #EXTINF:-1 tvg-id="TVSMusicClassic" tvg-logo="https://i.postimg.cc/C5WJjh3c/TVSClassic-Music.png" group-title="🔹Music",TVS Music Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
@@ -4732,6 +4737,7 @@ https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPhLkCwOhQKMVPjk9Dc7M25EQDYpSIgeBx67wNYF0zw3q3bmtGKdTp-PRpSf2iye2jVzdkJ8bTNcToN-ByRRqWdBIqeVgzDfehlx09XmAvWa1YPUNSiajVlnpMYzWHfaFyD5XVseDuvvkXo-SFdorFpMSFaEJux1mzSZgO3yd4JAWmWgpfIRzC0TOqNzeo/s657/90671.png" group-title="🔹Radio",Toonami Radio
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+#https://n5.toonamiaftermath.com/livehttporigin/radio/QoWLVY-9OOprC-chunklist.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2LFL3zNkVt-DiAMX48aYvvA94Isc50FOjKESF7_AbpgnN5JuXBk2x2kZlisXfkVp-jZ6c9iKpsw7g0IpoTGS_9kIgQ8YWrlKw1G36yn4BldyixuEU87gC02nI0nQACLghrKiK6uIPKkxstao69TZpoh88nYQrDW-E3pZlD79Pg1MxJ1idJ8j0P857o_VQ/s304/77844.png" group-title="🔹Radio",Radyo Ni Sano Guindulman  90.1
 https://cd.radyoph.com:8000/rns128
