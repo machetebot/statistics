@@ -3605,10 +3605,20 @@ https://tvizle.tr/api/yayin?c=bounce-xl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=xplore-tv
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvQvmuFfNqijqDHeQs0TFcJLBD5EvzlbI5oB8-L9uglUOyWcYfnW57lVMtBPVhKFqqp5TvaVoOCsA9H2LyvtzstECRq5EPmp5KYOMdX6lgwVtaJkN4qVAnI6fPVx_oK-zc8VNkxA2CYMTT4nggcOg2aERkLeB7wnsi2j_keMi4_GnS91wfH2sSwyzBuBYy/s1600/90675.png" group-title="🔹Entertainment",People Are Awesome
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=people-are-awesome
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=failarmy&w=216&auto=format" group-title="🔹Entertainment",Fail Army
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=failarmy
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgniWcKgXjve4GNRA-sS4Cknnlpin_y1f3kBe87mBo8reA0ZaRII9xr3O0Kt4rtKHfFUGAfe1fUZ5aJmQcGxTd9wtPwVTf13Fi4nabVgEFsTWeJmsa3D1nEOmfXXFIgvORdxiCcOuaY186gU545bXU6G9pvP1PBNM-750xjn_cKs65fyg6UWQc1mJwKpvpj/s1600/90673.webp" group-title="🔹Entertainment",ION Plus
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=ion-plus
 
 #EXTINF:-1 tvg-id="TVSMusicClassic" tvg-logo="https://i.postimg.cc/C5WJjh3c/TVSClassic-Music.png" group-title="🔹Music",TVS Music Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
