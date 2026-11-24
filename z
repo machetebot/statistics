@@ -3331,6 +3331,11 @@ https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner-avc1_3000000=10-mp4a_256000_eng=6.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=hallmark-movies-more&w=216&auto=format" group-title="🔹Movies",Hallmark Movies & More
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=hallmark-movies-more
+
 #EXTINF:-1 tvg-id="62ea3c2e4823db00072788ed" tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png" group-title="🔹Movies",Pluto TV Action Movies
 https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
 
@@ -3360,6 +3365,11 @@ https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mp
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"} #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/15Mn4PYG/Studio-Premiere.png" group-title="🔹Movies",Universal Premiere https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=runtime&w=216&auto=format" group-title="🔹Movies",Runtime
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=runtime
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://i.postimg.cc/g0Q9kGR1/TNT-MX.png" group-title="🔹Movies",TNT MX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3567,6 +3577,16 @@ https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlis
 #EXTINF:-1 tvg-id="outersphere.us" tvg-logo="https://i.postimg.cc/MpzndPqb/outer-sphere-large-logo.png" group-title="🔹Movies",OuterSphere
 https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=grit-xtra&w=216&auto=format" group-title="🔹Movies",Grit Xtra
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=grit-xtra
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=midnight-pulp&w=216&auto=format" group-title="🔹Movies",Midnight Pulp
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=midnight-pulp
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FH4CY2cS/FMPlus.png" group-title="🔹Movies",Free Movies+
 https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/e1074d51-e146-4054-af60-8179449c237c/36-90-1020.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=6D30170C-D7B3-46A2-8C1F-302D8399F44D
 
@@ -3649,16 +3669,6 @@ https://tvizle.tr/api/yayin?c=hollywire
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=hi-yah
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=grit-xtra&w=216&auto=format" group-title="🔹Entertainment",Grit Xtra
-#EXTVLCOPT:http-referrer=https://tvizle.tr/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://tvizle.tr/api/yayin?c=grit-xtra
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=midnight-pulp&w=216&auto=format" group-title="🔹Entertainment",Midnight Pulp
-#EXTVLCOPT:http-referrer=https://tvizle.tr/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://tvizle.tr/api/yayin?c=midnight-pulp
 
 #EXTINF:-1 tvg-id="TVSMusicClassic" tvg-logo="https://i.postimg.cc/C5WJjh3c/TVSClassic-Music.png" group-title="🔹Music",TVS Music Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
