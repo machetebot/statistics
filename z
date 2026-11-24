@@ -2746,41 +2746,6 @@ https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://rundle.tv/api.php?src=https://xn--z6ut02b7b.store/proarena/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qqSMpVDm/TSN-Logo-svg.png" group-title="🔹Sports",TSN 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://bia-cf.live.pv-cdn.net/syd-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qqSMpVDm/TSN-Logo-svg.png" group-title="🔹Sports",TSN 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://bia-cf.live.pv-cdn.net/syd-nitro/live/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qqSMpVDm/TSN-Logo-svg.png" group-title="🔹Sports",TSN 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-https://bia-cf.live.pv-cdn.net/syd-nitro/live/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qqSMpVDm/TSN-Logo-svg.png" group-title="🔹Sports",TSN 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://bia-cf.live.pv-cdn.net/syd-nitro/live/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qqSMpVDm/TSN-Logo-svg.png" group-title="🔹Sports",TSN 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
-https://bia-cf.live.pv-cdn.net/syd-nitro/live/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
-
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=537950" tvg-id="537950" tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="🔹Sports", DAZN Fast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
@@ -2813,6 +2778,40 @@ https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
 https://get.perfecttv.net/myunifi.mpd?channel=unifi1&kid=90c7eb5d-66b4-42a9-a591-775cc1154bc9
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQEVY6f4cOU50Q/company-logo_200_200/company-logo_200_200/0/1707274610685/tnt_sports_u_s_logo?e=2147483647&v=beta&t=9PauIrQ3cHf174faiZCo6z_g_9_7JsI5gNBKBgcP1fA" group-title="🔹Sports" tvg-id="",TNT Sports 1 #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQEVY6f4cOU50Q/company-logo_200_200/company-logo_200_200/0/1707274610685/tnt_sports_u_s_logo?e=2147483647&v=beta&t=9PauIrQ3cHf174faiZCo6z_g_9_7JsI5gNBKBgcP1fA" group-title="🔹Sports" tvg-id="",TNT Sports 2 #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQEVY6f4cOU50Q/company-logo_200_200/company-logo_200_200/0/1707274610685/tnt_sports_u_s_logo?e=2147483647&v=beta&t=9PauIrQ3cHf174faiZCo6z_g_9_7JsI5gNBKBgcP1fA" group-title="🔹Sports" tvg-id="",TNT Sports 3 #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQEVY6f4cOU50Q/company-logo_200_200/company-logo_200_200/0/1707274610685/tnt_sports_u_s_logo?e=2147483647&v=beta&t=9PauIrQ3cHf174faiZCo6z_g_9_7JsI5gNBKBgcP1fA" group-title="🔹Sports" tvg-id="",TNT Sports 4 #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd 
+
+#EXTINF:-1 tvg-id="tsn1" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/3840px-TSN1.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🔹Sports",TSN 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/3840px-TSN2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🔹Sports" tvg-id="TSN2.ca", TSN 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/3840px-TSN3.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🔹Sports" tvg-id="TSN3.ca", TSN 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🔹Sports" tvg-id="TSN4.ca", TSN 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1280px-TSN5.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🔹Sports" tvg-id="TSN5.ca", TSN 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/bellmediainc/NMEFCHPD2IZZUFW2QN34Y62HSA.jpg" group-title="🔹Sports",TSN: The Ocho
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 
 #EXTINF:-1 tvg-id="FightSports.us@SD" group-title="🔹Sports" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_fightsport.png",Fight Sports
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
