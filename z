@@ -3807,6 +3807,11 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioMonteCarloTV" tvg-logo="https://i.postimg.cc/D01hhnzV/monte-carlo-tv.png" group-title="🔹Music",Radio Monte Carlo
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONhAK2dLVS_GFUdCe7npjtjk-MFYOBbN5XVz3sLkBx2zWJj8USnu3h_5zbxDRk23ZXnwp1F9JslVB-wAoEy0if4xZRxENJcIvArWcKQ6r4X58m-Yx4a95WtehAQUYTX1bWPYS2OTIedZTPJTy9nCiqzxl1bZziqq-aUTNVcZslwNnLKEcptRbHk8FoJuk/s1024/90700.png" group-title="🔹Music",Bridge Dance
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=bridge-dance
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Zn22Cx4H/88Stereo.png" group-title="🔹Music",88 Stereo
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
