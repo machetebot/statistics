@@ -3392,7 +3392,7 @@ https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner-avc1_3000000=10-mp4a_256000_eng=6.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=hallmark-movies-more&w=216&auto=format" group-title="🔹Movies",Hallmark Movies & More
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcFAIPyTn-Sn5X3FvAsu4SXYKZz3kwpEOiVW0_F_izSOSj6fhnsye8h1INVlLMN8h08uZ9v1tVrPtyJqrYzOK-mZWPxpF8Gbzp0JAyJsgLy5u_aA7AjUF6XbemwgCK_WGnvv_KTerzAJa2pCa5lZzJnpPLr3BbC_W-OyMhAg8XhUHhR3Wo8UIQzvZxJczf/s1600/90705.png" group-title="🔹Movies",Hallmark Movies & More
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=hallmark-movies-more
@@ -3427,7 +3427,7 @@ https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mp
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"} #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/15Mn4PYG/Studio-Premiere.png" group-title="🔹Movies",Universal Premiere https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=runtime&w=216&auto=format" group-title="🔹Movies",Runtime
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPdjd5YUODCUtd7JMGf4iP6Om717STtU3gnmrvo5SjvCLSD6GHNbMG2NYvPeBpdEM5ZXzoZIqct7ysfN2pbL-ET8B60AMUMI7ACcj5R812kZa8ZFBpN1vgQUaDJPDmv-VbvYiknW_vl1F7rmwMh4QJaxknugqIEe1cMO8vnY_QojJrRO03FQRQphWkjAXl/s1600/90707.png" group-title="🔹Movies",Runtime
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=runtime
@@ -3638,12 +3638,12 @@ https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlis
 #EXTINF:-1 tvg-id="outersphere.us" tvg-logo="https://i.postimg.cc/MpzndPqb/outer-sphere-large-logo.png" group-title="🔹Movies",OuterSphere
 https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=grit-xtra&w=216&auto=format" group-title="🔹Movies",Grit Xtra
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR1X9JS9v2M9l339zchyZgtzAIf2b3rJ53FDm-Hc4qqM353Ue4lOLRmNFtUqgCiJv6SGIUaWaOpkXVUy75Sq1ApOo1Kz0I78PEaRzP_FnGHtOsKHFOxt6-76GuMIhk_hboU48R_wkbBsx_whlBI4qdwtjt5jFmmjF1TqyDUK0WlE01YQv792qwkjCAzaKE/s1600/90709.png" group-title="🔹Movies",Grit Xtra
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=grit-xtra
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=midnight-pulp&w=216&auto=format" group-title="🔹Movies",Midnight Pulp
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJGRcLZ1dsqz3YVNdZw3PiZ4Kc08923unXy9RmW3YyJPLZKk7pQDS94QmN5Wd2gsG-reslv6ZuJGCx-kZf4LB5OcWpeE5GZliV5P7D-E5c6QP6MSZrFSk9p-xt4898UabdnGzhXj0iYZpGKAMAVyYaltZqsemp12fJsjtmvaklX0vv71Yr8YCLa3uugczx/s1600/90711.png" group-title="🔹Movies",Midnight Pulp
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=midnight-pulp
@@ -3681,12 +3681,12 @@ https://tvizle.tr/api/yayin?c=deal-or-no-deal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=game-show-central
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=bounce-xl&w=216&auto=format" group-title="🔹Entertainment",Bounce XL
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiazOAakn5imaK6OE-J6BxnaLs2kXC_q2SjmxbXEjFlcKkukweUedrNKUt2o0c9tE4sC7jTHixmcfMXz267MTOB-NWyT0kXbEjtE2BQqV6k3LApySXqunFgGSBTxUMXxM_vCVV1KnUDv8bGb3E2NwWyNe3xxRIGI7T_bYy-SZq6OSq7aJvXWpVXhuXri7F3/s1600/90713.png" group-title="🔹Entertainment",Bounce XL
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=bounce-xl
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=xplore-tv&w=216&auto=format" group-title="🔹Entertainment",Xplore TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnvBqO-Dv-1u4W4VMAuLrX6DneNz-aVlOX4PCTNIIQeYL79bq6QjfoBXenmx_yqpG_dbg8O6JSiwTPSmHEic5eSBKRgfNirdau1f4lhHi1JiU3Lw8MKJWTY7Z-C73zllDKnh8bz_c0lR6BbL4cKfrpJlx2_CoHWxj64OUEBsL1moDf6nzjprLmXqSoDvGG/s1600/90715.png" group-title="🔹Entertainment",Xplore TV
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=xplore-tv
@@ -3696,37 +3696,37 @@ https://tvizle.tr/api/yayin?c=xplore-tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=people-are-awesome
 
-#EXTINF:-1 tvg-id="FailArmy.us" tvg-logo="https://tvizle.tr/api/img?c=failarmy&w=216&auto=format" group-title="🔹Entertainment",Fail Army
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFIlDy6t5J-JvDPNdecFygbmaiPZe8HHG3VofJHJ9N87mOnfStlNL199j-stm3T_Ko1JHJY5_H4M7BSx803lhEoy6pyZ1AqbaG7n1AIM2z-hwF7ZiVj8q3j4icRhVcgFdI5t7anOwFtYh6AJ5xwiUjY_BXQU7Sik36SEnh0No7X6AMnoqaSwWPNOpm9B6x/s1600/90717.png" group-title="🔹Entertainment",Fail Army
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=failarmy
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=wipeout-xtra&w=216&auto=format" group-title="🔹Entertainment",WipeoutXtra
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTTDcJIe0vSkGOrT86_OlIcdla8UNH_MgZd5541vvFymQMs1aA1b9TPuwReK81-zPwkmtLpR1YzzAUNdi5EXIj2u0B_yk4sZ-45sHw5tpAYmodG5UChuVm9LlL54qdEbWp-9Vcb6Cwxs5wAMVpIEHVmD3HFtcI8HM1-Okv8sulZp1NIP_VZ3_8tOI9tI1v/s1600/90719.png" group-title="🔹Entertainment",WipeoutXtra
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=wipeout-xtra
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=buzzr&w=216&auto=format" group-title="🔹Entertainment",Buzzr
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqZpZq31tnOU6qt_2JBo7ArohcOty136bL24uJkqaUlCIEcU143Civ4H5EHqrml6c0tPWcZuNlaw8A8GTOCYn5gvLxzFrH0y9Wk_zIs7cMM6UB82JS1WjVvbkFtrlBxMC762qMOYcVpmuv4SArzDCvwA8P6-rD2yLfKnl5NK_sEU5gxBx85WvLU40lZRm/s1600/90721.png" group-title="🔹Entertainment",Buzzr
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=buzzr
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=heartland&w=216&auto=format" group-title="🔹Entertainment",Heartland
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivpLC0Z-WW5WyL8XZOJfMPCmokpJBiqjJKMSS-3ksaKsb8Ib8gZIJdyIN7FplufunEppTmmCx-PBM8iJ8XjfOekTSf5i_f2YtxfDMyO5oArRZaKX1H7aTecxMQA3TkUJ4Dq5ak2IhtFG_HtK8sJZCq-MM1Ro24tNFJzX72Y3m-8sIV7RBW0gHwGIdLSOng/s1600/90723.png" group-title="🔹Entertainment",Heartland
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=heartland
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=ion-tv-us&w=216&auto=format" group-title="🔹Entertainment",ION TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvgN23KBxd4QyYguWHFbemQPks-cIggMc0RXOGI_ObJGQqlAXVFAnrEFWObTBY2zy0-zlpgWUXt7I2ugT3FHwLbhK2BII7J-fKb753dn_vN8ZslyHal_3dNUD0z-xfJh3qGDQtMEBTu_nR7Al0AOTsyQJW3jZ0Y7Xq-PnNfy8k2t8LLrUemF0Wq77EEgbx/s1600/90725.png" group-title="🔹Entertainment",ION TV
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=ion-tv-us
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=hollywire&w=216&auto=format" group-title="🔹Entertainment",Hollywire
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWdH5SO9xgw2obdndl7OLdpb3tRxOx6mI9xMiRsnlRz7MkbQq-j92klEVw8dsn3_HjMpw833-mhk0EEC5EuKMve0yEynnAh8GFZH39qMefS3EnPI37IxRjuwV6NC7tQo1APANrY5KVrkUzyGP7X6LzHPuC0oi8P4pdbtc18IL__nAqTihFT_dChFCObdvd/s1600/90729.png" group-title="🔹Entertainment",Hollywire
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=hollywire
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvizle.tr/api/img?c=hi-yah&w=216&auto=format" group-title="🔹Entertainment",Hi-Yah
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizl46i1kPn10N6GKtps2BGYf4Cd58uS3qvcRYgbPA1heDf5x5SU1uV0GCDa-FpMLmVyfaKgXSTVAtnjb4zJQmXvcGlk8RI4rOOPnryXkTcC3PV4G8tZ0RngBcfKrmdhNvQevr5cghBV8wTxmIApA1kBxvZFCoxTwe_0-nKW0eSYDnbawQIMFUq0hYW_YFV/s1600/90731.png" group-title="🔹Entertainment",Hi-Yah
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=hi-yah
@@ -4266,8 +4266,13 @@ https://ssai.aniview.com/api/v1/hls/streams/sessions/499207ce86544432859522bf70c
 #EXTINF:-1 tvg-id="DanceHits80" tvg-logo="https://i.postimg.cc/15Zs054h/Dance-Hits80.png" group-title="🔹Music",DanceHits 80
 http://dancehits80.denvs.ru:8080/index.m3u8
 
-#EXTINF:-1 tvg-id="AfroBeats" tvg-logo="https://i.postimg.cc/KcVYKFgs/Afro-Beats.jpg" group-title="🔹Music",Afro Beats
+#EXTINF:-1 tvg-id="AfroBeats.af" tvg-logo="https://i.postimg.cc/KcVYKFgs/Afro-Beats.jpg" group-title="🔹Music",Afro Beats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPXkqTLZeKKluls7JR9NluByo-a8MDr_6tKfWeqF_16MY5HLK2P9Pfvsuo5rYYexA-k7n2iJ2ydMRcG09C9lkRRAo7Rwa53ojU7MsbJbN7QtqCjXnaRMFtNz07S8A1BpXqD95OMftv7eBbMolKtrAk0nCyVGV9KSzzJA9cIcmYG1qxV-hpr-fe9KdC0oBz/s1600/90701.png" group-title="🔹Music",Ivoire Channel
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=ivoire-channel
 
 #EXTINF:-1 tvg-id="AMusic" tvg-logo="https://i.postimg.cc/Pf1696t6/AMusic-Channel.png" group-title="🔹Music",AMusic Channel 
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/0UZJAI2FYQ646U10H651/hls3/now,-1m/master.m3u8
@@ -4288,6 +4293,11 @@ https://tvizle.tr/api/yayin?c=vm-latino
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J07QjKC6/Latin-Zone-TV.jpg" group-title="🔹Music",Latin Zone
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSe_IaFRxUoDQHflq62GTJln8z159-lFVwjFLswV2-O7_bBOwPBPIefJuCDFcRzX1yRXLDpE1yok8DyuRDGJiboMIBXbF21RAmAMO68JpP98heKgdQRQD1qpMCkfNJbHiTdO0rHHLcgpTsZGBfvzHZZkgkIKzSazpW4nmSvfsGw4vQQqxrQWi-KB4FYDha/s1600/90703.png" group-title="🔹Music",Tropical Moon RD
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=topical-moon-rd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/NfC45jnG/La-Mia-TV.png" group-title="🔹Music",La Mia
 https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8
