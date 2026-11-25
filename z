@@ -2230,10 +2230,11 @@ https://dash.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FightNetworkRecharged" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWCicEfFI1LxK9GMCxEMqFUkIkQL-uapEHhAMegqMQvszk2p3POpjPHl3AVeSj77ZM92g4rOmQibIhmPCx5E0KYBO96c75MzFDobm5EQNDGVpYbIGMzElQ1aiAjgzKfgl1a1z5Z70KuZKjhnFXVtSz20UrNUV-MKjmfG2OV3RB8u38BVJ6s6x0JAvIGUws/s800/80758.png" group-title="🔹Sports",Fight Network Recharged
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Box.ru" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMfyKVAoauPBbYWb8nPutqqNSho3YTPtP7XXPxEwxDnz8QxkysS1rpZuPqQa5pZTER9hYeYo7vukg_gzFs-lpoJHq0R1v6r_T6E-pc41PFN3acJMnnNMRwTvk2WRNAh_iQcfCKoiDgNa0BtFAd-tZwusHLnIpScbyzzfZ0Yyrhg4P8V7Uh2s5jx4GOrveA/s2560/80767.png" group-title="🔹Sports",Бокс ТВ
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0n (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/154/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMfyKVAoauPBbYWb8nPutqqNSho3YTPtP7XXPxEwxDnz8QxkysS1rpZuPqQa5pZTER9hYeYo7vukg_gzFs-lpoJHq0R1v6r_T6E-pc41PFN3acJMnnNMRwTvk2WRNAh_iQcfCKoiDgNa0BtFAd-tZwusHLnIpScbyzzfZ0Yyrhg4P8V7Uh2s5jx4GOrveA/s2560/80767.png" group-title="🔹Sports",Бокс ТВ
+#EXTVLCOPT:http-referrer=https://mnogotv.com/
+#EXTVLCOPT:http-origin=https://mnogotv.com/tv/boks-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://cdn.mnogotv.com/s/3/tp1zry/a/oolNA3HYqZwctxHzTDx61Q/Nu0ASWWpoiDMLf9UsBPw-_QEtRHruk4fJDCkFjFllavmzKLfL5Bxfg_XxnYBs1d1zZ-i-YoWX0zX6X_8yZZSeAwJ5kcvI4zvPS6JHmr61n96QMj1v03kpuQ4UJxzqSpDjktCXtgVoBlvWl2S8edkxIN08ENRwRCcHBMP5r7iXJcLHkUC_rl-Cav_Uuu49dBtrJOJ0IXiOltvkyWgNGiRZnTBvirt3V80sti5oKsQ1LaxzA
 
 #EXTINF:-1 tvg-id="Fightplus" tvg-logo="https://raw.githubusercontent.com/fjaee/fctv/master/images/ch_fight_plus.webp" group-title="🔹Sports",Fight+
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8 
