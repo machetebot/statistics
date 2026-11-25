@@ -4180,6 +4180,11 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/mas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq7oKHDnuJ8JEoQw-M_IarIhUNpiRqIBt_WPVq4fQbjVMcuSsuFF3ZV_SiZ8NQ_Zf5TG1fC_LZtRHbSp8fadtZwUI3Ld9UZavnxj5gKf0z4qXHLhRLLX7Fdlgd02P6blMeL54R9SIvDfNCfqgyyuA95ko81uRdXRKBXU0A6W4UxtJQPDv_GeAoDWAEBDEU/s1600/90746.png" group-title="🔹Music",Metaleitor TV
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=metaleitor-tv
+
 #EXTINF:-1 tvg-id="VH1 Classic" tvg-logo="https://i.postimg.cc/qMJN897s/VH1Classic.png" group-title="🔹Music",VH1
 https://fl61.moveonjoy.com:443/VH1/tracks-v1a1/mono.ts.m3u8
 
