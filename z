@@ -1345,7 +1345,7 @@ https://mdstrm.com/live-stream-playlist/68095ebc9fc6db67addb78c1.m3u8
 #EXTINF:-1 tvg-id="UK:.CLUBBING.TV.en" tvg-name="CLUBBING TV" tvg-logo="https://i.imgur.com/6LtZbzd.png" ch-number="423" group-title="🔹RageTV",CLUBBING TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" group-title="🔹RageTV",BestOf DanceTV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" group-title="🔹RageTV",Best Of DanceTV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png" group-title="🔹RageTV",Deep House District
@@ -3818,7 +3818,7 @@ http://stream.mcquack.net/272/index.m3u8
 https://tvizle.tr/api/yayin?c=vantage-classic
 
 #EXTINF:-1 tvg-id="4everMusic.ua@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlDfQG3ysZXfXallyDVvY79MupfuZiIWafpiFt1fXglrF-ZETwpunlv6P9MPhLJwfl7O57PQDRpzhndekt2M_AUrjdw_2pu6MA7QG9ARk2OOGyV41qUB38atncAp9YoQD-yGVpseHhZMQXuK1i1Et2Y-zTnAPeh-uVasACT8R4SxLMrkT-K1kXTTSCZDJb/s278/81036.png" group-title="🔹Music",4Ever Music
-http://stream.mcquack.net/257/index.m3u8
+https://iptv.prosto.tv/ch132/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPC599CYGifkcNYzPDdrWnqDL7nidShIlrDxJTN8kQpLiithMAOImwzRHvU_0XkMhCjabinBDYhJr8WMNFXYfPfqXNRc6aDoBZV9Nwi-PJX5b3-WOxAfVw7xFoCXM6ZNehpiA9MMoFoHBzkkUL8neIZMdn-Gg5LPABWxRidLDurP_TYnNWIgRBNrzOwCzL/s768/87449.png" group-title="🔹Music",Wox TV
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
@@ -3850,6 +3850,11 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=patagonia-radio-tv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkXS6SOBhHJjajKg7oUIzEaKEOuJiB5d_iIFPZUXRYNc38ZtStuFZZHk2nyeHo_IuuDFfr2mcOMOnkAxUQ998L2Fn5BYXrwZq3BMWbHB8ZNUFaP43AJIS143PFlyvIp7oYVVXEtYC_2PTD0p8TxoDiUO0G4SJluP7Imzt8yDz0L06efgt0RrkUCUGHPCvP/s1600/90742.png" group-title="🔹Music",Music Information Channel
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=music-information-channel
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONhAK2dLVS_GFUdCe7npjtjk-MFYOBbN5XVz3sLkBx2zWJj8USnu3h_5zbxDRk23ZXnwp1F9JslVB-wAoEy0if4xZRxENJcIvArWcKQ6r4X58m-Yx4a95WtehAQUYTX1bWPYS2OTIedZTPJTy9nCiqzxl1bZziqq-aUTNVcZslwNnLKEcptRbHk8FoJuk/s1024/90700.png" group-title="🔹Music",Bridge Dance
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
