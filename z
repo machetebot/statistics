@@ -3818,6 +3818,8 @@ http://stream.mcquack.net/272/index.m3u8
 https://tvizle.tr/api/yayin?c=vantage-classic
 
 #EXTINF:-1 tvg-id="4everMusic.ua@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlDfQG3ysZXfXallyDVvY79MupfuZiIWafpiFt1fXglrF-ZETwpunlv6P9MPhLJwfl7O57PQDRpzhndekt2M_AUrjdw_2pu6MA7QG9ARk2OOGyV41qUB38atncAp9YoQD-yGVpseHhZMQXuK1i1Et2Y-zTnAPeh-uVasACT8R4SxLMrkT-K1kXTTSCZDJb/s278/81036.png" group-title="🔹Music",4Ever Music
+#EXTVLCOPT:http-referrer=https://prosto.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://iptv.prosto.tv/ch132/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPC599CYGifkcNYzPDdrWnqDL7nidShIlrDxJTN8kQpLiithMAOImwzRHvU_0XkMhCjabinBDYhJr8WMNFXYfPfqXNRc6aDoBZV9Nwi-PJX5b3-WOxAfVw7xFoCXM6ZNehpiA9MMoFoHBzkkUL8neIZMdn-Gg5LPABWxRidLDurP_TYnNWIgRBNrzOwCzL/s768/87449.png" group-title="🔹Music",Wox TV
@@ -4123,6 +4125,11 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_rebel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizCllVmvEB-tC7RzhKuRCXQUgtlYIQjkQnlIZ0O4EliOBD6hbgusyOnmCHm32Fl74iLcrQd5g1s56mTGiQZnCedxW57Ac6hTFJx3ER6kntoEB7sRTLOypY3JOxAEkfApl6ByksLMD20O7BIBg2zkTtj2Are3XvrPX-OdLll5MfEOix1BPrjgEctphCXggo/s1600/90752.png" group-title="🔹Music",Eska Rock TV
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=eska-rock-tv
 
 #EXTINF:-1 tvg-id="RockTV.mk" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="🔹Music",Rock TV
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
@@ -4564,6 +4571,11 @@ https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://s.pokaz.me/204/index.m3u8?k=1773571845p902i15i34i1S036f89301a406ae6fde190a1fde6a14f
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92XcJ9hRnv2qBCp6q-3cNxRlDmc5krDb8bHiMN9lKpOhNo2ylT893GtcAWj3Sk6st1Dk6RajFY4pAMj1EJdaYxs-nTfdY84DPQsCqcYqaUM2_SsNo9m__sgHBzqfu0Sr0YpCCCoqIjgFze6uADi4hQ_RCoUPnEB_e8nlJ087I06ikMrR8AYUknbr_wBX6/s1600/90750.png" group-title="🔹Music",Claro Musica TV
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=claro-musica-tv
+
 #EXTINF:-1 tvg-id="SzLagierTV" tvg-logo="https://i.postimg.cc/mZqZMLbq/Szlagier-TV.png" group-title="🔹Music",Szlagier
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vefgpbwcjjjbxfng.naszatv.pl/tracks-v1a1/mono.ts.m3u8
@@ -4669,6 +4681,11 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 
 #EXTINF:-1 tvg-id="StingrayMovieMusic" tvg-logo="https://i.postimg.cc/fLhsmDYd/MMusic-S.png" group-title="🔹Music",Stingray Movie Music
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU4upZYCjAMsTqfOf077zQQMJBwORRUXe3GC0L_slxktlhab9XZUa7q6xP85Xgxnxg3f0qbRpD4OAdC0RKqTVO5VYCTJAa5rpAEO-TYSaUzohwWmAjXRQmJPlzy1OOC7GtqJvdOq6yoCDLspQ_wWpjDlEu4L9EjoyfScnJDFMBuDBazB0VPsTGJoYYRsFu/s1600/90748.png" group-title="🔹Music",Stingray iConcerts
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=stingray-iconcerts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaFB-eOhR2FkALjfA52ixyU4_gZ_esqDu6ImemyLcB-_gDDNpXXg4hyCz6d1HS53fRP-NmoQ664LNiri_WdfsHB2nQTFKbWCAWhO8BenLK_dtBcyLLM6I4K612sV2KWolVzgesfHs-yHB2oeFI2VQ6Hk89ETN0J0tf1ogZarLJUIOAH6U1mk_Flu5y3v7e/s216/81198.png" group-title="🔹Music",Trace Gospel
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
