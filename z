@@ -2240,9 +2240,10 @@ https://cdn.mnogotv.com/s/3/tp1zry/a/oolNA3HYqZwctxHzTDx61Q/Nu0ASWWpoiDMLf9UsBPw
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTnyNa3_N8T4lVydoyXwJsy_CQ9SqvkJpMFX1h1N3ITDBv2Bvdxe75fG7piGz47UDK0n6EJqGCOTF4-AnD5ZLaQ_lrCUaM0jqZYZG1UJ2oZgrSmxmr_KV3tilr5BRYkvRBltql3LOL0bNsy8EF6RYmvrXnNGUzgsRhWdhNfUqj3lsk89DCIXKftS839fbj/s716/80773.png" group-title="🔹Sports",Fighter
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTVLCOPT:http-referrer=https://mnogotv.com/
+#EXTVLCOPT:http-origin=https://mnogotv.com/tv/match-boets/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/112/index.m3u8
+https://cdn.mnogotv.com/s/3/tp27q6/a/p9xM-uceMxt8iij85OhM4w/SE8JXzWcxwhgU8ZFycCxBuJaLN4mTgYUbXg6MyWx3fmDh3c87H_if71c350Zq8yL8ap40mlosf0iSnLJZaIGeCYwVKxIj0DgbRh7gdD2_7hgrOs1dNxTOAwANoHnvMFeAWWE_V-W9VF-gt-HGP9ypJGNbxg9Cst6ZZQHeLP_cDM9KnpYcpvqoBiGNO91IgXpc2wVjyBZ0tTqQGNhrmJGaiLy_n5x0HXvseBnVPclrSlmwA
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim8a4MGeauu7lBlKsN0H0mvx4txbUIyFpjpeAapFEjGsQgAYMH8KPXlUObfphMT-mnbTphRA61ViKdROBYY_og3OWc-Nd8Va52qZdoHzPm0lgSiJ_0UxqZQIof0t8XUUaJUqWyxPGb9OlZBplEQ0m_waZov7OGJkVtB3LQ1gl9_o34n2tiV3M5JK9KSEqu/s759/80776.png" group-title="🔹Sports",Fite
 https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
@@ -2400,20 +2401,22 @@ http://206.212.242.21:8080/live/4abYcSzugD/7732488130/15949.m3u8
 #EXTINF:-1 tvg-id="ESPNEWS" tvg-name="ESPNEWS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK81A9MJsfVul-pdoVTblDLjsRQiB7ZGoOiXsmMPV6xOCTthVqbyE8FA2RJjFTQZ9JuX-R3wmzsj5apxgjQ6BPo9FmsipsOH6YGZwNxKh83J0KMzOgZBk76_B08jPInUOSlJ76On-4NRL8jPzzEwQFkk7VXfUmjFeoXx8znVXj23Ol3fJadKrO1Mjg2Np7/s547/80869.png" group-title="🔹Sports",ESPNEWS
 http://206.212.242.21:8080/live/GsPDfRs2H/Grade100/15952.m3u8
 
-#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! ТВ.ru" tvg-logo="https://i.postimg.cc/wBmYfnMN/Match.png", Матч! 🇷🇺
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wBmYfnMN/Match.png" group-title="🔹Sports",Матч! 🇷🇺
+#EXTVLCOPT:http-referrer=https://mnogotv.com/
+#EXTVLCOPT:http-origin=https://mnogotv.com/tv/match-tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/169/index.m3u8
+https://cdn.mnogotv.com/s/3/tp284l/a/Ufx3ud95x85j_raAAp9YsQ/SNRzuMhu9v7aEFTX2VFBydVJC3ujbYfccfP7hPsVvPPe_sY8OphT2KYyxV2aL6yGO_88bGdZ8wYZGovaD_Cf6OdZIGO90DqUveO_gZ59Je1sEFF4DxEVtq8D1k7df31sK184Y08ASzsKtaqi0bju_xpiRzsD5BIpi78aRBRr-DlK7jVDdqSk7_QxMajaC2esB0y_dC9EqT5Kjdq8KWskGVsJfnVjFVm4tKteqdCbLXg4ZGc
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZCR7t7g/3z9.png" group-title="🔹Sports",Матч! Боец  🇷🇺
 #EXTVLCOPT:http-referrer=http://stream.mcquack.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 http://stream.mcquack.net/112/index.m3u8
 
-#EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! Арена.ru" tvg-logo="https://i.postimg.cc/nzrBfY8c/Match-Arena.png", Матч! Arena 🇷🇺
-#EXTVLCOPT:http-referrer=http://stream.mcquack.net/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nzrBfY8c/Match-Arena.png" group-title="🔹Sports",Матч Арена 🇷🇺
+#EXTVLCOPT:http-referrer=https://mnogotv.com/
+#EXTVLCOPT:http-origin=https://mnogotv.com/tv/match-arena/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://stream.mcquack.net/163/index.m3u8
+https://cdn.mnogotv.com/s/3/tp2893/a/l0obMZJh4K2qkuLLU9tvJQ/3I91u5onjkccyKbm8z1fEfLJn6F_j6yUXZ7C1qnj0lnvSpyp1TfQiKBOxTvxp7OrbO_R1rKSbNj2F3uMC1TbUwWDB1U1fMAD7tNwQaOxg2bpQ_pvCcwKtaHgzEANCDsEBwbzIu_PUhXley5vZQzEN80h1s8pyTZJtRJUOlNT7vWg2UqOJUJqtYmSFu4_hkRPW4px763PRzZnwTi4-K4IJEWh8OpADvAfUB0G_CUE6i-7Dw
 
 #EXTINF:-1 group-title="🔹Sports" tvg-id="Матч! Боец.ru" tvg-logo="https://i.postimg.cc/0QSmN5Qb/Match-Fight.png", Матч! Fight 🇷🇺
 #EXTVLCOPT:http-referrer=http://stream.mcquack.net/
@@ -4849,7 +4852,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=dora-tv
 
-#EXTINF:-1 tvg-id="SouthPark.ca"" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-lGfC5H8ppilnvuNLcwNBVamCmWcdQOzNdXQ_j9ekkQOo4YX94VcYkpobIehm4Vs3QyvTanJAzl9UN1-p3xw1wwmNXLHqm4Kfr2erUWEwKz9lTgwqpBvfcKzE5Ldg1tTAYpkmDAA9QX6I0gMAJLxIU7j9hob8FV1TMCZhR2PKWfq5egMDa1E2We83UhOl/s1024/80926.png" group-title="🔹Kids",South Park
+#EXTINF:-1 tvg-id="SouthPark.us"" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-lGfC5H8ppilnvuNLcwNBVamCmWcdQOzNdXQ_j9ekkQOo4YX94VcYkpobIehm4Vs3QyvTanJAzl9UN1-p3xw1wwmNXLHqm4Kfr2erUWEwKz9lTgwqpBvfcKzE5Ldg1tTAYpkmDAA9QX6I0gMAJLxIU7j9hob8FV1TMCZhR2PKWfq5egMDa1E2We83UhOl/s1024/80926.png" group-title="🔹Kids",South Park
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=south-park
@@ -4876,6 +4879,11 @@ https://tvizle.tr/api/yayin?c=pbs-kids-alaska
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=cartoon-network-us
+
+#EXTINF:-1 tvg-id="SouthPark.us"" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil9dYyCMtZYMy4yh_UuN0goMuQ14ft0_ZkVlxUWSGWIyX31E8ZYB53VxBskJnW6Qifxx2SR6wX1gJlVsYM6JcAseQl0cyYaoJa3BGcIGAQuY78_7MgOqr5x0EJeqbs-8S7WF5TbjOObidB7V3Cc_3oWaSQ8Sw0H7wZaZevHUV0FQXlCTzvahPifsom0sVc/s1600/90761.png" group-title="🔹Kids",Forever Kids
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=forever-kids
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjER0381V34Ib9OHYvO-WbZB1EGHR68s3uPCGpjGg1us6hFSj3n9KqL0KpDoAusNve9Yq8cbgu1JHdl69KXBUKhng9KJh6-Hu4jQa1pWo3o0UnFOAGoDXsd7B9QaqIg4PmGr6tpkZcl9mwSUZ0DNLLZJVxJUTm6PUTKPZjYpfiprtM6fUz9O0c-15-jp7gu/s1920/81336.png" group-title="🔹Kids",Cartoonito
 #EXTVLCOPT:http-referrer=https://tvizle.tr/
