@@ -2154,6 +2154,12 @@ http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxDFS4Syn8uqAe7UuF6rH-BS_ehrzuFcyiPEmbknyi1f8D89Ln9VJp14PseqnCjqUmq5xOLSYNBn3rJDb3rRq64EpTiVSNPx3yUR7fI-QSN-MWUr3xWHLRjyunJ7U16KciNNLHAdNJxCWOz6b2_pFak2Zq1CV4bvWShlP_NS1hTGafTiWTb8sTN_L-hI1O/s1200/80786.png" group-title="🔹Sports",Extreme Sports
+#EXTVLCOPT:http-origin=https://tvcdnpotok.com/
+#EXTVLCOPT:http-referrer=https://tvix.live/extreme-sports.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvcdnpotok.com/pswIk3AED0NLiIcX2sGfKA/2032/1795618969/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSsjLqmLCP-qIBLJqclXNAJBzWvb1F1xdrZCWbQEp5N-ixCDkzIKIlXs34u6Mp3Ir_hOPUuwzHioNf8ONpZxGOUiqvPkrOHPUF3LVeSs0KrVApqU_z_8GOgJh0F-5-kRKTMKCVoju8LtA05le3ddiJ7ctazHaVMkT4UAvjUuMqv2ob0s_nmm6UG3ERZAPK/s877/80719.png" ch-number="" group-title="🔹Sports",One Championship TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
@@ -2253,10 +2259,6 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="0128b5f756acf1e1c488509fd76b0a61" tvg-id="0128b5f756acf1e1c488509fd76b0a61" tvg-chno="265" tvg-name="🔹Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwl5tAl6zrPgQtYEnJ7a5wm4FI2G1s4PQxmGDzrHsJntQafVMq3RrXU8_4w8bAqMh7kCTyG_qMLU_9zZr5hh-0ecFSm2RgaCBCCW_dMvsJTegH4_nzmQXgeb6nUUxLu6zPBfTiPsza-mO2RYWB2E3u8ZMV5JDfDyFXVkQTJgZl3kLAUeso06Vt52CCRrim/s2207/80780.png" group-title="🔹Sports",X Games
 https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxDFS4Syn8uqAe7UuF6rH-BS_ehrzuFcyiPEmbknyi1f8D89Ln9VJp14PseqnCjqUmq5xOLSYNBn3rJDb3rRq64EpTiVSNPx3yUR7fI-QSN-MWUr3xWHLRjyunJ7U16KciNNLHAdNJxCWOz6b2_pFak2Zq1CV4bvWShlP_NS1hTGafTiWTb8sTN_L-hI1O/s1200/80786.png" group-title="🔹Sports",Extreme Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/144/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK6ERA9N8uY8KRaKFafuHcQqINxoIVOTPcIagmCrXdE-PyEUCA7CE6BvdYxSnOiVyeAhhpRGBVCJsxOShjK5kHG1Tm3PUkWoes0pQSXNLSekIh6TtfHl_hpQIflpNXA0Vn0Mzvd7FmkEAzwX9X4eBddj4gBC3OEfkiUSIQVSRcS1HCmaZ9PXRcSe3gijov/s547/80789.png",Sport+
 http://smotrim.org/000008731.m3u8
@@ -2470,10 +2472,12 @@ https://video.beeline.tv/live/d/channel423.isml/manifest-stb.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTGJF9PV/Set-Sports.png" group-title="🔹Sports",Setanta Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-http://rodnoetv.com/tv/000004498/mono.m3u8
+https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/MpS3xQHZ/Set2Sports.png",Setanta Sports 2
-http://rodnoetv.com/tv/000004499/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MpS3xQHZ/Set2Sports.png" group-title="🔹Sports",Setanta Sports 2
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=setanta-sports-georgia-ge
 
 #EXTINF:-1 , tvg-id="" tvg-logo="https://i.postimg.cc/brYXpYPy/Joj-Sport.png" group-title="🔹Sports",Joj Sport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2499,7 +2503,7 @@ https://stream1.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/166/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🔹Sports" tvg-logo="https://i.postimg.cc/kG9KLDcv/Belarus'-5.png",Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 
 #EXTINF:-1  tvg-id="Sky.Sports.Cricket.HD.ie" group-title="🔹Sports" tvg-logo="https://assets.goal.com/images/v3/blt46f04697e50c5900/sky%20sports%20logo%20image.png",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://www.screenify.fun/
