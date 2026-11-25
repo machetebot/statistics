@@ -2159,17 +2159,16 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 
-
-#EXTINF:-1 tvg-id="UDAR.ru" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkIvDwVKtlim-oXNHYnSvx2iSYK5p8ilGo5miG4GT3VrwwbaBLae7xROCO4suh5NtfU-l-uTRW0gl0oVH0mqFW4hyHJ-GwuyABGe5uh8ICPAyyLoLrSEXT_CCYUHy8o78FWFX2FzuXmy-PS1WMTRmfDzZvR7ek4tRqrmg82uWQkIxoRq5tzyIML-SfxsO-/s899/80731.png" group-title="🔹Sports",Russian Cagefighting Championship
-#EXTVLCOPT:http-referrer=http://mcquack.net/
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkIvDwVKtlim-oXNHYnSvx2iSYK5p8ilGo5miG4GT3VrwwbaBLae7xROCO4suh5NtfU-l-uTRW0gl0oVH0mqFW4hyHJ-GwuyABGe5uh8ICPAyyLoLrSEXT_CCYUHy8o78FWFX2FzuXmy-PS1WMTRmfDzZvR7ek4tRqrmg82uWQkIxoRq5tzyIML-SfxsO-/s899/80731.png" group-title="🔹Sports",Russian Cage Fighting Championship
+#EXTVLCOPT:http-referrer=https://mnogotv.com/
+#EXTVLCOPT:http-origin=https://mnogotv.com/tv/udar/?ysclid=mwvnwm3hr812878633
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://r2.awmcdn.link/r2/memfs/PV1DuWtzQRvX7VgJeAVZcg:1795210114/34d3e7f6-6bbe-406e-bf70-2442b9cfc023_output_0.m3u8
+https://cdn.mnogotv.com/s/3/tp1wnf/a/6ajPwtLzsl4USJ55mQnckw/ucsQGgsQ1EjYwTmtUB181h5FfIQh8DTpDhhegDk2hObOFCHYo0Q2_InKZRzHYZyvHVZXefCcAgJLdXOg7DIYvcphKHIBT8iRgvIU005UW-b5aunRgQTIiGuJ0QHhVm0j3aJJiqlkmGVRWwAfpIlN5m8hvX8HPQNP1EUUVbXTtKNOEhpqG4xEHUDOADjsAU_-e_tXq9OxvAmxcKLIJ1FY0_rJK4_zgIMBxh9cagnhbW9siG5k
 #http://stream.mcquack.net/279/index.m3u8
-
 #http://rodnoetv.com/tv/000007802/mono.m3u8
 #https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
 #http://tvset.org/ch/000007802.m3u8
-https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
+#https://s70378.cdn.ngenix.net/ufc/1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="UFC.us" group-title="🔹Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtndCJ0MM_gSz4SQXBEsHQ_O0P5oewpfGxrhWkRW1kCDXu6138Rj3wRbhHf65lX2YtqDg0ySV67WGM7fouQi8YV4zNPc3enbvJgODrkUmYe4diaLR6rk9D4W5ujgwZOrB2aD-c1WTnbRt5EPzCAGCRMrnQaSVltiI2ACpPYNpWgBOPDroGFtIE6f5yFjSN/s1920/80732.png",Ultimate Fighting Championship
