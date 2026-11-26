@@ -4778,7 +4778,9 @@ https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 
 #EXTINF:-1 tvg-id="IronChef" tvg-logo="https://i.postimg.cc/W16ggTjf/Iron-Chef.jpg" group-title="🔹Kitchen Show",Iron Chef
-https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6707cfa5da81682f2d1e6837.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=zW9_MadMxXLAnuQTPwVy&auto=0
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884648/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=ironchef&ads.channelId=88884648&ads.channelName=ironchef_us&ads.csid=tcl2_us_ironchef_ssai&ads.genre=Reality&ads.xumo_channelId=88884648&ads.xumo_channelName=FilmRiseIronChef&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_streamId=88884648&declaredCC1Language=en&includeAssetTags=true
+
+#https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-6707cfa5da81682f2d1e6837.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=zW9_MadMxXLAnuQTPwVy&auto=0
 
 #EXTINF:-1 channel-id="mjh-10-masterchef" tvg-id="mjh-10-masterchef" tvg-logo="https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png?image-profile=logo" group-title="🔹Kitchen Show",MasterChef 
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
