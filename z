@@ -2154,11 +2154,11 @@ http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxDFS4Syn8uqAe7UuF6rH-BS_ehrzuFcyiPEmbknyi1f8D89Ln9VJp14PseqnCjqUmq5xOLSYNBn3rJDb3rRq64EpTiVSNPx3yUR7fI-QSN-MWUr3xWHLRjyunJ7U16KciNNLHAdNJxCWOz6b2_pFak2Zq1CV4bvWShlP_NS1hTGafTiWTb8sTN_L-hI1O/s1200/80786.png" group-title="🔹Sports",Extreme Sports
-#EXTVLCOPT:http-origin=https://tvline.live/
-#EXTVLCOPT:http-referrer=https://tvline.live/iframes/sportivnye/extreme-sports.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVcpdf72ssSBGGJ87omcGKvBlk3lg3nerKtaG7600xQ8KruWfYGzW2Nnlt2LIwzSHbk95H1Pmhcisn-3UWIfMwRp4cs0heNEq9ThVd9hyphenhyphenzieX2FnpRMO6mztRxcJnUnS2g9oZfUbmdw-Qff6GDqXwAIYFZlNtvLLKkkWoYeqrJZDCNMrja2qbH7XHYByK0/s1600/91138.png" group-title="🔹Sports",Extreme Sports
+#EXTVLCOPT:http-origin=https://cdntvmedia.com/
+#EXTVLCOPT:http-referrer=https://cdntvmedia.com/sports/extreme-sports.php?sp=5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://tvcdnpotok.com/2HBwpNjpeNeD5C9H99YEeA/2032/1795667265/index.m3u8
+https://tvcdnpotok.com/km-_Jg3kuxkWREqbHKnEpA/2032/1795714738/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSsjLqmLCP-qIBLJqclXNAJBzWvb1F1xdrZCWbQEp5N-ixCDkzIKIlXs34u6Mp3Ir_hOPUuwzHioNf8ONpZxGOUiqvPkrOHPUF3LVeSs0KrVApqU_z_8GOgJh0F-5-kRKTMKCVoju8LtA05le3ddiJ7ctazHaVMkT4UAvjUuMqv2ob0s_nmm6UG3ERZAPK/s877/80719.png" ch-number="" group-title="🔹Sports",One Championship TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2245,7 +2245,7 @@ https://cdn.mnogotv.com/s/3/tp1zry/a/oolNA3HYqZwctxHzTDx61Q/Nu0ASWWpoiDMLf9UsBPw
 #EXTINF:-1 tvg-id="Fightplus" tvg-logo="https://raw.githubusercontent.com/fjaee/fctv/master/images/ch_fight_plus.webp" group-title="🔹Sports",Fight+
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTnyNa3_N8T4lVydoyXwJsy_CQ9SqvkJpMFX1h1N3ITDBv2Bvdxe75fG7piGz47UDK0n6EJqGCOTF4-AnD5ZLaQ_lrCUaM0jqZYZG1UJ2oZgrSmxmr_KV3tilr5BRYkvRBltql3LOL0bNsy8EF6RYmvrXnNGUzgsRhWdhNfUqj3lsk89DCIXKftS839fbj/s716/80773.png" group-title="🔹Sports",Fighter
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheLhoC5RtQubiGC2oiZdgibKWNuJ7c27PFu76dCvS5a0Kwp1Xry86ukkG52I-yPgYnKlTdJ1cfLgllB7QI0TojzWSZu80kEWxcG845Zq_Hj7jNnD-ztWP_9W5GtoTV8HXV1IYe8lL32FQGMO8OGiT694hgyarovWHaBrDQzxIzosd1IjNECv8NkBIVioLZ/s1600/91119.png" group-title="🔹Sports",Fighter
 #EXTVLCOPT:http-referrer=https://mnogotv.com/
 #EXTVLCOPT:http-origin=https://mnogotv.com/tv/match-boets/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
