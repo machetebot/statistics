@@ -2155,6 +2155,9 @@ http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
+#EXTINF:-1 tvg-id="UFC.us" group-title="🔹Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5tUkVBiDGOyNw5adO-xaTzB_wizedGUzXCccSwHbS4y4hIAPYfSW4WL6w2BE7agFDIBvq-eJ7o72ziHWkFfO9P4lg_Uvx7XkregtPZvl9JKgkko8oA1LBULTCj_CCA3UhjTZuIhs0bPqM64WLxXvqhxKbl1gWJfOwhFgzpPlRr8CSDGDKn87RGKYqq_rC/s1600/91192.png",Spartan Sports Channel
+https://fb28e6da.wurl.com/master/319dc4325e352117ff2ba16d22f2fb8968990c39/U3BvcnRzVHJpYmFsX1NwYXJ0YW5TcG9ydHNDaGFubmVsX0hMUw/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVcpdf72ssSBGGJ87omcGKvBlk3lg3nerKtaG7600xQ8KruWfYGzW2Nnlt2LIwzSHbk95H1Pmhcisn-3UWIfMwRp4cs0heNEq9ThVd9hyphenhyphenzieX2FnpRMO6mztRxcJnUnS2g9oZfUbmdw-Qff6GDqXwAIYFZlNtvLLKkkWoYeqrJZDCNMrja2qbH7XHYByK0/s1600/91138.png" group-title="🔹Sports",Extreme Sports
 #EXTVLCOPT:http-origin=https://cdntvmedia.com/
 #EXTVLCOPT:http-referrer=https://cdntvmedia.com/sports/extreme-sports.php?sp=5
