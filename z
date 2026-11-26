@@ -2155,10 +2155,10 @@ http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxDFS4Syn8uqAe7UuF6rH-BS_ehrzuFcyiPEmbknyi1f8D89Ln9VJp14PseqnCjqUmq5xOLSYNBn3rJDb3rRq64EpTiVSNPx3yUR7fI-QSN-MWUr3xWHLRjyunJ7U16KciNNLHAdNJxCWOz6b2_pFak2Zq1CV4bvWShlP_NS1hTGafTiWTb8sTN_L-hI1O/s1200/80786.png" group-title="🔹Sports",Extreme Sports
-#EXTVLCOPT:http-origin=https://tvcdnpotok.com/
-#EXTVLCOPT:http-referrer=https://tvix.live/extreme-sports.html
+#EXTVLCOPT:http-origin=https://tvline.live/
+#EXTVLCOPT:http-referrer=https://tvline.live/iframes/sportivnye/extreme-sports.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://tvcdnpotok.com/pswIk3AED0NLiIcX2sGfKA/2032/1795618969/index.m3u8
+https://tvcdnpotok.com/2HBwpNjpeNeD5C9H99YEeA/2032/1795667265/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSsjLqmLCP-qIBLJqclXNAJBzWvb1F1xdrZCWbQEp5N-ixCDkzIKIlXs34u6Mp3Ir_hOPUuwzHioNf8ONpZxGOUiqvPkrOHPUF3LVeSs0KrVApqU_z_8GOgJh0F-5-kRKTMKCVoju8LtA05le3ddiJ7ctazHaVMkT4UAvjUuMqv2ob0s_nmm6UG3ERZAPK/s877/80719.png" ch-number="" group-title="🔹Sports",One Championship TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
