@@ -4700,6 +4700,9 @@ https://tvizle.tr/api/yayin?c=stingray-iconcerts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=trace-gospel
 
+#EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPzGmKGs1sZhRc1QRkwca5cZ4iF_PHVTOxJL1oMYncsb2WmEAcAHch-3j8pKaZafBrtCoYMEZnxC7CM9fqmuoDSnOqRiyoHjX5yxqnOvCdHH8IL9Tnk0LOgDTyXUIiVbItnHxwnQ6eFPlI4U5bMqqKWajzmGYRxsDjpUs6ecA9ZpFdsjLjhjwbOLjoHVgu/s1600/91189.png" group-title="🔹Outdoors",Drone TV
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBRJH6QIipbgOSUD7aVt38jjbmrhRkVgpSVq8uvShDF3upKEv1NEBZH_Wyx_EyegHS5HlJqOSshDavGmaHucUhxkaBvYmiIf0yipSfZV7jE5jwBmhwAB250yOQVFhib43Cr5_N5FLOzIefkCRuxTl7U2IcVIunhrzqGaDDFOrcINOw2_rLyAYhQvwWEJST/s1600/91159.png" group-title="🔹Outdoors",Spike Outdoors
 https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
 
@@ -4721,7 +4724,7 @@ https://amg00436-amg00436c7-osgviewlift-us-6738.playouts.now.amagi.tv/playlist/a
 https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKxJOnD4VCBUHu4HPfBkZzKizrli9UV62ExxfEU7HiGuhu_GRwHFDZQCwnIuus2pnfLk9hgomcwKi6keRL7okJcIM_oMhb98m4bHw21nZXBQqqoU38iDXTaANlN45EFvzEWf1Am0qTuI9QiBaA2SVNJJUZsSFqshDPbiovX4wDvJBeTCYwsoy59mErz5iY/s1600/91174.png" group-title="🔹Outdoors",Waypoint TV
-https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/1080p-cc/index.m3u8
+https://amg00381-waypointcommuni-waypointtv-vizious-v9qqa.amagi.tv/playlist/amg00381-waypointcommuni-waypointtv-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="H20TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim3zadOsmFMdRw3uFHJd5cIq2VT17riirpcEN-xLgO1uYXMddVCR63xfO3BF37cAS1SVhg_1Obv3qnoJR-2CZmthq1Q_12TXC0JqX3w2bNJzQw6yLUWmETFzgo2qE0S9pzgn_x0idGZpoWnDrJPVSqnnpb4lIp9333_5Qkg9u2jMbFFLZmrk7yGjylens9/s1600/91177.png" group-title="🔹Outdoors",H20 TV
 https://a-cdn.klowdtv.com/live2/h2o/playlist.m3u8
@@ -4753,10 +4756,10 @@ https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/B6Zv2S7d/Surf-Cinema.png" group-title="🔹Outdoors",Surf Cinema
 https://amg13231-actve-amg13231c4-plex-us-1821.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-plexus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NauticalChannel" tvg-logo="https://i.postimg.cc/cH8dRvMB/Nautical-Channel.png" group-title="🔹Outdoors",Nautical Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFJEkPvu4mdaIX4zmFLRiHcw5PI-TxbTz4ptX1-zL5tk3n1GKF6hYdNpg6t6rogpfu20W1i13hUZ2rNb3ObPLrms_mCAlVJb45mnc42ECKP8sBxdpwlQ4DN-NqOJFbzrmSXNOK2GY9_IT7jiAn_yJpCS-5SKz3xdi_2XTFIE1n8fH9sitre5N08dOccEH/s1600/91187.png" group-title="🔹Outdoors",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PursuitUp" tvg-logo="https://i.postimg.cc/KzhHW4hn/Pursuit-Up-TV.png" group-title="🔹Outdoors",PursuitUp
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiosNXIWIsefbzCwp56RsAdvUo2bLKv68q9fGEjBfTisQyxtPdHkdnJqEwk1pnjYqf3afC2zP76QzVxNeanzJ7moTDkLIYRDJ521W4_KCdJwiHqfSpLwmjyNrMW-BJxK-EljJu4px0u2jgoP6ZLgB6Qm84dwz15MAkHfFNvG4IJ_mYGRdXva_oj6EbeeovU/s1600/91185.png" group-title="🔹Outdoors",PursuitUp
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 
 
