@@ -1903,6 +1903,8 @@ https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333
 #EXTINF:-1 tvg-id="TrueHistory.us" tvg-logo="https://i.postimg.cc/nhxCGc8w/TH.png" group-title="🔹Documentaries",True History
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaIbk3JyBSRoLhR7LU54WjZumwNbDwOU2pE2Ef0YzR0z4irUZ_rFsRLBLWOG8fyTyvaN4Gg43AJVBcLhm6e_RqWv-JHpZlL07WGwuteWxPKSWd-_GGHkKccU0RMc4Pb-wWPZVdFSaTqzHr97JhXt0s321uTtyocy4J9m_dnqraH_uMUhdRMVK6a9Gw3iJ0/s1600/91230.png" group-title="🔹Documentaries",Mysterious World #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=5d264da818cdcc2b79aed140c7513d30:f72e7aee419cfb474ee38ba664c5edef https://a51aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/9w8aklof7x/out/v1/9d30f39ba2464bb4a764e337ba0f03ad/cenc.mpd?encoding=segmentBase 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfvP71d9/Xtreme-Outdoor.png" group-title="🔹Documentaries",Xtreme Outdoor by HISTORY
 https://d2aefbad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX1NraWxsc0FuZFRocmlsbHNfSExT/playlist.m3u8
 
@@ -1934,7 +1936,7 @@ https://zharlzzz.short.gy/PMrNyR
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"A--I3xpHZp5UWeEF47U1sQ","kid":"J2dnpXiq4urLKEJHzNnrEA"}],"type":"temporary"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd|User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="discovery" tvg-logo="https://i.postimg.cc/HxKnPSgT/DCHDz.png" group-title="🔹Documentaries", Discovery Channel
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://i.postimg.cc/HxKnPSgT/DCHDz.png" group-title="🔹Documentaries", Discovery Channel 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
