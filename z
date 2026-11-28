@@ -2741,6 +2741,11 @@ https://one.okeyrtm.workers.dev/smil:sukan/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942479150061_AiHD.m3u8?txSecret=bac50df0badb16e877de7284d1810500&txTime=6A18D700
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXapwxc6p_CMmy_HIry687kuyv9jzjR7X7MfkTsehau6yMamQ8JxaPYv9JsFo3qchHJtGRN4HxvYGfNHMfQBlB1vKFcHwj0NTLSLvjpdsL7c5U20g9LdYz8hueDajDIqDqCzr0kmj3ITZer5-eFcvwNleyQv44Jf0rI_p-Opf_zrNmCokwEQv6e4OJhrRO/s1600/91218.png" group-title="🔹Sports",Eurovision Sport
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=eurovision-sport
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sxK0cBbY/Vital-Sport-Drive.png" group-title="🔹Sports",Vital Sport Drive
 https://tv.a21network.ru/stream/37909/index.m3u8
 
@@ -2748,9 +2753,14 @@ https://tv.a21network.ru/stream/37909/index.m3u8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000=20002.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMmjVQbM/TVR-Sport-Logo-2023-svg.png" group-title="🔹Sports",TVR Sport
-#EXTVLCOPT:http-referrer=https://canale-tv.net/
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://atlantida1.aquax1.cfd/tivisp/usergendl3f9xgfm1s.m3u8
+https://tvizle.tr/api/yayin?c=tvr-sport
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV87DpnBm0c81Nu0kXv2Sru-uXdJrUImyfUI1iJIqyrK5Nh9p8W5o7gZFmUGvDxhOJ2WhiemntBBhVTEAw5DCt_Mw5CECYlryr79g2QCik1qnHOwMTxGAavNhqOQIJ9vd60UO7ukFNASlW-1coM1bo3opUE28KtXUJyGLUEaWhX1HNk7OTA2hlKaT5KHb8/s1600/91216.png" group-title="🔹Sports",TyC Sports
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=tyc-sports
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9fHnC4zW/AYM-Sports.png" group-title="🔹Sports",AYM Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13843&avod=1
@@ -4718,7 +4728,7 @@ https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
 #EXTINF:-1 tvg-id="WickedTuna.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikifIdgfPUhOKTAGzIhZV0N8-3bEF7jJOL6IZKcsXlDgtSj8LWwALkmlykXqaNiibCAZnrdYKp-ePsVaAAWQUUh56hclpNTFzN5hqITHF-Z-F1TzaPiFzCbcc2727Fj5SvOdVEDer38uNmigVPh5T_YJL0iKVrQ-jtSEhux5HgYRhcuUUN9lBKs0VUB4MC/s1600/91156.png" group-title="🔹Outdoors",Wicked Tuna
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Wired2Fish.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz_V_WgMpzzP8ON0QdCdlCv0hNBbcBO6DAwzlKqWycl3yHrVQrCPQPPAorjygEWv9y-5ZIcOhvN_natuzDOJ1mdyd9n_5S8XIRHZ31FHlc1DHQqxROWW-u2Dj8s-N0T1q94LUfBESflvUHA1J2YaSy7NaFx5iol0Ee1hw1OdoAECBOdB6TJ60GiBtbomez/s1600/91161.png" group-title="🔹Outdoors",Wired2Fish
+#EXTINF:-1 tvg-id="Wired2Fish.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNudfV5yZjBMBGYVfBvcnrJkdU0Mgal4wT6A-gfhZbUOJbd9i5AstU4oXIzLnOPAtGrwh8OMnPMvhQzxf1dUtcere1-XhVrKs8N3ZkMHvlBbU9QtMImMShZkZpqEG-oDYlW89ODWeEttBM3C3cQfP99qMuBdz3YAaxQE6B-jrBB_yZTd_Fdx1YCf0KimCs/s1600/91202.png" group-title="🔹Outdoors",Wired2Fish
 https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/mt/sportstribaltv/80/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwHl_u54nGgXNbyFBSqDhO0zUNBdViorn4exipBAceTEMA3JbjtswdJQwVECO_Hu5CRz4yn2GxKwPoZCQVG29EKZXWQ6gIewZFekiNBaeiP-A4ucs84VNqUVnXdWgBuz_gIq4W3dpJqiPx5t8zxTWGHeahnA-1ujj7CO9HekLOSbT0Nw-3M_Ot6HZc1Luv/s1600/91163.png" group-title="🔹Outdoors",Bass Master Channel
