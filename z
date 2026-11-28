@@ -2762,6 +2762,16 @@ https://tvizle.tr/api/yayin?c=tvr-sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://tvizle.tr/api/yayin?c=tyc-sports
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFZ_3oVeC-Yc5GvWkJGE-f9xlLIgwXtTvdrKe87nUnYx8CpSz22gdbNg5ugYOjLAVOaSKqi025w2pSe4AMrdxxgqw8gaAN33UwWP477X70Ij6oDBN5Span65CirNzTPjniSR251esjtNywpcTK9lBVWBQyP17MSthbh8iaJa5peOzTD9D-TF9e7FILMO2D/s1600/91223.png" group-title="🔹Sports",MUTV
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=mutv
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMqYKC2qhHOZA9GveaJpsTBhK_5WoDAY81vZrWcv0v2TNzZqg2GaDoltU3hqfIIDAFeV_PrYWREC5E74U9ymNpLKC5JcbvCBPIksXyzaa2MPvtDnrkNKfxyikNiCszLUGQ_-f8WU0srdCxMxni1awEmMN5BQdLkZOcPRHthqMURozzSeoXD0olnbbkBPqY/s1600/91224.png" group-title="🔹Sports",Oman Sports
+#EXTVLCOPT:http-referrer=https://tvizle.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://tvizle.tr/api/yayin?c=oman-sports-tv
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9fHnC4zW/AYM-Sports.png" group-title="🔹Sports",AYM Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13843&avod=1
 
